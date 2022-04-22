@@ -6,6 +6,7 @@
     <HappeningHome></HappeningHome>
     <AboutHome></AboutHome>
     <TicktsHome></TicktsHome>
+    <SpeakersHome></SpeakersHome>
   </section>
 </template>
 
@@ -16,6 +17,7 @@ import InformationHome from "./Components/InformationHome.vue";
 import HappeningHome from "./Components/HappeningHome.vue";
 import AboutHome from "./Components/AboutHome.vue";
 import TicktsHome from "./Components/TicktsHome.vue";
+import SpeakersHome from "./Components/SpeakersHome.vue";
 export default {
   name: "HomeView",
   components: {
@@ -25,6 +27,7 @@ export default {
     HappeningHome,
     AboutHome,
     TicktsHome,
+    SpeakersHome,
   },
 };
 </script>
