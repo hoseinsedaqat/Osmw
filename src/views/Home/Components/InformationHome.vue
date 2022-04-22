@@ -81,7 +81,7 @@ export default {
 }
 
 .infoStickers {
-  margin: -1.5rem 0 0 0;
+  margin: -1rem 0 0 0;
   width: 200px;
 }
 
