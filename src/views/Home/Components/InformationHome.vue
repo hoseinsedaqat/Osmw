@@ -102,5 +102,10 @@ export default {
   .informationBtn div:nth-child(2) {
     text-align: center;
   }
+
+  .pinkLayout,
+  .pinkLayoutChild {
+    display: none;
+  }
 }
 </style>

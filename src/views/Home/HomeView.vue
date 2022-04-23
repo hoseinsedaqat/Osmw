@@ -7,6 +7,9 @@
     <AboutHome></AboutHome>
     <TicktsHome></TicktsHome>
     <SpeakersHome></SpeakersHome>
+    <SponsorsHome></SponsorsHome>
+    <FormContact></FormContact>
+    <FormContacts></FormContacts>
   </section>
 </template>
 
@@ -18,6 +21,9 @@ import HappeningHome from "./Components/HappeningHome.vue";
 import AboutHome from "./Components/AboutHome.vue";
 import TicktsHome from "./Components/TicktsHome.vue";
 import SpeakersHome from "./Components/SpeakersHome.vue";
+import SponsorsHome from "./Components/SponsorsHome.vue";
+import FormContact from "@/components/FromContact.vue";
+import FormContacts from "@/components/FormContatcs.vue";
 export default {
   name: "HomeView",
   components: {
@@ -28,6 +34,9 @@ export default {
     AboutHome,
     TicktsHome,
     SpeakersHome,
+    SponsorsHome,
+    FormContact,
+    FormContacts,
   },
 };
 </script>

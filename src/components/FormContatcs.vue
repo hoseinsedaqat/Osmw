@@ -1,0 +1,146 @@
+<template>
+  <section id="formcontacts">
+    <div class="container">
+      <div class="row mt-5 mx-5">
+        <div class="col-md-6">
+          <h3>Contact Us</h3>
+          <p class="mt-3">
+            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+            doloremque laudantium
+          </p>
+        </div>
+        <div class="col-md-6 my-3">
+          <img src="@/assets/Images/ContactUs.png" alt="" />
+        </div>
+      </div>
+      <div class="row mx-5">
+        <div class="col-md-6">
+          <div class="form-group">
+            <label for="forname" class="d-block">Your name:</label>
+            <input
+              type="text"
+              name="forname"
+              id="forname"
+              class="w-100"
+              placeholder="Enter your name"
+            />
+          </div>
+          <div class="form-group">
+            <label for="foremail" class="d-block">Your email:</label>
+            <input
+              type="email"
+              name="foremail"
+              id="foremail"
+              class="w-100"
+              placeholder="Enter your email"
+            />
+          </div>
+          <div class="form-group">
+            <label for="fortextarea" class="d-block">Message:</label>
+            <textarea
+              name="fortextarea"
+              id="fortextarea"
+              class="w-100"
+              placeholder="Type here..."
+            ></textarea>
+          </div>
+          <button class="my-3 contactSendformbtn">View All</button>
+        </div>
+        <div class="col-md-6">
+          <div>
+            <h4>Contact Info:</h4>
+            <li class="mt-4">
+              <i class="fas fa-map-marked"></i>
+              <span class="mx-2"
+                >Madinat Sultan Qaboos, Way no. 1947, Villa no. 2551</span
+              >
+            </li>
+            <li class="mt-4">
+              <i class="fas fa-mobile"></i>
+              <span class="mx-2">+968 24694905</span>
+              <p class="mx-3 mt-1">+968 94060921</p>
+            </li>
+            <li class="mt-4">
+              <i class="fa fa-envelope"></i>
+              <span class="mx-2">enquiry@npa.om</span>
+            </li>
+          </div>
+          <div class="mt-5">
+            <h4>Follow us:</h4>
+            <div class="social-icons">
+              <li>
+                <i class="fab fa-facebook"></i>
+              </li>
+              <li>
+                <i class="fab fa-twitter"></i>
+              </li>
+              <li>
+                <i class="fab fa-linkedin"></i>
+              </li>
+              <li>
+                <i class="fab fa-instagram"></i>
+              </li>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</template>
+
+<script>
+export default {
+  name: "FormContacts",
+};
+</script>
+
+<style scoped>
+div li {
+  list-style: none;
+}
+i {
+  color: #00aeef;
+}
+
+textarea {
+  resize: none;
+  border: 1px solid #c8d0da;
+  padding: 0.3rem 0.5rem;
+  height: 150px;
+  border-radius: 10px;
+}
+
+textarea:focus {
+  outline: none;
+}
+
+.form-group input {
+  border: 1px solid #c8d0da;
+  padding: 0.3rem 0.5rem;
+  border-radius: 10px;
+}
+
+.form-group input:focus {
+  outline: none;
+}
+
+.contactSendformbtn {
+  border: none;
+  padding: 0.3rem 1.5rem;
+  background-color: #e6007e;
+  color: #fff;
+  margin: 0.4rem 1rem 0 0;
+  border-radius: 6px;
+}
+
+.social-icons {
+  display: flex;
+}
+
+.social-icons li {
+  margin: 0 1rem 0 0;
+}
+
+@media screen and (max-width: 1000px) {
+}
+</style>
