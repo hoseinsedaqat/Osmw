@@ -17,7 +17,7 @@ footer {
   margin: 5rem 0 0 0;
 }
 
-footer p{
+footer p {
   margin: 1rem 0;
 }
 </style>

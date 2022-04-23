@@ -23,6 +23,7 @@
               id="forname"
               class="w-100"
               placeholder="Enter your name"
+              v-model="name"
             />
           </div>
           <div class="form-group">
@@ -33,6 +34,7 @@
               id="foremail"
               class="w-100"
               placeholder="Enter your email"
+              v-model="email"
             />
           </div>
           <div class="form-group">
@@ -42,9 +44,10 @@
               id="fortextarea"
               class="w-100"
               placeholder="Type here..."
+              v-model="message"
             ></textarea>
           </div>
-          <button class="my-3 contactSendformbtn">View All</button>
+          <button class="my-3 contactSendformbtn" @click="formData()">View All</button>
         </div>
         <div class="col-md-6">
           <div>
@@ -89,8 +92,52 @@
 </template>
 
 <script>
+import axios from "axios";
+// import axios from 'axios'
 export default {
   name: "FormContacts",
+  data() {
+    return {
+      name: "",
+      email: "",
+      message: "",
+    };
+  },
+  methods: {
+    formData() {
+      const validationEmail = /^[\w-.]+@([\w-]+\.)+[\w-]{2,4}$/;
+      if (
+        this.name === "" ||
+        this.email === "" ||
+        this.message === "" ||
+        !validationEmail.test(this.email)
+      ) {
+        this.$toast.error("Please Complete From Data");
+      } else {
+        try {
+          axios
+            .post("https://www.actionforms.io/e/r/hsoein-sedaqat-test", {
+              contactName: this.name,
+              contactEmail: this.email,
+              contactMessage: this.message,
+            })
+            .then((res) => {
+              if (res.status === 200) {
+                this.$toast.success("Email Was Send Thank You");
+                this.name = "";
+                this.email = "";
+                this.message = "";
+              }
+            })
+            .catch((e) => {
+              this.$toast.error(e);
+            });
+        } catch (e) {
+          this.$toast.error("Try Again");
+        }
+      }
+    },
+  },
 };
 </script>
 
