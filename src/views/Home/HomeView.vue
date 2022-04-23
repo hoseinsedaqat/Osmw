@@ -10,6 +10,7 @@
     <SponsorsHome></SponsorsHome>
     <FormContact></FormContact>
     <FormContacts></FormContacts>
+    <FooterApp></FooterApp>
   </section>
 </template>
 
@@ -24,6 +25,7 @@ import SpeakersHome from "./Components/SpeakersHome.vue";
 import SponsorsHome from "./Components/SponsorsHome.vue";
 import FormContact from "@/components/FromContact.vue";
 import FormContacts from "@/components/FormContatcs.vue";
+import FooterApp from "@/components/FooterApp.vue";
 export default {
   name: "HomeView",
   components: {
@@ -37,6 +39,7 @@ export default {
     SponsorsHome,
     FormContact,
     FormContacts,
+    FooterApp,
   },
 };
 </script>

@@ -23,7 +23,9 @@
     </header>
     <!-- for mobile -->
     <nav class="navbar navbar-expand-lg navbar-light bg-white">
-      <a class="navbar-brand" href="#"><img src="@/assets/Images/HeaderIcon.png" alt="TitleOsmw" /></a>
+      <a class="navbar-brand" href="#"
+        ><img src="@/assets/Images/HeaderIcon.png" alt="TitleOsmw"
+      /></a>
       <button
         class="navbar-toggler"
         type="button"
@@ -38,16 +40,31 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="#">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Features</a>
+            <a class="nav-link" href="#">Agenda</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Pricing</a>
+            <a class="nav-link" href="#">About Us</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled">Disabled</a>
+            <a class="nav-link" href="#">Speakers</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Sponsers</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Media</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">FAQS</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Contact Us</a>
+          </li>
+          <li class="nav-item">
+            <button class="hamburgerBtn">Attend</button>
           </li>
         </ul>
       </div>
@@ -94,7 +111,15 @@ nav {
   display: none;
 }
 
-@media screen and (max-width: 1000px) {
+.hamburgerBtn {
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  color: #fff;
+  background-color: #00aeef;
+}
+
+@media screen and (max-width: 1100px) {
   header {
     display: none;
   }
