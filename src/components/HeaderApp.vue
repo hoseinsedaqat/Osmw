@@ -13,7 +13,9 @@
           <li>
             <router-link to="/agenda">Agenda</router-link>
           </li>
-          <li>About Us</li>
+          <li>
+            <router-link to="/about-us">About Us</router-link>
+          </li>
           <li>Speakers</li>
           <li>Sponsers</li>
           <li>Media</li>
@@ -50,7 +52,7 @@
             <router-link class="nav-link" to="/agenda">Agenda</router-link>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">About Us</a>
+            <router-link class="nav-link" to="/about-us">About Us</router-link>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Speakers</a>
@@ -94,12 +96,12 @@ header ul {
   margin: 1.5rem 0;
 }
 
-a{
+a {
   text-decoration: none;
   color: #333;
 }
 
-.router-link-exact-active{
+.router-link-exact-active {
   color: #e6007e;
 }
 
