@@ -7,7 +7,7 @@
           <li>
             <img src="@/assets/Images/HeaderIcon.png" alt="TitleOsmw" />
           </li>
-          <li class="current">
+          <li>
             <router-link to="/">Home</router-link>
           </li>
           <li>
@@ -26,7 +26,7 @@
       </div>
     </header>
     <!-- for mobile -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-white">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <a class="navbar-brand" href="#"
         ><img src="@/assets/Images/HeaderIcon.png" alt="TitleOsmw"
       /></a>
@@ -78,28 +78,31 @@
 
 <script>
 export default {
-  name: "HeaderApp",
+  name: "HeaderAppDark",
 };
 </script>
 
 <style scoped>
 header {
+  background: #1D272E;
   width: 100%;
+  padding: 1.4rem;
+  color: #fff;
 }
 header ul {
   list-style: none;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 1.5rem 0;
+  /* margin: 1.5rem 0; */
 }
 
-a{
+a {
   text-decoration: none;
-  color: #333;
+  color: #fff;
 }
 
-.router-link-exact-active{
+.router-link-exact-active {
   color: #e6007e;
 }
 

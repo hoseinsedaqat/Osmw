@@ -112,7 +112,7 @@ export default {
         this.message === "" ||
         !validationEmail.test(this.email)
       ) {
-        this.$toast.error("Please Complete From Data");
+        this.$toast.info("Please Enter Valid Data");
       } else {
         try {
           axios
@@ -123,7 +123,7 @@ export default {
             })
             .then((res) => {
               if (res.status === 200) {
-                this.$toast.success("Email Was Send Thank You");
+                this.$toast.success("Email Was Send");
                 this.name = "";
                 this.email = "";
                 this.message = "";
