@@ -3,7 +3,7 @@
     <HeaderAppDark></HeaderAppDark>
     <section id="speakersView">
       <div class="container">
-        <div class="row mt-5">
+        <div class="row my-5">
           <div class="col-md-6">
             <h1 class="font-weight-bold">STEVE BAMBURY</h1>
             <span>METAVERSE</span>
@@ -47,17 +47,29 @@
             </div>
           </div>
         </div>
-      </div>
+      </div>ّ
+        <SpeakersSlider></SpeakersSlider>
+      <FormContact></FormContact>
+      <FormContacts></FormContacts>
+      <FooterApp></FooterApp>
     </section>
   </div>
 </template>
 
 <script>
 import HeaderAppDark from "@/components/HeaderAppDark.vue";
+import SpeakersSlider from "./Components/SpeakersSlider.vue";
+import FormContact from "@/components/FormContact.vue";
+import FormContacts from "@/components/FormContatcs.vue";
+import FooterApp from "@/components/FooterApp.vue";
 export default {
   name: "SpeakersView",
   components: {
     HeaderAppDark,
+    SpeakersSlider,
+    FormContact,
+    FormContacts,
+    FooterApp,
   },
 };
 </script>
@@ -73,14 +85,14 @@ export default {
   display: block;
 }
 
-.socialmediaSpeakers{
-    display: flex;
+.socialmediaSpeakers {
+  display: flex;
 }
 
-.socialmediaSpeakers li{
-    list-style: none;
-    margin: 0 1.5rem 0 0;
-    font-size: 1.5rem;
-    color: #BFC5D0;
+.socialmediaSpeakers li {
+  list-style: none;
+  margin: 0 1.5rem 0 0;
+  font-size: 1.3rem;
+  color: #bfc5d0;
 }
 </style>
