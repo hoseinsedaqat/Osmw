@@ -16,7 +16,9 @@
           <li>
             <router-link to="/about-us">About Us</router-link>
           </li>
-          <li>Speakers</li>
+          <li>
+            <router-link to="/speakers">Speakers</router-link>
+          </li>
           <li>Sponsers</li>
           <li>Media</li>
           <li>FAQS</li>
@@ -55,7 +57,7 @@
             <router-link class="nav-link" to="/about-us">About Us</router-link>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Speakers</a>
+            <router-link class="nav-link" to="/speakers">Speakers</router-link>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Sponsers</a>
