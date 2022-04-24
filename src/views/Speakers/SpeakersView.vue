@@ -18,7 +18,7 @@
             <img src="@/assets/Images/SpeakersMain.png" alt="" class="img-fluid" />
           </div>
           <div class="col-md-6">
-            <p>
+            <p class="textdownSpeakers">
               Steve Bambury has worked in education and training for 20 years. In 2016 he
               became the first Head of Digital Learning and Innovation across the JESS
               school group before moving on to work as an education consultant in 2019.
@@ -104,5 +104,11 @@ export default {
 
 .mt-6 {
     margin: 5rem 0 0 0;
+}
+
+@media screen and (max-width:1000px){
+    .textdownSpeakers{
+        margin: 1rem 0;
+    }
 }
 </style>

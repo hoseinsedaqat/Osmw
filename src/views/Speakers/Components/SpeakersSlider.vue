@@ -97,13 +97,13 @@ export default {
   font-size: 14px;
   background-color: #fff;
   border-radius: 10px;
-  margin: 3rem 0 0 0;
+  /* margin: 2rem 0 0 0; */
 }
 
 .swiper-button-next {
   margin: 2rem 0 0 0;
-  /* top: -1px;
-  left: 900px; */
+  top: 170px;
+  /* left: 900px; */
   background-color: #fff;
   padding: 2.5rem 1rem;
   color: #333;
@@ -115,8 +115,8 @@ export default {
 }
 .swiper-button-prev {
   margin: 2rem 0 0 0;
-  /* top: -1px;
-  left: 580px; */
+  top: 170px;
+  /* left: 580px; */
   background-color: #fff;
   padding: 2.5rem 1rem;
   color: #333;
@@ -125,5 +125,17 @@ export default {
 }
 .swiper-button-prev::after {
   font-size: 22px;
+}
+
+@media screen and (max-width: 1000px) {
+  .swiper-button-prev {
+    background-color: #333;
+    color: #fff;
+  }
+
+  .swiper-button-next {
+    background-color: #333;
+    color: #fff;
+  }
 }
 </style>
