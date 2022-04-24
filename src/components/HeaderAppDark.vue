@@ -13,7 +13,9 @@
           <li>
             <router-link to="/agenda">Agenda</router-link>
           </li>
-          <li>About Us</li>
+          <li>
+            <router-link to="/about-us">About Us</router-link>
+          </li>
           <li>Speakers</li>
           <li>Sponsers</li>
           <li>Media</li>
@@ -50,7 +52,7 @@
             <router-link class="nav-link" to="/agenda">Agenda</router-link>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">About Us</a>
+            <router-link class="nav-link" to="/about-us">About Us</router-link>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Speakers</a>
@@ -84,7 +86,7 @@ export default {
 
 <style scoped>
 header {
-  background: #1D272E;
+  background: #1d272e;
   width: 100%;
   padding: 1.4rem;
   color: #fff;
