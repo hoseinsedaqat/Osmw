@@ -47,8 +47,14 @@
             </div>
           </div>
         </div>
-      </div>ّ
-        <SpeakersSlider></SpeakersSlider>
+        <div class="row mt-6">
+          <div class="col-md-12">
+            <h4 class="text-center">Check out the other</h4>
+            <h3 class="text-center">Speakers</h3>
+          </div>
+        </div>
+      </div>
+      <SpeakersSlider></SpeakersSlider>
       <FormContact></FormContact>
       <FormContacts></FormContacts>
       <FooterApp></FooterApp>
@@ -94,5 +100,9 @@ export default {
   margin: 0 1.5rem 0 0;
   font-size: 1.3rem;
   color: #bfc5d0;
+}
+
+.mt-6 {
+    margin: 5rem 0 0 0;
 }
 </style>

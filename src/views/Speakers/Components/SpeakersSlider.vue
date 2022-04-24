@@ -87,7 +87,6 @@ export default {
 .swiper {
   height: 500px;
   width: 100%;
-  margin: 5rem 0 0 0;
 }
 .swiper-slide {
   display: flex;
@@ -98,7 +97,7 @@ export default {
   font-size: 14px;
   background-color: #fff;
   border-radius: 10px;
-  margin: 5rem 0 0 0;
+  margin: 3rem 0 0 0;
 }
 
 .swiper-button-next {
