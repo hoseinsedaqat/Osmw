@@ -351,4 +351,10 @@ export default {
   border-left: 3px solid gray;
   font-size: 13px;
 }
+
+@media screen and (max-width:1000px){
+    #agenda{
+        padding: 2rem;
+    }
+}
 </style>
