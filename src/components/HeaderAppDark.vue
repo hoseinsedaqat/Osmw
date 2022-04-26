@@ -30,7 +30,9 @@
             <router-link to="/contact-us">Contact Us</router-link>
           </li>
           <li>
-            <button>Attend</button>
+            <button class="hamburgerBtn">
+              <router-link to="/attend">Attend</router-link>
+            </button>
           </li>
         </ul>
       </div>
@@ -78,7 +80,9 @@
             <router-link class="nav-link" to="/contact-us">Contact Us</router-link>
           </li>
           <li class="nav-item">
-            <button class="hamburgerBtn">Attend</button>
+            <button class="hamburgerBtn">
+              <router-link to="/attend">Attend</router-link>
+            </button>
           </li>
         </ul>
       </div>
@@ -89,6 +93,13 @@
 <script>
 export default {
   name: "HeaderAppDark",
+  mounted() {
+    if (this.$route.path === "/attend") {
+      const hamburgerBtn = document.querySelector(".hamburgerBtn");
+      hamburgerBtn.style.color = "#fff";
+      hamburgerBtn.style.backgroundColor = "#E6007E";
+    }
+  },
 };
 </script>
 
@@ -114,6 +125,10 @@ a {
 
 .router-link-exact-active {
   color: #e6007e;
+}
+
+button a {
+  color: #fff !important;
 }
 
 header ul li {

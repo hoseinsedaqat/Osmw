@@ -30,7 +30,9 @@
             <router-link to="/contact-us">Contact Us</router-link>
           </li>
           <li>
-            <button>Attend</button>
+            <button>
+              <router-link to="/attend">Attend</router-link>
+            </button>
           </li>
         </ul>
       </div>
@@ -78,7 +80,9 @@
             <router-link class="nav-link" to="/contact-us">Contact Us</router-link>
           </li>
           <li class="nav-item">
-            <button class="hamburgerBtn">Attend</button>
+            <button class="hamburgerBtn">
+              <router-link to="/attend">Attend</router-link>
+            </button>
           </li>
         </ul>
       </div>
@@ -111,6 +115,10 @@ a {
 
 .router-link-exact-active {
   color: #e6007e;
+}
+
+button a {
+  color: #fff;
 }
 
 header ul li {
