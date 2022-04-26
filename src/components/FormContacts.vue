@@ -123,7 +123,7 @@ export default {
             })
             .then((res) => {
               if (res.status === 200) {
-                this.$toast.success("Email Was Send");
+                this.$toast.success("Message Was Send");
                 this.name = "";
                 this.email = "";
                 this.message = "";

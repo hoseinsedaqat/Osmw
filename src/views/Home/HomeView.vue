@@ -24,7 +24,7 @@ import TicktsHome from "./Components/TicktsHome.vue";
 import SpeakersHome from "./Components/SpeakersHome.vue";
 import SponsorsHome from "./Components/SponsorsHome.vue";
 import FormContact from "@/components/FormContact.vue";
-import FormContacts from "@/components/FormContatcs.vue";
+import FormContacts from "@/components/FormContacts.vue";
 import FooterApp from "@/components/FooterApp.vue";
 export default {
   name: "HomeView",

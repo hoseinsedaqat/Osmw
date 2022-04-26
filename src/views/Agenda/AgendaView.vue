@@ -304,7 +304,7 @@
 
 <script>
 import HeaderAppDark from "@/components/HeaderAppDark.vue";
-import FormContacts from "@/components/FormContatcs.vue";
+import FormContacts from "@/components/FormContacts.vue";
 import Footer from '@/components/FooterApp.vue'
 export default {
   name: "AgendaView",

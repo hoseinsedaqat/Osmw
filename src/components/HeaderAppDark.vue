@@ -19,7 +19,9 @@
           <li>
             <router-link to="/speakers"> Speakers</router-link>
           </li>
-          <li>Sponsers</li>
+          <li>
+            <router-link to="/sponsors">Sponsers</router-link>
+          </li>
           <li>Media</li>
           <li>FAQS</li>
           <li>Contact Us</li>
@@ -60,7 +62,7 @@
             <router-link class="nav-link" to="/speakers">Speakers</router-link>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Sponsers</a>
+            <router-link class="nav-link" to="/sponsors">Sponsers</router-link>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Media</a>
