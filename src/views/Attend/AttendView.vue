@@ -50,6 +50,55 @@
             </p>
           </div>
         </div>
+        <div class="row my-5">
+          <div class="col-md-3 text-center">
+            <div class="defineClock">
+              <div class="bg-blue">
+                <h1 class="font-weight-blod">
+                  {{ clock.days }}
+                </h1>
+                <span>Days</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 text-center">
+            <div class="defineClock">
+              <div class="bg-blue">
+                <h1 class="font-weight-blod">
+                  {{ clock.hours }}
+                </h1>
+                <span>HOURS</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 text-center">
+            <div class="defineClock">
+              <div class="bg-blue">
+                <h1 class="font-weight-blod">
+                  {{ clock.minutes }}
+                </h1>
+                <span>MINS</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 text-center">
+            <div class="defineClock">
+              <div class="bg-blue">
+                <h1 class="font-weight-blod">
+                  {{ clock.seconds }}
+                </h1>
+                <span>SECONDS</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row my-5">
+          <div class="col-md-12">
+            <p class="text-center">
+              Which ticket is right for you? We break it down here
+            </p>
+          </div>
+        </div>
       </div>
     </section>
   </div>
@@ -62,6 +111,38 @@ export default {
   components: {
     HeaderAppDark,
   },
+  data() {
+    return {
+      clock: {
+        days: 0,
+        hours: 0,
+        minutes: 0,
+        seconds: 0,
+      },
+    };
+  },
+  methods: {
+    defineClock() {
+      var countDownDate = new Date("Jun 13, 2022 00:00:00").getTime();
+
+      setInterval(() => {
+        var now = new Date().getTime();
+        var timeleft = countDownDate - now;
+
+        var days = Math.floor(timeleft / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((timeleft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
+        this.clock.days = days;
+        this.clock.hours = hours;
+        this.clock.minutes = minutes;
+        this.clock.seconds = seconds;
+      }, 1000);
+    },
+  },
+  mounted() {
+    this.defineClock();
+  },
 };
 </script>
 
@@ -73,5 +154,12 @@ export default {
   color: #fff;
   margin: 0.4rem 1rem 0 0;
   border-radius: 6px;
+}
+
+.bg-blue {
+  background-color: #00aeef;
+  border-radius: 60px;
+  padding: 2rem 0;
+  color: #fff;
 }
 </style>
