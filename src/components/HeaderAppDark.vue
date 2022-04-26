@@ -30,7 +30,7 @@
             <router-link to="/contact-us">Contact Us</router-link>
           </li>
           <li>
-            <button class="hamburgerBtn">
+            <button class="hamburgerBtn1">
               <router-link to="/attend">Attend</router-link>
             </button>
           </li>
@@ -80,7 +80,7 @@
             <router-link class="nav-link" to="/contact-us">Contact Us</router-link>
           </li>
           <li class="nav-item">
-            <button class="hamburgerBtn">
+            <button class="hamburgerBtn2">
               <router-link to="/attend">Attend</router-link>
             </button>
           </li>
@@ -95,9 +95,12 @@ export default {
   name: "HeaderAppDark",
   mounted() {
     if (this.$route.path === "/attend") {
-      const hamburgerBtn = document.querySelector(".hamburgerBtn");
-      hamburgerBtn.style.color = "#fff";
-      hamburgerBtn.style.backgroundColor = "#E6007E";
+      const hamburgerBtn1 = document.querySelector(".hamburgerBtn1");
+      hamburgerBtn1.style.color = "#fff";
+      hamburgerBtn1.style.backgroundColor = "#E6007E";
+      const hamburgerBtn2 = document.querySelector(".hamburgerBtn2");
+      hamburgerBtn2.style.color = "#fff";
+      hamburgerBtn2.style.backgroundColor = "#E6007E";
     }
   },
 };
@@ -153,6 +156,13 @@ nav {
 }
 
 .hamburgerBtn {
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  color: #fff;
+  background-color: #00aeef;
+}
+.hamburgerBtn2 {
   border: none;
   padding: 0.5rem 1rem;
   border-radius: 8px;

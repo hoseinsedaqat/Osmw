@@ -51,7 +51,7 @@
           </div>
         </div>
         <div class="row my-5">
-          <div class="col-md-3 text-center">
+          <div class="col-md-3 text-center my-3">
             <div class="defineClock">
               <div class="bg-blue">
                 <h1 class="font-weight-blod">
@@ -61,7 +61,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-3 text-center">
+          <div class="col-md-3 text-center my-3">
             <div class="defineClock">
               <div class="bg-blue">
                 <h1 class="font-weight-blod">
@@ -71,7 +71,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-3 text-center">
+          <div class="col-md-3 text-center my-3">
             <div class="defineClock">
               <div class="bg-blue">
                 <h1 class="font-weight-blod">
@@ -81,7 +81,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-3 text-center">
+          <div class="col-md-3 text-center my-3">
             <div class="defineClock">
               <div class="bg-blue">
                 <h1 class="font-weight-blod">
