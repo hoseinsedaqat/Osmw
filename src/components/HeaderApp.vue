@@ -26,7 +26,9 @@
             <router-link to="/media">Media</router-link>
           </li>
           <li>FAQS</li>
-          <li>Contact Us</li>
+          <li>
+            <router-link to="/contact-us">Contact Us</router-link>
+          </li>
           <li>
             <button>Attend</button>
           </li>
@@ -73,7 +75,7 @@
             <a class="nav-link" href="#">FAQS</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact Us</a>
+            <router-link class="nav-link" to="/contact-us">Contact Us</router-link>
           </li>
           <li class="nav-item">
             <button class="hamburgerBtn">Attend</button>
