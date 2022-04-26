@@ -22,7 +22,9 @@
           <li>
             <router-link to="/sponsors">Sponsers</router-link>
           </li>
-          <li>Media</li>
+          <li>
+            <router-link to="/media">Media</router-link>
+          </li>
           <li>FAQS</li>
           <li>Contact Us</li>
           <li>
@@ -65,7 +67,7 @@
             <router-link class="nav-link" to="/sponsors">Sponsers</router-link>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Media</a>
+            <router-link class="nav-link" to="/media">Media</router-link>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">FAQS</a>
