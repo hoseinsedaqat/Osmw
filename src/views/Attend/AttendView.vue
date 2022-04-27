@@ -100,16 +100,19 @@
           </div>
         </div>
       </div>
+      <AttendTable></AttendTable>
     </section>
   </div>
 </template>
 
 <script>
 import HeaderAppDark from "@/components/HeaderAppDark.vue";
+import AttendTable from "./Components/AttendTable.vue";
 export default {
   name: "AttendView",
   components: {
     HeaderAppDark,
+    AttendTable,
   },
   data() {
     return {
