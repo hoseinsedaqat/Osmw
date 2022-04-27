@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <table class="table table-bordered text-center ">
+          <table class="table table-bordered text-center">
             <thead class="thead-pink">
               <tr>
                 <th></th>
@@ -56,10 +56,10 @@
                 <td>Yes</td>
               </tr>
               <tr>
-                <th class="h3 p-5">REGISTRATIONS</th>
-                <td class="h3 p-5">OR 150</td>
-                <td class="h3 p-5">OR 100</td>
-                <td class="h3 p-5">______</td>
+                <th class="tableAttendShow">REGISTRATIONS</th>
+                <td class="tableAttendShow">OR 150</td>
+                <td class="tableAttendShow">OR 100</td>
+                <td class="tableAttendShow">______</td>
               </tr>
             </tbody>
           </table>
@@ -79,5 +79,17 @@ export default {
 .thead-pink {
   background-color: #e6007e;
   color: #fff;
+}
+
+.tableAttendShow {
+  font-size: 1.5rem;
+  padding: 2rem;
+}
+
+@media screen and (max-width: 1000px) {
+  .tableAttendShow {
+    font-size: 1rem;
+    padding: 1rem;
+  }
 }
 </style>

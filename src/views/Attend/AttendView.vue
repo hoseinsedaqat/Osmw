@@ -101,6 +101,7 @@
         </div>
       </div>
       <AttendTable></AttendTable>
+      <AttendForm></AttendForm>
     </section>
   </div>
 </template>
@@ -108,11 +109,13 @@
 <script>
 import HeaderAppDark from "@/components/HeaderAppDark.vue";
 import AttendTable from "./Components/AttendTable.vue";
+import AttendForm from "./Components/AttendForm.vue";
 export default {
   name: "AttendView",
   components: {
     HeaderAppDark,
     AttendTable,
+    AttendForm,
   },
   data() {
     return {
