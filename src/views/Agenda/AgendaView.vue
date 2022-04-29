@@ -522,21 +522,13 @@
     </div>
   </section>
     <FormContacts></FormContacts>
-    <Footer></Footer>
+    <FooterApp></FooterApp>
   </div>
 </template>
 
 <script>
-import HeaderAppDark from "@/components/HeaderAppDark.vue";
-import FormContacts from "@/components/FormContacts.vue";
-import Footer from '@/components/FooterApp.vue'
 export default {
   name: "AgendaView",
-  components: {
-    HeaderAppDark,
-    FormContacts,
-    Footer
-  },
 };
 </script>
 

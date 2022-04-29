@@ -109,17 +109,11 @@
 </template>
 
 <script>
-import HeaderAppDark from "@/components/HeaderAppDark.vue";
 import FormContactTwo from "@/components/FormContactTwo.vue";
-import FormContacts from "@/components/FormContacts.vue";
-import FooterApp from "@/components/FooterApp.vue";
 export default {
   name: "MediaView",
   components: {
-    HeaderAppDark,
     FormContactTwo,
-    FormContacts,
-    FooterApp,
   },
 };
 </script>

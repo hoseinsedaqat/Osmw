@@ -28,6 +28,16 @@ Vue.use(Toast, {
 
 Vue.config.productionTip = false
 
+// Global Components
+import HeaderAppDark from './components/HeaderAppDark.vue';
+import FormContacts from './components/FormContacts.vue';
+import FormContact from './components/FormContact';
+import FooterApp from './components/FooterApp.vue';
+Vue.component('HeaderAppDark',HeaderAppDark)
+Vue.component('FormContacts',FormContacts)
+Vue.component('FormContact',FormContact)
+Vue.component('FooterApp',FooterApp)
+
 new Vue({
   router,
   store,

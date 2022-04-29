@@ -45,16 +45,8 @@
 </template>
 
 <script>
-import HeaderAppDark from "@/components/HeaderAppDark.vue";
-import FormContacts from "@/components/FormContacts.vue";
-import FooterApp from "@/components/FooterApp.vue";
 export default {
   name: "ContactView",
-  components: {
-    HeaderAppDark,
-    FormContacts,
-    FooterApp,
-  },
 };
 </script>
 

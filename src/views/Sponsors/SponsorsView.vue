@@ -12,7 +12,9 @@
             </p>
             <p class="text-center">
               If you would like to see your brand listed with us,
-              <span class="text-primary">get in touch.</span>
+              <router-link to="/contact-us"
+                ><span class="text-primary">get in touch.</span></router-link
+              >
             </p>
           </div>
         </div>
@@ -77,18 +79,8 @@
 </template>
 
 <script>
-import HeaderAppDark from "@/components/HeaderAppDark.vue";
-import FormContact from "@/components/FormContact.vue";
-import FormContacts from "@/components/FormContacts.vue";
-import FooterApp from '@/components/FooterApp.vue'
 export default {
   name: "SponsorsView",
-  components: {
-    HeaderAppDark,
-    FormContact,
-    FormContacts,
-    FooterApp
-  },
 };
 </script>
 

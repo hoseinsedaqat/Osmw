@@ -63,19 +63,11 @@
 </template>
 
 <script>
-import HeaderAppDark from "@/components/HeaderAppDark.vue";
 import SpeakersSlider from "./Components/SpeakersSlider.vue";
-import FormContact from "@/components/FormContact.vue";
-import FormContacts from "@/components/FormContacts.vue";
-import FooterApp from "@/components/FooterApp.vue";
 export default {
   name: "SpeakersView",
   components: {
-    HeaderAppDark,
     SpeakersSlider,
-    FormContact,
-    FormContacts,
-    FooterApp,
   },
 };
 </script>
