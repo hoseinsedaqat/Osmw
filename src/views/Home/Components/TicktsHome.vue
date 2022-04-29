@@ -43,7 +43,9 @@
                   <span class="mx-2">You selection of the day to attend</span>
                 </div>
                 <div class="ticktsOne mt-5">
-                  <button class="w-100">Register Now</button>
+                  <router-link to="/attend">
+                    <button class="w-100">Register Now</button>
+                  </router-link>
                 </div>
               </div>
             </div>
@@ -52,35 +54,44 @@
         <div class="col-md-4 mt-2">
           <div class="cards" id="cardTwo">
             <div class="card-body">
-              <h5 class="text-center">One Day Pass</h5>
-              <h2 class="text-center">OR 100</h2>
+              <h5 class="text-center">Two Days Pass</h5>
+              <h2 class="text-center">OR 150</h2>
               <p class="mt-4 text-center">Admission Options</p>
               <div class="mt-5 ftickts">
                 <div class="my-1">
                   <img src="@/assets/Images/Vector 31.png" alt="" />
-                  <span class="mx-2">You selection of the day to attend</span>
+                  <span class="mx-2">Full event attendance </span>
                 </div>
                 <div class="my-1">
                   <img src="@/assets/Images/Vector 31.png" alt="" />
-                  <span class="mx-2">Access to all day sessions </span>
+                  <span class="mx-2">Access to all sessions </span>
                 </div>
                 <div class="my-1">
                   <img src="@/assets/Images/Vector 31.png" alt="" />
-                  <span class="mx-2">Access to lunch break and networking </span>
+                  <span class="mx-2">Access to 2 days lunch break and networking </span>
                 </div>
                 <div class="my-1">
                   <img src="@/assets/Images/Vector 31.png" alt="" />
-                  <span class="mx-1 w-100"
-                    >Access to event recording / presentations after
-                    <span class="mx-4">events</span>
+                  <span class="mx-1 w-100">Certificate of attendance </span>
+                </div>
+                <div class="my-1">
+                  <img src="@/assets/Images/Vector 31.png" alt="" />
+                  <span class="mx-2">Inclusion in attendees list Hall of Fame</span>
+                </div>
+                <div class="my-1">
+                  <img src="@/assets/Images/Vector 31.png" alt="" />
+                  <span class="mx-2">Inclusion of company logo on website. </span>
+                </div>
+                <div class="my-1">
+                  <img src="@/assets/Images/Vector 31.png" alt="" />
+                  <span class="mx-2"
+                    >Access to event recording/ presentations after event
                   </span>
                 </div>
-                <div class="my-1">
-                  <img src="@/assets/Images/Vector 31.png" alt="" />
-                  <span class="mx-2">You selection of the day to attend</span>
-                </div>
                 <div class="ticktsOne mt-5">
-                  <button class="w-100">Register Now</button>
+                  <router-link to="/attend">
+                    <button class="w-100">Register Now</button>
+                  </router-link>
                 </div>
               </div>
             </div>
@@ -89,35 +100,34 @@
         <div class="col-md-4 mt-4">
           <div class="cards" id="cardOne">
             <div class="card-body">
-              <h5 class="text-center">One Day Pass</h5>
-              <h2 class="text-center">OR 100</h2>
-              <p class="mt-4 text-center">Admission Options</p>
+              <h5 class="text-center">Group Booking</h5>
+              <h2 class="text-center">_ _ _</h2>
+              <p class="mt-4 text-center">Admission to Conference</p>
               <div class="mt-5 ftickts">
                 <div class="my-1">
                   <img src="@/assets/Images/Vector 18.png" alt="" />
-                  <span class="mx-2">You selection of the day to attend</span>
+                  <span class="mx-2">Admission to the Influencer Forum </span>
                 </div>
                 <div class="my-1">
                   <img src="@/assets/Images/Vector 18.png" alt="" />
-                  <span class="mx-2">Access to all day sessions </span>
+                  <span class="mx-2">Access to Photo Booth with influencers </span>
                 </div>
                 <div class="my-1">
                   <img src="@/assets/Images/Vector 18.png" alt="" />
-                  <span class="mx-2">Access to lunch break and networking </span>
+                  <span class="mx-2">Admission to Social Talks Lounge </span>
                 </div>
                 <div class="my-1">
                   <img src="@/assets/Images/Vector 18.png" alt="" />
-                  <span class="mx-1 w-100"
-                    >Access to event recording / presentations after
-                    <span class="mx-4">events</span>
-                  </span>
+                  <span class="mx-1 w-100">Certificate of Attendance </span>
                 </div>
                 <div class="my-1">
                   <img src="@/assets/Images/Vector 18.png" alt="" />
-                  <span class="mx-2">You selection of the day to attend</span>
+                  <span class="mx-2">Access to conference online recordings</span>
                 </div>
                 <div class="ticktsOne mt-5">
-                  <button class="w-100">Register Now</button>
+                  <router-link to="/attend">
+                    <button class="w-100">Register Now</button>
+                  </router-link>
                 </div>
               </div>
             </div>
@@ -190,8 +200,8 @@ export default {
     display: none;
   }
 
-  #tickts{
-      height: 100%;
+  #tickts {
+    height: 100%;
   }
 }
 </style>
