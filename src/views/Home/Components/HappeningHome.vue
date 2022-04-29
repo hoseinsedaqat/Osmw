@@ -64,18 +64,55 @@
                 </svg>
               </span>
             </div>
-            <span class="collapse" id="eventOne">
-              Moderator: TBC Points of Discussion: Shifts in social media objectives: what
-              businesses are using social media for? Strategizing social media to build
-              communities and cultural capital. Realizing return on investment: data
-              analytics in driving investment decisions. Evolving usage of social media
-              channels Advertising and social media: how creativity in curating content is
-              impacting leads acquisition and social media engagement. Increasing business
-              impact by social listening: building reputation and managing risks. Social
-              selling and customer acquisition by personalized shopping. Social customer
-              service Speakers: (Reserved)  Ms Saba Al Busaidi, Omantel  Ahmed Al
-              Housni, Ooredoo  Thuraya Al Harthi- MOT
-            </span>
+            <p class="collapse" id="eventOne">
+              <span class="font-weight-bold d-block m-4"> Moderator: TBC</span>
+              <span>
+                <span class="font-weight-bold d-block mx-4"> Points of Discussion: </span>
+                <li class="m-4">
+                  Shifts in social media objectives: what businesses are using social
+                  media for?
+                </li>
+                <li class="m-4">
+                  Strategizing social media to build communities and cultural capital.
+                  Realizing return on investment: data analytics in driving investment
+                  decisions.
+                </li>
+                <li class="m-4">Evolving usage of social media channels</li>
+                <li class="m-4">
+                  Advertising and social media: how creativity in curating content is
+                  impacting leads acquisition and social media engagement.
+                </li>
+                <li class="m-4">
+                  Increasing business impact by social listening: building reputation and
+                  managing risks.
+                </li>
+                <li class="m-4">
+                  Social selling and customer acquisition by personalized shopping. Social
+                  customer service
+                </li>
+                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Saba Al Busaidi- Senior Manager Corporate Affairs at Omantel .jpeg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  Ms Saba Al Busaidi, Omantel
+                </li>
+                <li class="m-4">
+                  
+                  Ahmed Al Housni, Ooredoo
+                </li>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Thuraya Al Harthi- Speaker_ Digital Transformation_ Innovation.jpeg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  Thuraya Al Harthi- MOT
+                </li>
+              </span>
+            </p>
           </div>
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
@@ -107,18 +144,55 @@
                 </svg>
               </span>
             </div>
-            <span class="collapse" id="eventTwo">
-              Moderator: TBC Points of Discussion: Shifts in social media objectives: what
-              businesses are using social media for? Strategizing social media to build
-              communities and cultural capital. Realizing return on investment: data
-              analytics in driving investment decisions. Evolving usage of social media
-              channels Advertising and social media: how creativity in curating content is
-              impacting leads acquisition and social media engagement. Increasing business
-              impact by social listening: building reputation and managing risks. Social
-              selling and customer acquisition by personalized shopping. Social customer
-              service Speakers: (Reserved)  Ms Saba Al Busaidi, Omantel  Ahmed Al
-              Housni, Ooredoo  Thuraya Al Harthi- MOT
-            </span>
+            <p class="collapse" id="eventTwo">
+             <span class="font-weight-bold d-block m-4"> Moderator: TBC</span>
+              <span>
+                <span class="font-weight-bold d-block mx-4"> Points of Discussion: </span>
+                <li class="m-4">
+                  Shifts in social media objectives: what businesses are using social
+                  media for?
+                </li>
+                <li class="m-4">
+                  Strategizing social media to build communities and cultural capital.
+                  Realizing return on investment: data analytics in driving investment
+                  decisions.
+                </li>
+                <li class="m-4">Evolving usage of social media channels</li>
+                <li class="m-4">
+                  Advertising and social media: how creativity in curating content is
+                  impacting leads acquisition and social media engagement.
+                </li>
+                <li class="m-4">
+                  Increasing business impact by social listening: building reputation and
+                  managing risks.
+                </li>
+                <li class="m-4">
+                  Social selling and customer acquisition by personalized shopping. Social
+                  customer service
+                </li>
+                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Saba Al Busaidi- Senior Manager Corporate Affairs at Omantel .jpeg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  Ms Saba Al Busaidi, Omantel
+                </li>
+                <li class="m-4">
+                  
+                  Ahmed Al Housni, Ooredoo
+                </li>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Thuraya Al Harthi- Speaker_ Digital Transformation_ Innovation.jpeg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  Thuraya Al Harthi- MOT
+                </li>
+              </span>
+            </p>
           </div>
           <div class="eventHappening">
             <div class="eventTitle">
@@ -155,18 +229,55 @@
                 </svg>
               </span>
             </div>
-            <span class="collapse" id="eventThree">
-              Moderator: TBC Points of Discussion: Shifts in social media objectives: what
-              businesses are using social media for? Strategizing social media to build
-              communities and cultural capital. Realizing return on investment: data
-              analytics in driving investment decisions. Evolving usage of social media
-              channels Advertising and social media: how creativity in curating content is
-              impacting leads acquisition and social media engagement. Increasing business
-              impact by social listening: building reputation and managing risks. Social
-              selling and customer acquisition by personalized shopping. Social customer
-              service Speakers: (Reserved)  Ms Saba Al Busaidi, Omantel  Ahmed Al
-              Housni, Ooredoo  Thuraya Al Harthi- MOT
-            </span>
+            <p class="collapse" id="eventThree">
+             <span class="font-weight-bold d-block m-4"> Moderator: TBC</span>
+              <span>
+                <span class="font-weight-bold d-block mx-4"> Points of Discussion: </span>
+                <li class="m-4">
+                  Shifts in social media objectives: what businesses are using social
+                  media for?
+                </li>
+                <li class="m-4">
+                  Strategizing social media to build communities and cultural capital.
+                  Realizing return on investment: data analytics in driving investment
+                  decisions.
+                </li>
+                <li class="m-4">Evolving usage of social media channels</li>
+                <li class="m-4">
+                  Advertising and social media: how creativity in curating content is
+                  impacting leads acquisition and social media engagement.
+                </li>
+                <li class="m-4">
+                  Increasing business impact by social listening: building reputation and
+                  managing risks.
+                </li>
+                <li class="m-4">
+                  Social selling and customer acquisition by personalized shopping. Social
+                  customer service
+                </li>
+                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Saba Al Busaidi- Senior Manager Corporate Affairs at Omantel .jpeg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  Ms Saba Al Busaidi, Omantel
+                </li>
+                <li class="m-4">
+                  
+                  Ahmed Al Housni, Ooredoo
+                </li>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Thuraya Al Harthi- Speaker_ Digital Transformation_ Innovation.jpeg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  Thuraya Al Harthi- MOT
+                </li>
+              </span>
+            </p>
           </div>
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
@@ -195,18 +306,55 @@
                 </svg>
               </span>
             </div>
-            <span class="collapse" id="eventFour">
-              Moderator: TBC Points of Discussion: Shifts in social media objectives: what
-              businesses are using social media for? Strategizing social media to build
-              communities and cultural capital. Realizing return on investment: data
-              analytics in driving investment decisions. Evolving usage of social media
-              channels Advertising and social media: how creativity in curating content is
-              impacting leads acquisition and social media engagement. Increasing business
-              impact by social listening: building reputation and managing risks. Social
-              selling and customer acquisition by personalized shopping. Social customer
-              service Speakers: (Reserved)  Ms Saba Al Busaidi, Omantel  Ahmed Al
-              Housni, Ooredoo  Thuraya Al Harthi- MOT
-            </span>
+            <p class="collapse" id="eventFour">
+             <span class="font-weight-bold d-block m-4"> Moderator: TBC</span>
+              <span>
+                <span class="font-weight-bold d-block mx-4"> Points of Discussion: </span>
+                <li class="m-4">
+                  Shifts in social media objectives: what businesses are using social
+                  media for?
+                </li>
+                <li class="m-4">
+                  Strategizing social media to build communities and cultural capital.
+                  Realizing return on investment: data analytics in driving investment
+                  decisions.
+                </li>
+                <li class="m-4">Evolving usage of social media channels</li>
+                <li class="m-4">
+                  Advertising and social media: how creativity in curating content is
+                  impacting leads acquisition and social media engagement.
+                </li>
+                <li class="m-4">
+                  Increasing business impact by social listening: building reputation and
+                  managing risks.
+                </li>
+                <li class="m-4">
+                  Social selling and customer acquisition by personalized shopping. Social
+                  customer service
+                </li>
+                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Saba Al Busaidi- Senior Manager Corporate Affairs at Omantel .jpeg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  Ms Saba Al Busaidi, Omantel
+                </li>
+                <li class="m-4">
+                  
+                  Ahmed Al Housni, Ooredoo
+                </li>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Thuraya Al Harthi- Speaker_ Digital Transformation_ Innovation.jpeg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  Thuraya Al Harthi- MOT
+                </li>
+              </span>
+            </p>
           </div>
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
@@ -238,18 +386,55 @@
                 </svg>
               </span>
             </div>
-            <span class="collapse" id="eventFive">
-              Moderator: TBC Points of Discussion: Shifts in social media objectives: what
-              businesses are using social media for? Strategizing social media to build
-              communities and cultural capital. Realizing return on investment: data
-              analytics in driving investment decisions. Evolving usage of social media
-              channels Advertising and social media: how creativity in curating content is
-              impacting leads acquisition and social media engagement. Increasing business
-              impact by social listening: building reputation and managing risks. Social
-              selling and customer acquisition by personalized shopping. Social customer
-              service Speakers: (Reserved)  Ms Saba Al Busaidi, Omantel  Ahmed Al
-              Housni, Ooredoo  Thuraya Al Harthi- MOT
-            </span>
+            <p class="collapse" id="eventFive">
+              <span class="font-weight-bold d-block m-4"> Moderator: TBC</span>
+              <span>
+                <span class="font-weight-bold d-block mx-4"> Points of Discussion: </span>
+                <li class="m-4">
+                  Shifts in social media objectives: what businesses are using social
+                  media for?
+                </li>
+                <li class="m-4">
+                  Strategizing social media to build communities and cultural capital.
+                  Realizing return on investment: data analytics in driving investment
+                  decisions.
+                </li>
+                <li class="m-4">Evolving usage of social media channels</li>
+                <li class="m-4">
+                  Advertising and social media: how creativity in curating content is
+                  impacting leads acquisition and social media engagement.
+                </li>
+                <li class="m-4">
+                  Increasing business impact by social listening: building reputation and
+                  managing risks.
+                </li>
+                <li class="m-4">
+                  Social selling and customer acquisition by personalized shopping. Social
+                  customer service
+                </li>
+                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Saba Al Busaidi- Senior Manager Corporate Affairs at Omantel .jpeg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  Ms Saba Al Busaidi, Omantel
+                </li>
+                <li class="m-4">
+                  
+                  Ahmed Al Housni, Ooredoo
+                </li>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Thuraya Al Harthi- Speaker_ Digital Transformation_ Innovation.jpeg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  Thuraya Al Harthi- MOT
+                </li>
+              </span>
+            </p>
           </div>
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
