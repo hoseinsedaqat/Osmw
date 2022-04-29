@@ -6,7 +6,7 @@
           <div class="col-md-12 my-5">
             <div class="bg-pink text-white">
               <h4>Enquiry Registration</h4>
-              <select name="" id="" v-model="regestartion">
+              <select name="" id="" v-model="access" class="form-control col-md-3" required>
                 <option value="Group Booking" selected>Group Booking</option>
                 <option value="Two Days">Two Days</option>
                 <option value="One Day">One Day</option>
@@ -27,18 +27,27 @@
         <div class="row my-4">
           <div class="col-md-6">
             <p>I am interested in</p>
-            <select name="" id="" v-model="regestartion" class="w-50">
-              <option value="Group Booking" selected>Group Booking</option>
-              <option value="Two Days">Two Days</option>
-              <option value="One Day">One Day</option>
+            <select
+              name=""
+              id=""
+              v-model="interested"
+              class="w-50 form-control col-md-6"
+              required
+            >
+              <option value="Exhibiting" selected>Exhibiting</option>
+              <option value="Sponsorship">Sponsorship</option>
+              <option value="Speaking">Speaking</option>
+              <option value="Attending">Attending</option>
             </select>
           </div>
           <div class="col-md-6">
             <p>Title <span class="required">*</span></p>
-            <select name="" id="" v-model="regestartion" class="w-50">
-              <option value="Group Booking" selected>Group Booking</option>
-              <option value="Two Days">Two Days</option>
-              <option value="One Day">One Day</option>
+            <select name="" id="" v-model="title" class="w-50 form-control col-md-6" required>
+              <option value="Mr" selected>Mr</option>
+              <option value="Mrs">Mrs</option>
+              <option value="Prof.">Prof.</option>
+              <option value="Eng.">Eng.</option>
+              <option value="Other">Other</option>
             </select>
           </div>
         </div>
@@ -46,7 +55,7 @@
           <div class="col-md-12">
             <div class="form-group">
               <p>First Name <span class="required">*</span></p>
-              <input type="text" class="w-100" />
+              <input type="text" class="w-100" v-model="firstName" required/>
             </div>
           </div>
         </div>
@@ -54,15 +63,7 @@
           <div class="col-md-12">
             <div class="form-group">
               <p>Last Name <span class="required">*</span></p>
-              <input type="text" class="w-100" />
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-12">
-            <div class="form-group">
-              <p>First Name <span class="required">*</span></p>
-              <input type="text" class="w-100" />
+              <input type="text" class="w-100" v-model="lastName" required/>
             </div>
           </div>
         </div>
@@ -70,7 +71,7 @@
           <div class="col-md-12">
             <div class="form-group">
               <p>Designation<span class="required">*</span></p>
-              <input type="text" class="w-100" />
+              <input type="text" class="w-100" v-model="designation" required/>
             </div>
           </div>
         </div>
@@ -78,7 +79,7 @@
           <div class="col-md-12">
             <div class="form-group">
               <p>Company <span class="required">*</span></p>
-              <input type="text" class="w-100" />
+              <input type="text" class="w-100" v-model="company" required/>
             </div>
           </div>
         </div>
@@ -86,7 +87,7 @@
           <div class="col-md-12">
             <div class="form-group">
               <p>Email Address <span class="required">*</span></p>
-              <input type="text" class="w-100" />
+              <input type="text" class="w-100" v-model="email" required/>
             </div>
           </div>
         </div>
@@ -94,7 +95,7 @@
           <div class="col-md-12">
             <div class="form-group">
               <p>Mobile Phone <span class="required">*</span></p>
-              <input type="text" class="w-100" />
+              <input type="text" class="w-100" v-model="mobile" required />
             </div>
           </div>
         </div>
@@ -102,7 +103,7 @@
           <div class="col-md-12">
             <div class="form-group">
               <p>Country of Residence <span class="required">*</span></p>
-              <input type="text" class="w-100" />
+              <input type="text" class="w-100" v-model="country" required/>
             </div>
           </div>
         </div>
@@ -110,7 +111,7 @@
           <div class="col-md-12">
             <div class="form-group">
               <p>Vaccination <span class="required">*</span></p>
-              <input type="text" class="w-100" />
+              <input type="text" class="w-100" v-model="vaccination" required />
             </div>
           </div>
         </div>
@@ -118,7 +119,7 @@
           <div class="container">
             <div class="row">
               <div class="col-md-12">
-                <input type="checkbox" name="" id="" class="checkbox" />
+                <input type="checkbox" name="" id="" class="checkbox" v-model="checked" required/>
                 <span>
                   Yes - I understand that the delegate must be fully vaccinated to attend
                   OSMW22.
@@ -129,7 +130,9 @@
         </div>
         <div class="row">
           <div class="col-md-12 my-3">
-            <button class="btnAttendSubmit">Submit</button>
+            <button class="btnAttendSubmit" type="button" @click="formData()">
+              Submit
+            </button>
           </div>
         </div>
       </div>
@@ -141,6 +144,7 @@
 </template>
 
 <script>
+import axios from "axios";
 import FormContactTwo from "@/components/FormContactTwo.vue";
 import FormContacts from "@/components/FormContacts.vue";
 import FooterApp from "@/components/FooterApp.vue";
@@ -148,13 +152,101 @@ export default {
   name: "AttendForm",
   data() {
     return {
-      regestartion: "One Day",
+      // select Box
+      access: "One Day",
+      interested: "Exhibiting",
+      title: "Mr",
+      // Other Data
+      firstName: "",
+      lastName: "",
+      designation: "",
+      company: "",
+      email: "",
+      mobile: "",
+      country: "",
+      vaccination: "",
+      checked: false,
     };
   },
   components: {
     FormContactTwo,
     FormContacts,
     FooterApp,
+  },
+  methods: {
+    formData() {
+      const validationEmail = /^[\w-.]+@([\w-]+\.)+[\w-]{2,4}$/;
+      if (
+        this.access === "" ||
+        this.interested === "" ||
+        this.title === "" ||
+        this.firstName === "" ||
+        this.lastName === "" ||
+        this.designation === "" ||
+        this.company === "" ||
+        this.mobile === "" ||
+        this.country === "" ||
+        this.vaccination === "" ||
+        this.checked === false ||
+        !validationEmail.test(this.email)
+      ) {
+        this.$toast.info("Please Complete the Form");
+        console.log(
+          this.access,
+          this.interested,
+          this.title,
+          this.firstName,
+          this.lastName,
+          this.company,
+          this.designation,
+          this.email,
+          this.country,
+          this.vaccination,
+          this.mobile,
+          this.checked
+        );
+      } else {
+        try {
+          axios
+            .post("https://www.actionforms.io/e/r/hsoein-sedaqat-test", {
+              Access: this.access,
+              Interested: this.interested,
+              Title: this.title,
+              FirstName: this.firstName,
+              LastName: this.lastName,
+              Designation: this.designation,
+              Company: this.company,
+              EmailAddress: this.email,
+              MobilePhone: this.mobile,
+              CountryofResidence: this.country,
+              Vaccination: this.vaccination,
+              Agree: this.checked,
+            })
+            .then((res) => {
+              if (res.status === 200) {
+                this.$toast.success("Message Was Send");
+                this.access = "One Day";
+                this.interested = "Exhibiting";
+                this.title = "Mr";
+                this.firstName = "";
+                this.lastName = "";
+                this.designation = "";
+                this.mobile = "";
+                this.company = "";
+                this.email = "";
+                this.country = "";
+                this.vaccination = "";
+                this.checked = false;
+              }
+            })
+            .catch((e) => {
+              this.$toast.error(e);
+            });
+        } catch (e) {
+          this.$toast.error("Try Again");
+        }
+      }
+    },
   },
 };
 </script>
