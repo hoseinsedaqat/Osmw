@@ -49,8 +49,8 @@
         </div>
         <div class="row mt-6">
           <div class="col-md-12">
-            <h4 class="text-center">Check out the other</h4>
-            <h3 class="text-center">Speakers</h3>
+            <!-- <h4 class="text-center">Check out the other</h4>
+            <h3 class="text-center">Speakers</h3> -->
           </div>
         </div>
       </div>
