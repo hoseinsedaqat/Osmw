@@ -7,7 +7,7 @@
           <div class="overlay text-white">
             <div>{{ speaker.name }}</div>
             <p>{{ speaker.career }}</p>
-            <button @click="goToSpeaker(idx)" type="button">More</button>
+            <a @click="goToSpeaker(idx)">More</a>
           </div>
         </div>
       </swiper-slide>
