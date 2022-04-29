@@ -5,61 +5,115 @@
     <div class="container">
       <div class="row no-gutters">
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
-          <img src="@/assets/Images/Rectangle 322.png" alt="" class="speakersImg" />
-          <div class="overlay">
-            <div class="text">Hello</div>
+          <img
+            src="@/assets/Images/Screen Shot 2022-04-21 at 3.43.31 PM.png"
+            alt=""
+            class="speakersImg h-100"
+          />
+          <div class="overlay text-white">
+            <div>Sharifa Al Buruomi</div>
+            <p>Business Woman, Speaker</p>
+            <router-link to="/speakers">More</router-link>
           </div>
         </div>
-        <div class="col-12 col-md-4 col-sm-6" id="speakersMain">
-          <img src="@/assets/Images/Rectangle 322.png" alt="" class="speakersImg" />
-          <div class="overlay">
-            <div class="text">Hello</div>
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
+          <img
+            src="@/assets/Images/Screen Shot 2022-04-21 at 3.43.31 PM.png"
+            alt=""
+            class="speakersImg h-100"
+          />
+          <div class="overlay text-white">
+            <div>Sharifa Al Buruomi</div>
+            <p>Business Woman, Speaker</p>
+            <router-link to="/speakers">More</router-link>
           </div>
         </div>
-        <div class="col-12 col-md-4 col-sm-6" id="speakersMain">
-          <img src="@/assets/Images/Rectangle 322.png" alt="" class="speakersImg" />
-          <div class="overlay">
-            <div class="text">Hello</div>
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
+          <img
+            src="@/assets/Images/Screen Shot 2022-04-21 at 3.43.31 PM.png"
+            alt=""
+            class="speakersImg h-100"
+          />
+          <div class="overlay text-white">
+            <div>Sharifa Al Buruomi</div>
+            <p>Business Woman, Speaker</p>
+            <router-link to="/speakers">More</router-link>
           </div>
         </div>
       </div>
       <div class="row no-gutters">
-        <div class="col-12 col-md-4 col-sm-6" id="speakersMain">
-          <img src="@/assets/Images/Rectangle 322.png" alt="" class="speakersImg" />
-          <div class="overlay">
-            <div class="text">Hello</div>
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
+          <img
+            src="@/assets/Images/Screen Shot 2022-04-21 at 3.43.31 PM.png"
+            alt=""
+            class="speakersImg h-100"
+          />
+          <div class="overlay text-white">
+            <div>Sharifa Al Buruomi</div>
+            <p>Business Woman, Speaker</p>
+            <router-link to="/speakers">More</router-link>
           </div>
         </div>
-        <div class="col-12 col-md-4 col-sm-6" id="speakersMain">
-          <img src="@/assets/Images/Rectangle 322.png" alt="" class="speakersImg" />
-          <div class="overlay">
-            <div class="text">Hello</div>
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
+          <img
+            src="@/assets/Images/Screen Shot 2022-04-21 at 3.43.31 PM.png"
+            alt=""
+            class="speakersImg h-100"
+          />
+          <div class="overlay text-white">
+            <div>Sharifa Al Buruomi</div>
+            <p>Business Woman, Speaker</p>
+            <router-link to="/speakers">More</router-link>
           </div>
         </div>
-        <div class="col-12 col-md-4 col-sm-6" id="speakersMain">
-          <img src="@/assets/Images/Rectangle 322.png" alt="" class="speakersImg" />
-          <div class="overlay">
-            <div class="text">Hello</div>
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
+          <img
+            src="@/assets/Images/Screen Shot 2022-04-21 at 3.43.31 PM.png"
+            alt=""
+            class="speakersImg h-100"
+          />
+          <div class="overlay text-white">
+            <div>Sharifa Al Buruomi</div>
+            <p>Business Woman, Speaker</p>
+            <router-link to="/speakers">More</router-link>
           </div>
         </div>
       </div>
       <div class="row no-gutters">
-        <div class="col-12 col-md-4 col-sm-6" id="speakersMain">
-          <img src="@/assets/Images/Rectangle 322.png" alt="" class="speakersImg" />
-          <div class="overlay2">
-            <div class="text">Hello</div>
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
+          <img
+            src="@/assets/Images/Screen Shot 2022-04-21 at 3.43.31 PM.png"
+            alt=""
+            class="speakersImg h-100"
+          />
+          <div class="overlay text-white">
+            <div>Sharifa Al Buruomi</div>
+            <p>Business Woman, Speaker</p>
+            <router-link to="/speakers">More</router-link>
           </div>
         </div>
-        <div class="col-12 col-md-4 col-sm-6" id="speakersMain">
-          <img src="@/assets/Images/Rectangle 322.png" alt="" class="speakersImg" />
-          <div class="overlay2">
-            <div class="text">Hello</div>
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
+          <img
+            src="@/assets/Images/Screen Shot 2022-04-21 at 3.43.31 PM.png"
+            alt=""
+            class="speakersImg h-100"
+          />
+          <div class="overlay text-white">
+            <div>Sharifa Al Buruomi</div>
+            <p>Business Woman, Speaker</p>
+            <router-link to="/speakers">More</router-link>
           </div>
         </div>
-        <div class="col-12 col-md-4 col-sm-6" id="speakersMain">
-          <img src="@/assets/Images/Rectangle 322.png" alt="" class="speakersImg" />
-          <div class="overlay2">
-            <div class="text">Hello</div>
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
+          <img
+            src="@/assets/Images/Screen Shot 2022-04-21 at 3.43.31 PM.png"
+            alt=""
+            class="speakersImg h-100"
+          />
+          <div class="overlay text-white">
+            <div>Sharifa Al Buruomi</div>
+            <p>Business Woman, Speaker</p>
+            <router-link to="/speakers">More</router-link>
           </div>
         </div>
       </div>
@@ -100,6 +154,10 @@ export default {
   opacity: 0;
   transition: 0.5s ease;
   background-color: #008cba;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 .overlay2 {
   position: absolute;
@@ -133,5 +191,12 @@ export default {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
+}
+
+.overlay a{
+  text-decoration: none;
+  color: #fff;
+  border: 1px solid #fff;
+  padding: 0.5rem 2rem;
 }
 </style>

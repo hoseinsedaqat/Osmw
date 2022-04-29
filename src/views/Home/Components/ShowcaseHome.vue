@@ -71,7 +71,7 @@ export default {
 #showcase {
   width: 100%;
   height: 700px;
-  background: url("@/assets/Images/Showcase.jpeg") no-repeat center center/cover;
+  background: url("@/assets/Images/waiting-room-with-monitors.jpg") no-repeat center center/cover;
   position: relative;
 }
 
@@ -79,7 +79,7 @@ export default {
   position: absolute;
   width: 100%;
   height: 700px;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.3);
 }
 
 #showcase .showcase-3 button {
