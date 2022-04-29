@@ -51,6 +51,12 @@ const routes = [
     path:'/sponsorship',
     name:'SponsorShip',
     component: () => import('@/views/Sponsorship/SponsorshipView.vue')
+  },
+  // for Speakers
+  {
+    path:'/speaker/:id',
+    name:'SpeakerView',
+    component: () => import('@/views/Speaker/SpeakerView.vue')
   }
 ]
 
