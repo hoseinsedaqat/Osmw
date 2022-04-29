@@ -13,7 +13,9 @@
             marketing, finance, and information technology.
           </p>
           <div class="osmwAboutBtn">
-            <button>See More</button>
+            <router-link to="/about-us">
+              <button>See More</button>
+            </router-link>
           </div>
         </div>
         <div class="col-md-6">

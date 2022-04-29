@@ -27,7 +27,9 @@
           </p>
           <div class="informationBtn">
             <div>
-              <button>Register to Attend</button>
+              <router-link to="/attend">
+                <button>Register to Attend</button>
+              </router-link>
             </div>
             <div class="mx-5">
               <img

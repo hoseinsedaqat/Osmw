@@ -13,7 +13,9 @@
       <div class="row">
         <div class="col-md-12">
           <div class="text-center">
-            <button class="sponsorsHome">Become Sponsor</button>
+            <router-link to="/sponsors">
+              <button class="sponsorsHome">Become Sponsor</button>
+            </router-link>
           </div>
         </div>
       </div>

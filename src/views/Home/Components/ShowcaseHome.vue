@@ -27,8 +27,12 @@
               local trends, and feature latest technology in an inspiring dynamic
               environment.
             </p>
-            <button>Register to Attend</button>
-            <button>Become a Sponsor</button>
+            <router-link to="/attend">
+              <button>Register to Attend</button>
+            </router-link>
+            <router-link to="/sponsors">
+              <button>Become a Sponsor</button>
+            </router-link>
           </div>
           <div class="col-md-6">
             <div class="eventcol">
@@ -45,13 +49,13 @@
             </div>
             <p class="text-white font-weight-bold t1">13-14 June 2022</p>
             <p class="text-white font-weight-bold t2">
-              Oman Convention & Exhibition Center
+              Grand Millennium Hotel, Muscat, Oman.
             </p>
 
             <div class="eventMobile">
               <p class="text-white font-weight-bold">13-14 June 2022</p>
               <p class="text-white font-weight-bold">
-                Oman Convention & Exhibition Center
+                Grand Millennium Hotel, Muscat, Oman.
               </p>
             </div>
           </div>
@@ -71,7 +75,8 @@ export default {
 #showcase {
   width: 100%;
   height: 700px;
-  background: url("@/assets/Images/waiting-room-with-monitors.jpg") no-repeat center center/cover;
+  background: url("@/assets/Images/waiting-room-with-monitors.jpg") no-repeat center
+    center/cover;
   position: relative;
 }
 
