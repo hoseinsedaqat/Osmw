@@ -38,6 +38,8 @@ export default {
   computed: {
     testlink(idx) {
       var test = this.SpeakerData[idx]
+      console.log(test);
+      console.log(test.page);
       return test.page;
     },
   },

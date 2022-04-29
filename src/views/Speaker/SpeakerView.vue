@@ -54,7 +54,7 @@
           </div>
         </div>
       </div>
-      <SpeakersSlider></SpeakersSlider>
+      <!-- <SpeakersSlider></SpeakersSlider> -->
       <FormContact></FormContact>
       <FormContacts></FormContacts>
       <FooterApp></FooterApp>
@@ -63,7 +63,7 @@
 </template>
 
 <script>
-import SpeakersSlider from "./Components/SpeakersSlider.vue";
+// import SpeakersSlider from "./Components/SpeakersSlider.vue";
 import { SpeakerData } from "@/data/SpeakersData";
 export default {
   name: "SpeakerView",
@@ -74,7 +74,7 @@ export default {
     };
   },
   components: {
-    SpeakersSlider,
+    // SpeakersSlider,
   },
   mounted() {
     var test = this.SpeakerData.find((data) => data.page === this.$route.params.id);
