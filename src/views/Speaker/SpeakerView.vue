@@ -5,17 +5,17 @@
       <div class="container">
         <div class="row my-5">
           <div class="col-md-6">
-            <h1 class="font-weight-bold">STEVE BAMBURY</h1>
-            <span>METAVERSE</span>
+            <h1 class="font-weight-bold">{{ data.name }}</h1>
+            <span>{{ data.career }}</span>
           </div>
           <div class="col-md-6 rightsideSpeakers">
             <p>APPEARING AT 11:00 // DAY ONE</p>
-            <span class="font-weight-bold">Vray and Metaverse</span>
+            <span class="font-weight-bold">{{ data.career }}</span>
           </div>
         </div>
         <div class="row mt-3">
           <div class="col-md-5">
-            <img src="@/assets/Images/SpeakersMain.png" alt="" class="img-fluid" />
+            <img :src="data.image" alt="" class="img-fluid h-100 w-100" />
           </div>
           <div class="col-md-6">
             <p class="textdownSpeakers">
@@ -64,10 +64,21 @@
 
 <script>
 import SpeakersSlider from "./Components/SpeakersSlider.vue";
+import { SpeakerData } from "@/data/SpeakersData";
 export default {
   name: "SpeakerView",
+  data() {
+    return {
+      SpeakerData,
+      data: {},
+    };
+  },
   components: {
     SpeakersSlider,
+  },
+  mounted() {
+    var test = this.SpeakerData.find((data) => data.page === this.$route.params.id);
+    this.data = test;
   },
 };
 </script>
@@ -95,12 +106,12 @@ export default {
 }
 
 .mt-6 {
-    margin: 5rem 0 0 0;
+  margin: 5rem 0 0 0;
 }
 
-@media screen and (max-width:1000px){
-    .textdownSpeakers{
-        margin: 1rem 0;
-    }
+@media screen and (max-width: 1000px) {
+  .textdownSpeakers {
+    margin: 1rem 0;
+  }
 }
 </style>

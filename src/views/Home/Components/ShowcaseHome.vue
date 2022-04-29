@@ -30,7 +30,7 @@
             <router-link to="/attend">
               <button>Register to Attend</button>
             </router-link>
-            <router-link to="/sponsors">
+            <router-link to="/sponsorship">
               <button>Become a Sponsor</button>
             </router-link>
           </div>

@@ -14,56 +14,67 @@ export const SpeakerData = [
     {
         name: 'Sharifa Al Buruomi',
         career: 'Business Woman, Speaker',
-        image: SpeakerOne
+        image: SpeakerOne,
+        page: 'SharifaAlBuruomi'
     },
     {
         name: 'Steve Bambury',
         career: 'Metaverse, Web3 and XR Consultant',
-        image: SpeakerTwo
+        image: SpeakerTwo,
+        page: 'SteveBambury'
     },
     {
         name: 'Thuraya Al Harthi',
         career: 'Speake, Digital Transformation, Innovation',
-        image: SpeakerThree
+        image: SpeakerThree,
+        page: 'ThurayaAlHarthi'
     },
     {
         name: 'Saba Al Busaidi',
         career: 'Senior Manager-Corporate Affairs - Omantel',
-        image: SpeakerFour
+        image: SpeakerFour,
+        page: 'SabaAlBusaidi'
     },
     {
         name: 'Aneela Hameed',
         career: 'Metaverse, Web3 and XR Consultant',
-        image: SpeakerFive
+        image: SpeakerFive,
+        page: 'AneelaHameed'
     },
     {
         name: 'Hala Al Zadjali',
         career: 'Speaker',
-        image: SpeakerSix
+        image: SpeakerSix,
+        page: 'HalaAlZadjali'
     },
     {
         name: 'Maged Farrag',
         career: 'Creative and Managing Director at 5dVR',
-        image: SpeakerSeven
+        image: SpeakerSeven,
+        page: 'MagedFarrag'
     },
     {
         name: 'Tariq Al Barwani',
         career: 'Award-Winning Technology Professional & Practical Motivational Speaker',
-        image: SpeakerEight
+        image: SpeakerEight,
+        page: 'TariqAlBarwani'
     },
     {
         name: 'Tazima Al Ghannami',
         career: 'Senior Manager HR Analytics, Omantel',
-        image: SpeakerNine
+        image: SpeakerNine,
+        page: 'TazimaAlGhannami'
     },
     {
         name: 'Said Al Busiaid',
         career: 'Manager Communication and Sustainability at Mazoon',
-        image: SpeakerTen
+        image: SpeakerTen,
+        page: 'SaidAlBusiaid'
     },
     {
         name: 'Rehab Ibrahim',
         career: 'Founder & MD, TEDx Speaker',
-        image: SpeakerEleven
+        image: SpeakerEleven,
+        page: 'RehabIbrahim'
     },
 ]
