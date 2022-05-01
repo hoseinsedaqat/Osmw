@@ -7,7 +7,7 @@
           <div class="overlay text-white">
             <div>{{ speaker.name }}</div>
             <p>{{ speaker.career }}</p>
-            <router-link :to="`/speaker/` + testlink(idx)">More</router-link>
+            <router-link :to="`/speaker/${speaker.page}`">More</router-link>
           </div>
         </div>
       </swiper-slide>
@@ -34,23 +34,6 @@ export default {
   components: {
     Swiper,
     SwiperSlide,
-  },
-  computed: {
-    testlink(idx) {
-      var test = this.SpeakerData[idx]
-      console.log(test);
-      console.log(test.page);
-      return test.page;
-    },
-  },
-  methods: {
-    // goToSpeaker() {
-    //   var test = this.SpeakerData[idx];
-    //   // window.location.href = window.location.origin + "/" + "speaker" + "/" + test.page;
-    //   // this.$router.push(`/speaker/${test.page}`);
-    //   // let link = document.createElement("a");
-    //   // link.href = window.location.href
-    // },
   },
 };
 </script>

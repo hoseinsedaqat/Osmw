@@ -47,14 +47,7 @@
             </div>
           </div>
         </div>
-        <div class="row mt-6">
-          <div class="col-md-12">
-            <!-- <h4 class="text-center">Check out the other</h4>
-            <h3 class="text-center">Speakers</h3> -->
-          </div>
-        </div>
       </div>
-      <!-- <SpeakersSlider></SpeakersSlider> -->
       <FormContact></FormContact>
       <FormContacts></FormContacts>
       <FooterApp></FooterApp>
@@ -63,7 +56,6 @@
 </template>
 
 <script>
-// import SpeakersSlider from "./Components/SpeakersSlider.vue";
 import { SpeakerData } from "@/data/SpeakersData";
 export default {
   name: "SpeakerView",
@@ -73,12 +65,11 @@ export default {
       data: {},
     };
   },
-  components: {
-    // SpeakersSlider,
-  },
   mounted() {
     var test = this.SpeakerData.find((data) => data.page === this.$route.params.id);
     this.data = test;
+    document.body.scrollTop = 1;
+    document.documentElement.scrollTop = 1;
   },
 };
 </script>
