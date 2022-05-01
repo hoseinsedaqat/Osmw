@@ -146,6 +146,8 @@ export default {
   },
   mounted() {
     this.defineClock();
+    document.body.scrollTop = 1;
+    document.documentElement.scrollTop = 1;
   },
 };
 </script>

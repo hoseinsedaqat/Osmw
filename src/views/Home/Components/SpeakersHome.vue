@@ -13,7 +13,7 @@
           <div class="overlay text-white">
             <div>Sharifa Al Buruomi</div>
             <p>Business Woman, Speaker</p>
-            <router-link to="/speakers">More</router-link>
+            <router-link to="/speaker/SharifaAlBuruomi">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
@@ -21,7 +21,7 @@
           <div class="overlay text-white">
             <div>Steve Bambury</div>
             <p>Metaverse, Web3 and XR Consultant</p>
-            <router-link to="/speakers">More</router-link>
+            <router-link to="/speaker/SteveBambury">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
@@ -33,7 +33,7 @@
           <div class="overlay text-white">
             <div>Thuraya Al Harthi</div>
             <p>Speake, Digital Transformation, Innovation</p>
-            <router-link to="/speakers">More</router-link>
+            <router-link to="/speaker/ThurayaAlHarthi">More</router-link>
           </div>
         </div>
       </div>
@@ -47,7 +47,7 @@
           <div class="overlay2 text-white">
             <div>Saba Al Busaidi</div>
             <p>Senior Manager-Corporate Affairs - Omantel</p>
-            <router-link to="/speakers">More</router-link>
+            <router-link to="/speaker/SabaAlBusaidi">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
@@ -59,7 +59,7 @@
           <div class="overlay2 text-white">
             <div>Aneela Hameed</div>
             <p>Metaverse, Web3 and XR Consultant</p>
-            <router-link to="/speakers">More</router-link>
+            <router-link to="/speaker/AneelaHameed">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
@@ -71,7 +71,7 @@
           <div class="overlay2 text-white">
             <div>Hala Al Zadjali</div>
             <p>Speaker</p>
-            <router-link to="/speakers">More</router-link>
+            <router-link to="/speaker/HalaAlZadjali">More</router-link>
           </div>
         </div>
       </div>
@@ -85,7 +85,7 @@
           <div class="overlay text-white">
             <div>Maged Farrag</div>
             <p>Creative and Managing Director at 5dVR</p>
-            <router-link to="/speakers">More</router-link>
+            <router-link to="/speaker/MagedFarrag">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
@@ -97,7 +97,7 @@
           <div class="overlay text-white">
             <div>Tariq Al Barwani</div>
             <p>Award-Winning Technology Professional & Practical Motivational Speaker</p>
-            <router-link to="/speakers">More</router-link>
+            <router-link to="/speaker/TariqAlBarwani">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
@@ -109,7 +109,7 @@
           <div class="overlay text-white">
             <div>Tazima Al Ghannami</div>
             <p>Senior Manager HR Analytics, Omantel</p>
-            <router-link to="/speakers">More</router-link>
+            <router-link to="/speaker/TazimaAlGhannami">More</router-link>
           </div>
         </div>
       </div>

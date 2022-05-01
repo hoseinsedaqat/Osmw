@@ -75,6 +75,10 @@ export default {
   components: {
     FormContactTwo,
   },
+  mounted(){
+    document.body.scrollTop = 1;
+    document.documentElement.scrollTop = 1;
+  }
 };
 </script>
 

@@ -97,6 +97,10 @@
 <script>
 export default {
   name: "AboutView",
+  mounted(){
+    document.body.scrollTop = 1;
+    document.documentElement.scrollTop = 1;
+  }
 };
 </script>
 
