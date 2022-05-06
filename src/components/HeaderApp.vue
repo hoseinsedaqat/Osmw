@@ -38,7 +38,7 @@
       </div>
     </header>
     <!-- for mobile -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-white">
+    <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
       <a class="navbar-brand" href="#"
         ><img src="@/assets/Images/HeaderIcon.png" alt="TitleOsmw"
       /></a>
