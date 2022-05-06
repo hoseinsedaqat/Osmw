@@ -69,10 +69,17 @@ export default {
   components: {
     SpeakersSlider,
   },
+  mounted() {
+    document.body.scrollTop = 1;
+    document.documentElement.scrollTop = 1;
+  },
 };
 </script>
 
 <style scoped>
+#speakersView {
+  margin: 10rem 0 0 0;
+}
 .rightsideSpeakers {
   display: flex;
   flex-direction: column;
@@ -95,12 +102,12 @@ export default {
 }
 
 .mt-6 {
-    margin: 5rem 0 0 0;
+  margin: 5rem 0 0 0;
 }
 
-@media screen and (max-width:1000px){
-    .textdownSpeakers{
-        margin: 1rem 0;
-    }
+@media screen and (max-width: 1000px) {
+  .textdownSpeakers {
+    margin: 1rem 0;
+  }
 }
 </style>

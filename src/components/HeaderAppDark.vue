@@ -112,6 +112,10 @@ header {
   width: 100%;
   padding: 1.4rem;
   color: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
 }
 header ul {
   list-style: none;

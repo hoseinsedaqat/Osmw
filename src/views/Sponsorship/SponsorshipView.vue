@@ -75,14 +75,17 @@ export default {
   components: {
     FormContactTwo,
   },
-  mounted(){
+  mounted() {
     document.body.scrollTop = 1;
     document.documentElement.scrollTop = 1;
-  }
+  },
 };
 </script>
 
 <style scoped>
+#sponsorShip {
+  margin: 5rem 0 0 0;
+}
 .attendBtn {
   border: none;
   padding: 0.5rem 1.5rem;

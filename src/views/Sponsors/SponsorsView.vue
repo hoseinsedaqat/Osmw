@@ -81,14 +81,17 @@
 <script>
 export default {
   name: "SponsorsView",
-  mounted(){
+  mounted() {
     document.body.scrollTop = 1;
     document.documentElement.scrollTop = 1;
-  }
+  },
 };
 </script>
 
 <style scoped>
+#sponsorsView {
+  margin: 5rem 0 0 0;
+}
 #sponsorsPartners {
   display: flex;
   align-items: center;

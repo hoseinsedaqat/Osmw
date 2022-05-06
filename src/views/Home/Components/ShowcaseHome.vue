@@ -73,6 +73,7 @@ export default {
 
 <style scoped>
 #showcase {
+  margin: 4rem 0 0 0;
   width: 100%;
   height: 700px;
   background: url("@/assets/Images/waiting-room-with-monitors.jpg") no-repeat center
@@ -121,6 +122,7 @@ export default {
 }
 @media screen and (max-width: 1000px) {
   #showcase {
+    margin: 0;
     height: 800px;
   }
   #showcase .eventcol div img {

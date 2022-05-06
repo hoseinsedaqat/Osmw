@@ -535,6 +535,7 @@ export default {
 <style scoped>
 #agenda {
   padding: 5rem;
+  margin: 5rem 0 0 0;
 }
 .happeningBtn button {
   margin: 0.1rem 1rem;

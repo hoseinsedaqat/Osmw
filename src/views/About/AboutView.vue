@@ -104,4 +104,8 @@ export default {
 };
 </script>
 
-<style scoped></style>
+<style scoped>
+#AboutUs{
+  margin: 10rem 0 0 0;
+}
+</style>

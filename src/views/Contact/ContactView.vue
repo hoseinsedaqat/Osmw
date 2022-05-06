@@ -54,4 +54,8 @@ export default {
 };
 </script>
 
-<style scoped></style>
+<style scoped>
+#contactView{
+  margin: 5rem 0 0 0;
+}
+</style>

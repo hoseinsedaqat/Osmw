@@ -75,6 +75,9 @@ export default {
 </script>
 
 <style scoped>
+#speakersView {
+  margin: 10rem 0 0 0;
+}
 .rightsideSpeakers {
   display: flex;
   flex-direction: column;

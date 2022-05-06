@@ -119,6 +119,9 @@ export default {
 </script>
 
 <style scoped>
+#media {
+  margin: 5rem 0 0 0;
+}
 .bg-pink {
   background-color: #e6007e;
 }
