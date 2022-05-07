@@ -115,6 +115,10 @@ export default {
   components: {
     FormContactTwo,
   },
+  mounted() {
+    document.body.scrollTop = 1;
+    document.documentElement.scrollTop = 1;
+  },
 };
 </script>
 
@@ -143,5 +147,11 @@ export default {
 
 .mainMediaTitle p {
   font-size: 30px;
+}
+
+@media screen and (max-width: 1000px) {
+  #media {
+    margin: 4rem 0 0 0;
+  }
 }
 </style>

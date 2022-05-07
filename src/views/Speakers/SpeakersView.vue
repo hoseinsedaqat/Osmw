@@ -109,5 +109,8 @@ export default {
   .textdownSpeakers {
     margin: 1rem 0;
   }
+  #speakersView {
+    margin: 5rem 0 0 0;
+  }
 }
 </style>

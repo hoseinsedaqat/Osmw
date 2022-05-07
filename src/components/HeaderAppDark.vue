@@ -5,7 +5,9 @@
       <div>
         <ul>
           <li>
-            <img src="@/assets/Images/HeaderIcon.png" alt="TitleOsmw" />
+            <router-link to="/">
+              <img src="@/assets/Images/HeaderIcon.png" alt="TitleOsmw" />
+            </router-link>
           </li>
           <li>
             <router-link to="/">Home</router-link>
@@ -39,9 +41,7 @@
     </header>
     <!-- for mobile -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-      <a class="navbar-brand" href="#"
-        ><img src="@/assets/Images/HeaderIcon.png" alt="TitleOsmw"
-      /></a>
+      <router-link to="/"><img src="@/assets/Images/HeaderIcon.png" alt="TitleOsmw" /> </router-link>
       <button
         class="navbar-toggler"
         type="button"

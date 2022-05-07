@@ -122,7 +122,7 @@ export default {
 }
 @media screen and (max-width: 1000px) {
   #showcase {
-    margin: 0;
+    margin: 4rem 0 0 0;
     height: 800px;
   }
   #showcase .eventcol div img {

@@ -108,4 +108,10 @@ export default {
 .sponsorsdefine {
   font-size: 0.9rem;
 }
+
+@media screen and (max-width: 1000px) {
+  #sponsorsView {
+    margin: 3rem 0 0 0;
+  }
+}
 </style>

@@ -58,4 +58,10 @@ export default {
 #contactView{
   margin: 5rem 0 0 0;
 }
+
+@media screen and (max-width: 1000px) {
+  #contactView {
+    margin: 3rem 0 0 0;
+  }
+}
 </style>

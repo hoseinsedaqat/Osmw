@@ -153,8 +153,8 @@ export default {
 </script>
 
 <style scoped>
-#attend{
-  margin: 5rem 0 0 0;
+#attend {
+  margin: 6rem 0 0 0;
 }
 .attendBtn {
   border: none;
@@ -170,5 +170,11 @@ export default {
   border-radius: 60px;
   padding: 2rem 0;
   color: #fff;
+}
+
+@media screen and (max-width: 1000px) {
+  #attend {
+    margin: 3rem 0 0 0;
+  }
 }
 </style>
