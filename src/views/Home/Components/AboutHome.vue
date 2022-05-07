@@ -1,6 +1,6 @@
 <template>
   <section id="oswmAbout">
-    <h2 class="text-center osmwTitle">ABOUT OSMW22</h2>
+    <h2 class="text-center osmwTitle font-weight-bold">ABOUT OSMW22</h2>
     <div class="container">
       <div class="row">
         <div class="col-md-6 mt-5">
