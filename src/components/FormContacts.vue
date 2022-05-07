@@ -1,11 +1,11 @@
 <template>
   <section id="formcontacts">
     <div class="container">
-      <div class="row mt-5 mx-5">
+      <div class="row mt-5 mx-5" id="contactUsAlign">
         <div class="col-md-6">
           <h3>Contact Us</h3>
           <p class="mt-3">
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+            perspiciatis unde omnis iste natus error sit voluptatem accusantium
             doloremque laudantium
           </p>
         </div>
@@ -147,6 +147,12 @@ div li {
 }
 i {
   color: #00aeef;
+}
+
+#contactUsAlign{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 textarea {
