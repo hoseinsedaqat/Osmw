@@ -27,7 +27,6 @@
           <li>
             <router-link to="/media">Media</router-link>
           </li>
-          <li>FAQS</li>
           <li>
             <router-link to="/contact-us">Contact Us</router-link>
           </li>
@@ -72,9 +71,6 @@
           </li>
           <li class="nav-item">
             <router-link class="nav-link" to="/media">Media</router-link>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">FAQS</a>
           </li>
           <li class="nav-item">
             <router-link class="nav-link" to="/contact-us">Contact Us</router-link>
