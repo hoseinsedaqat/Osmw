@@ -13,10 +13,11 @@
         </div>
         <div class="row">
           <div class="col-md-6 mt-3 mx-4 text-white">
-            <h3>
-              A LOOK AT CURRENT AND FUTURE TRENDS IN SOCIAL MEDIA & <br />
-              DIGITAL MARKETING.
-            </h3>
+            <h1 class="font-weight-bold">
+              Embrace The Future <br />
+              Of Social Media <br />
+              Marketing
+            </h1>
           </div>
         </div>
         <div class="row showcase-3">
