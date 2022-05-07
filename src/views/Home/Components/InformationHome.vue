@@ -4,16 +4,16 @@
     <div class="container">
       <div class="row mt-5">
         <div class="col-md-6">
-          <h1>Accelerating</h1>
-          <h1>the growth of</h1>
-          <h1 class="d-flex">
+          <h1 class="font-weight-bold">Accelerating</h1>
+          <h1 class="font-weight-bold">the growth of</h1>
+          <h1 class="d-flex font-weight-bold">
             <div>Oman's</div>
             <div class="pinkLayout">
               <span class="pinkLayoutChild"></span>
             </div>
           </h1>
-          <h1>Digital</h1>
-          <h1>Economy</h1>
+          <h1 class="font-weight-bold">Digital</h1>
+          <h1 class="font-weight-bold">Economy</h1>
         </div>
         <div class="col-md-6">
           <p>
@@ -59,7 +59,6 @@ export default {
   background-color: #e6007e;
   margin: 0 0 0 1rem;
 }
-
 #information .pinkLayout .pinkLayoutChild {
   position: absolute;
   width: 100px;
