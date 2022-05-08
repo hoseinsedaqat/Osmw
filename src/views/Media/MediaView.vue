@@ -5,7 +5,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 my-5">
-            <h3 class="text-center">LATEST NEWS</h3>
+            <h3 class="text-center font-weight-bold">LATEST NEWS</h3>
           </div>
         </div>
         <!-- Row One -->

@@ -106,7 +106,8 @@ export default {
 header {
   background: #1d272e;
   width: 100%;
-  padding: 1.4rem;
+  /* Sholud I Change */
+  padding: 1.3rem;
   color: #fff;
   position: fixed;
   top: 0;

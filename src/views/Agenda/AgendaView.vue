@@ -3,7 +3,7 @@
     <HeaderAppDark></HeaderAppDark>
     <section id="agenda">
     <h4 class="text-center text-muted">What’s happening?</h4>
-    <h2 class="text-center">Program</h2>
+    <h2 class="text-center font-weight-bold">Program</h2>
     <div class="container">
       <div class="row">
         <div class="col-md-6 offset-md-2">

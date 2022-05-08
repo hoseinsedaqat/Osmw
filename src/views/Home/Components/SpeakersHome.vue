@@ -1,7 +1,7 @@
 <template>
   <section id="speakres">
     <h4 class="text-center py-2">SHARE THE KNOWLEDGE</h4>
-    <h2 class="text-center py-1">SPEAKERS</h2>
+    <h2 class="text-center py-3 font-weight-bold">SPEAKERS</h2>
     <div class="container">
       <div class="row no-gutters">
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">

@@ -1,6 +1,6 @@
 <template>
   <section id="tickts">
-    <h5 class="text-center">GET YOUR LEARN ON</h5>
+    <h5 class="text-center font-weight-bold">GET YOUR LEARN ON</h5>
     <h2 class="text-center">TICKETS</h2>
     <!-- Images Absolute -->
     <div class="flashTImg">
@@ -16,7 +16,7 @@
           <div class="cards" id="cardOne">
             <div class="card-body">
               <h5 class="text-center">One Day Pass</h5>
-              <h2 class="text-center">OR 100</h2>
+              <h2 class="text-center font-weight-bold">OR 100</h2>
               <p class="mt-4 text-center">Admission Options</p>
               <div class="mt-5 ftickts">
                 <div class="my-1">
@@ -55,7 +55,7 @@
           <div class="cards" id="cardTwo">
             <div class="card-body">
               <h5 class="text-center">Two Days Pass</h5>
-              <h2 class="text-center">OR 150</h2>
+              <h2 class="text-center font-weight-bold">OR 150</h2>
               <p class="mt-4 text-center">Admission Options</p>
               <div class="mt-5 ftickts">
                 <div class="my-1">
@@ -101,7 +101,7 @@
           <div class="cards" id="cardOne">
             <div class="card-body">
               <h5 class="text-center">Group Booking</h5>
-              <h2 class="text-center">_ _ _</h2>
+              <h2 class="text-center font-weight-bold">_ _ _</h2>
               <p class="mt-4 text-center">Admission to Conference</p>
               <div class="mt-5 ftickts">
                 <div class="my-1">

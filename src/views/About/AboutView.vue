@@ -14,7 +14,7 @@
         </div>
         <div class="row">
           <div class="col-md-12">
-            <h3 class="text-center my-2">ABOUT OSMW22</h3>
+            <h3 class="text-center my-2 font-weight-bold">ABOUT OSMW22</h3>
             <p class="text-center my-4">
               Oman Social Media Week 2022 facilitates the understanding of diverse social
               media tools and platforms and their impact on society, business, and the
@@ -32,7 +32,7 @@
         </div>
         <div class="row mt-5">
           <div class="col-md 12">
-            <h3 class="text-center">MEET THE TEAM</h3>
+            <h3 class="text-center font-weight-bold mbkk">MEET THE TEAM</h3>
           </div>
         </div>
         <div class="row mt-5">
