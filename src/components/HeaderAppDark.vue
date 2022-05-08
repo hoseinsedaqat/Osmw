@@ -22,7 +22,7 @@
             <router-link to="/speakers"> Speakers</router-link>
           </li>
           <li>
-            <router-link to="/sponsors">Sponsers</router-link>
+            <router-link to="/sponsors">Sponsors</router-link>
           </li>
           <li>
             <router-link to="/media">Media</router-link>
@@ -67,7 +67,7 @@
             <router-link class="nav-link" to="/speakers">Speakers</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/sponsors">Sponsers</router-link>
+            <router-link class="nav-link" to="/sponsors">Sponsors</router-link>
           </li>
           <li class="nav-item">
             <router-link class="nav-link" to="/media">Media</router-link>
