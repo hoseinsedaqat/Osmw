@@ -53,18 +53,18 @@
           <div>
             <h4>Contact Info:</h4>
             <li class="mt-4">
-              <i class="fas fa-map-marked"></i>
+              <img src="@/assets/Images/Locatioons.png" alt="" style="width:30px;">
               <span class="mx-2"
                 >Madinat Sultan Qaboos, Way no. 1947, Villa no. 2551</span
               >
             </li>
             <li class="mt-4">
-              <i class="fas fa-mobile"></i>
+              <img src="@/assets/Images/telephone.png" alt="" style="width:30px;">
               <span class="mx-2">+968 24694905</span>
-              <p class="mx-3 mt-1">+968 94060921</p>
+              <p class="m-self mt-1">+968 94060921</p>
             </li>
             <li class="mt-4">
-              <i class="fa fa-envelope"></i>
+              <img src="@/assets/Images/emails.png" alt="" style="width:30px;">
               <span class="mx-2">enquiry@npa.om</span>
             </li>
           </div>
@@ -192,6 +192,10 @@ textarea:focus {
 
 .social-icons li {
   margin: 0 1rem 0 0;
+}
+
+.m-self{
+  margin: 0 0 0 2.4rem;
 }
 
 @media screen and (max-width: 1000px) {
