@@ -37,6 +37,23 @@
         </div>
         <div class="row mt-5">
           <div class="col-md-4 text-center mt-3">
+            <img src="@/assets/Images/Member10.png" alt="" class="img-fluid" />
+            <h4 class="my-3">EISSA AL ZADJALI</h4>
+            <span>Management</span>
+          </div>
+          <div class="col-md-4 text-center mt-3">
+            <img src="@/assets/Images/Member11.png" alt="" class="img-fluid" />
+            <h4 class="my-3">AMINA AL ZADJALI</h4>
+            <span>Management</span>
+          </div>
+          <div class="col-md-4 text-center mt-3">
+            <img src="@/assets/Images/Member12.png" alt="" class="img-fluid" />
+            <h4 class="my-3">AMMAR GHABRIS</h4>
+            <span>Management</span>
+          </div>
+        </div>
+        <div class="row mt-5">
+          <div class="col-md-4 text-center mt-3">
             <img src="@/assets/Images/Member1.png" alt="" class="img-fluid" />
             <h4 class="my-3">TAREK ALI</h4>
             <span>Event Program & Sponsorship</span>
@@ -97,15 +114,15 @@
 <script>
 export default {
   name: "AboutView",
-  mounted(){
+  mounted() {
     document.body.scrollTop = 1;
     document.documentElement.scrollTop = 1;
-  }
+  },
 };
 </script>
 
 <style scoped>
-#AboutUs{
+#AboutUs {
   margin: 10rem 0 0 0;
 }
 </style>
