@@ -122,8 +122,10 @@
             src="@/assets/Images/Screen Shot 2022-04-21 at 3.43.31 PM.png"
             alt=""
             class="speakersImg h-100"
-          />
-          <h4 class="text-center my-3">Sharifa Al Buruomi</h4>
+          /> 
+          <router-link to="/speaker/SharifaAlBuruomi" class="btn btn-light w-100">
+            <h4 class="text-center my-3">Sharifa Al Buruomi</h4>
+          </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <img
@@ -131,7 +133,9 @@
             alt=""
             class="speakersImg h-100"
           />
-          <h4 class="text-center my-3">Steve Bambury</h4>
+          <router-link to="/speaker/SteveBambury" class="btn btn-light w-100">
+            <h4 class="text-center my-3">Steve Bambury</h4>
+          </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <img
@@ -139,7 +143,9 @@
             alt=""
             class="speakersImg h-100"
           />
-          <h4 class="text-center my-3">Thuraya Al Harthi</h4>
+         <router-link to="/speaker/ThurayaAlHarthi" class="btn btn-light w-100">
+            <h4 class="text-center my-3">Thuraya Al Harthi</h4>
+         </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <img
@@ -147,7 +153,9 @@
             alt=""
             class="speakersImg h-100"
           />
-          <h4 class="text-center my-3">Saba Al Busaidi</h4>
+          <router-link to="/speaker/SabaAlBusaidi" class="btn btn-light w-100">
+            <h4 class="text-center my-3">Saba Al Busaidi</h4>
+          </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <img
@@ -155,7 +163,9 @@
             alt=""
             class="speakersImg h-100"
           />
-          <h4 class="text-center my-3">Aneela Hameed</h4>
+          <router-link to="/speaker/AneelaHameed" class="btn btn-light w-100">
+            <h4 class="text-center my-3">Aneela Hameed</h4>
+          </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <img
@@ -163,7 +173,9 @@
             alt=""
             class="speakersImg h-100"
           />
-          <h4 class="text-center my-3">Hala Al Zadjali</h4>
+          <router-link to="/speaker/HalaAlZadjali" class="btn btn-light w-100">
+            <h4 class="text-center my-3">Hala Al Zadjali</h4>
+          </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <img
@@ -171,7 +183,9 @@
             alt=""
             class="speakersImg h-100"
           />
-          <h4 class="text-center my-3">Maged Farrag</h4>
+          <router-link to="/speaker/MagedFarrag" class="btn btn-light w-100">
+            <h4 class="text-center my-3">Maged Farrag</h4>
+          </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <img
@@ -179,7 +193,9 @@
             alt=""
             class="speakersImg h-100"
           />
-          <h4 class="text-center my-3">Tariq Al Barwani</h4>
+          <router-link to="/speaker/TariqAlBarwani" class="btn btn-light w-100">
+            <h4 class="text-center my-3">Tariq Al Barwani</h4>
+          </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <img
@@ -187,7 +203,9 @@
             alt=""
             class="speakersImg h-100"
           />
-          <h4 class="text-center my-3">Tazima Al Ghannami</h4>
+          <router-link to="/speaker/TazimaAlGhannami" class="btn btn-light w-100">
+            <h4 class="text-center my-3">Tazima Al Ghannami</h4>
+          </router-link>
         </div>
       </div>
     </div>
