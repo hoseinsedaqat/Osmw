@@ -1,6 +1,6 @@
 <template>
   <section id="sponsors">
-    <h3 class="text-center mt-5">SPONSORS</h3>
+    <h3 class="text-center mt-5 font-weight-bold">SPONSORS</h3>
     <p class="text-center mt-4 mx-2">
       OSMW 2022 would not be possible without a dedicated group of supporters and friends.
     </p>
