@@ -118,76 +118,76 @@
     <div class="container" id="smScreen">
       <div class="row">
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <h4 class="text-center">Sharifa Al Buruomi</h4>
           <img
             src="@/assets/Images/Screen Shot 2022-04-21 at 3.43.31 PM.png"
             alt=""
             class="speakersImg h-100"
           />
+          <h4 class="text-center my-3">Sharifa Al Buruomi</h4>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <h4 class="text-center">Steve Bambury</h4>
           <img
             src="@/assets/Images/SpeakersMain.png"
             alt=""
             class="speakersImg h-100"
           />
+          <h4 class="text-center my-3">Steve Bambury</h4>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <h4 class="text-center">Thuraya Al Harthi</h4>
           <img
             src="@/assets/Images/Thuraya Al Harthi- Speaker_ Digital Transformation_ Innovation.jpeg"
             alt=""
             class="speakersImg h-100"
           />
+          <h4 class="text-center my-3">Thuraya Al Harthi</h4>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <h4 class="text-center">Saba Al Busaidi</h4>
           <img
             src="@/assets/Images/Saba Al Busaidi- Senior Manager Corporate Affairs at Omantel .jpeg"
             alt=""
             class="speakersImg h-100"
           />
+          <h4 class="text-center my-3">Saba Al Busaidi</h4>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <h4 class="text-center">Aneela Hameed</h4>
           <img
             src="@/assets/Images/Aneela Hameed- Speaker _ Writer _ Marketing & Communication.jpeg"
             alt=""
             class="speakersImg h-100"
           />
+          <h4 class="text-center my-3">Aneela Hameed</h4>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <h4 class="text-center">Hala Al Zadjali</h4>
           <img
             src="@/assets/Images/Hala Al Zadjali.jpeg"
             alt=""
             class="speakersImg h-100"
           />
+          <h4 class="text-center my-3">Hala Al Zadjali</h4>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <h4 class="text-center">Maged Farrag</h4>
           <img
             src="@/assets/Images/Maged Farrag-Creative and Managing Director at 5dVR.jpeg"
             alt=""
             class="speakersImg h-100"
           />
+          <h4 class="text-center my-3">Maged Farrag</h4>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <h4 class="text-center">Tariq Al Barwani</h4>
           <img
             src="@/assets/Images/Tariq Al Barwani-Award-Winning Technology Professional & Practical Motivational Speaker .jpeg"
             alt=""
             class="speakersImg h-100"
           />
+          <h4 class="text-center my-3">Tariq Al Barwani</h4>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <h4 class="text-center">Tazima Al Ghannami</h4>
           <img
             src="@/assets/Images/Tazima Al Ghannami- Senior Manager HR Analytics, Omantel.jpeg"
             alt=""
             class="speakersImg h-100"
           />
+          <h4 class="text-center my-3">Tazima Al Ghannami</h4>
         </div>
       </div>
     </div>
