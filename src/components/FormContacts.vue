@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row mt-5 mx-5" id="contactUsAlign">
         <div class="col-md-6">
-          <h3>Contact Us</h3>
+          <h3 class="font-weight-bold">Contact Us</h3>
           <p class="mt-3">
             perspiciatis unde omnis iste natus error sit voluptatem accusantium
             doloremque laudantium

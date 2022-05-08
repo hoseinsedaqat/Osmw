@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="form-card">
-            <h3>
+            <h3 class="font-weight-bold">
               Join the newsletter and get all <br />
               updates and new blogs
             </h3>
