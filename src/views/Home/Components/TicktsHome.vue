@@ -16,7 +16,7 @@
           <div class="cards" id="cardOne">
             <div class="card-body">
               <h5 class="text-center">One Day Pass</h5>
-              <h2 class="text-center font-weight-bold">OR 100</h2>
+              <h1 class="text-center font-weight-bold">OR 100</h1>
               <p class="mt-4 text-center">Admission Options</p>
               <div class="mt-5 ftickts">
                 <div class="my-1">
@@ -55,7 +55,7 @@
           <div class="cards" id="cardTwo">
             <div class="card-body">
               <h5 class="text-center">Two Days Pass</h5>
-              <h2 class="text-center font-weight-bold">OR 150</h2>
+              <h1 class="text-center font-weight-bold">OR 150</h1>
               <p class="mt-4 text-center">Admission Options</p>
               <div class="mt-5 ftickts">
                 <div class="my-1">
@@ -101,7 +101,7 @@
           <div class="cards" id="cardOne">
             <div class="card-body">
               <h5 class="text-center">Group Booking</h5>
-              <h2 class="text-center font-weight-bold">_ _ _</h2>
+              <h1 class="text-center font-weight-bold">_ _ _</h1>
               <p class="mt-4 text-center">Admission to Conference</p>
               <div class="mt-5 ftickts">
                 <div class="my-1">
