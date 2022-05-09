@@ -4,6 +4,7 @@
       <div class="row mt-5 mx-5" id="contactUsAlign">
         <div class="col-md-6">
           <h3 class="font-weight-bold">Contact Us</h3>
+          <p id="pinkBelow"></p>
           <p class="mt-3">
             perspiciatis unde omnis iste natus error sit voluptatem accusantium
             doloremque laudantium
@@ -196,6 +197,12 @@ textarea:focus {
 
 .m-self{
   margin: 0 0 0 2.4rem;
+}
+
+#pinkBelow {
+  width: 50px;
+  height: 3px;
+  background: #e6007e;
 }
 
 @media screen and (max-width: 1000px) {
