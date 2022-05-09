@@ -4,9 +4,9 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 my-5">
-            <div class="bg-pink text-white">
+            <div class="bg-pink text-white add-flex">
               <h4>Enquiry Registration</h4>
-              <select name="" id="" v-model="access" class="form-control col-md-3" required>
+              <select name="" id="" v-model="access" class="form-control col-md-3 add-mt" required>
                 <option value="Group Booking" selected>Group Booking</option>
                 <option value="Two Days">Two Days</option>
                 <option value="One Day">One Day</option>
@@ -287,5 +287,15 @@ export default {
   color: #fff;
   margin: 0.4rem 1rem 0 0;
   border-radius: 6px;
+}
+
+@media screen and (max-width:1000px){
+  .add-flex {
+    display: flex !important;
+    flex-direction: column;
+  }
+  .add-mt {
+    margin: 0.5rem 0 0 0;
+  }
 }
 </style>
