@@ -118,91 +118,109 @@
     <div class="container" id="smScreen">
       <div class="row">
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <img
+         <router-link to="/speaker/SharifaAlBuruomi">
+            <img
             src="@/assets/Images/Screen Shot 2022-04-21 at 3.43.31 PM.png"
             alt=""
             class="speakersImg h-100"
           /> 
+         </router-link>
           <router-link to="/speaker/SharifaAlBuruomi" class="btn btn-light w-100">
             <h4 class="text-center my-3">Sharifa Al Buruomi</h4>
           </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <img
+          <router-link to="/speaker/SteveBambury">
+            <img
             src="@/assets/Images/SpeakersMain.png"
             alt=""
             class="speakersImg h-100"
           />
+          </router-link>
           <router-link to="/speaker/SteveBambury" class="btn btn-light w-100">
             <h4 class="text-center my-3">Steve Bambury</h4>
           </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <img
+          <router-link to="/speaker/ThurayaAlHarthi">
+            <img
             src="@/assets/Images/Thuraya Al Harthi- Speaker_ Digital Transformation_ Innovation.jpeg"
             alt=""
             class="speakersImg h-100"
           />
+          </router-link>
          <router-link to="/speaker/ThurayaAlHarthi" class="btn btn-light w-100">
             <h4 class="text-center my-3">Thuraya Al Harthi</h4>
          </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <img
+          <router-link to="/speaker/SabaAlBusaidi">
+            <img
             src="@/assets/Images/Saba Al Busaidi- Senior Manager Corporate Affairs at Omantel .jpeg"
             alt=""
             class="speakersImg h-100"
           />
+          </router-link>
           <router-link to="/speaker/SabaAlBusaidi" class="btn btn-light w-100">
             <h4 class="text-center my-3">Saba Al Busaidi</h4>
           </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <img
+          <router-link to="/speaker/AneelaHameed">
+            <img
             src="@/assets/Images/Aneela Hameed- Speaker _ Writer _ Marketing & Communication.jpeg"
             alt=""
             class="speakersImg h-100"
           />
+          </router-link>
           <router-link to="/speaker/AneelaHameed" class="btn btn-light w-100">
             <h4 class="text-center my-3">Aneela Hameed</h4>
           </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <img
+          <router-link to="/speaker/HalaAlZadjali">
+            <img
             src="@/assets/Images/Hala Al Zadjali.jpeg"
             alt=""
             class="speakersImg h-100"
           />
+          </router-link>
           <router-link to="/speaker/HalaAlZadjali" class="btn btn-light w-100">
             <h4 class="text-center my-3">Hala Al Zadjali</h4>
           </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <img
+         <router-link to="/speaker/MagedFarrag">
+            <img
             src="@/assets/Images/Maged Farrag-Creative and Managing Director at 5dVR.jpeg"
             alt=""
             class="speakersImg h-100"
           />
+         </router-link>
           <router-link to="/speaker/MagedFarrag" class="btn btn-light w-100">
             <h4 class="text-center my-3">Maged Farrag</h4>
           </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <img
+          <router-link to="/speaker/TariqAlBarwani">
+            <img
             src="@/assets/Images/Tariq Al Barwani-Award-Winning Technology Professional & Practical Motivational Speaker .jpeg"
             alt=""
             class="speakersImg h-100"
           />
+          </router-link>
           <router-link to="/speaker/TariqAlBarwani" class="btn btn-light w-100">
             <h4 class="text-center my-3">Tariq Al Barwani</h4>
           </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <img
+          <router-link to="/speaker/TazimaAlGhannami">
+            <img
             src="@/assets/Images/Tazima Al Ghannami- Senior Manager HR Analytics, Omantel.jpeg"
             alt=""
             class="speakersImg h-100"
           />
+          </router-link>
           <router-link to="/speaker/TazimaAlGhannami" class="btn btn-light w-100">
             <h4 class="text-center my-3">Tazima Al Ghannami</h4>
           </router-link>

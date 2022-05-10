@@ -1,7 +1,7 @@
 <template>
   <section id="tickts">
     <h5 class="text-center font-weight-bold">GET YOUR LEARN ON</h5>
-    <h2 class="text-center">TICKETS</h2>
+    <h2 class="text-center font-weight-bold">TICKETS</h2>
     <!-- Images Absolute -->
     <div class="flashTImg">
       <img src="@/assets/Images/tikcts2.png" alt="" />
