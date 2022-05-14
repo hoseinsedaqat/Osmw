@@ -6,14 +6,27 @@
       <h2 class="text-center font-weight-bold">Program</h2>
       <div class="container">
         <div class="row">
-          <div class="col-md-6 offset-md-2">
-            <div class="d-flex happeningBtn">
-              <button>Day One</button>
-              <button>Day Two</button>
+          <div class="col-md-6 mx-auto my-3">
+            <div
+              class="d-flex happeningBtn d-flex-align-items-center justify-content-center"
+            >
+              <button @click="dayOneClick">Day One</button>
+              <button @click="dayTwoClick">Day Two</button>
             </div>
           </div>
         </div>
-        <div class="row mt-3">
+        <div class="row my-3" v-if="dayOne">
+          <div class="col-md-6 mx-auto text-center">
+            <h2>Day One</h2>
+          </div>
+        </div>
+        <div class="row my-3" v-if="dayTwo">
+          <div class="col-md-6 mx-auto text-center">
+            <h2>Day Two</h2>
+          </div>
+        </div>
+        <!-- Day One -->
+        <div class="row mt-3" v-if="dayOne">
           <div class="col-md-10 offset-md-1">
             <div class="eventHappening">
               <div class="eventTitle">
@@ -173,7 +186,6 @@
                 </span>
               </div>
               <p class="collapse" id="eventOne">
-                <!-- <span class="font-weight-bold d-block m-4"> Moderator: TBC</span> -->
                 <span>
                   <span class="font-weight-bold d-block m-4">
                     Points of Discussion:
@@ -291,7 +303,8 @@
                       style="width: 50px; border-radius: 50%"
                       alt=""
                     />
-                    Senior Executive of Governance</li>
+                    Senior Executive of Governance
+                  </li>
                   <li class="m-4">
                     <img
                       src="@/assets/Images/Screen Shot 2022-04-21 at 3.43.31 PM.png"
@@ -348,10 +361,8 @@
               </div>
               <p class="collapse" id="eventThree">
                 <span>
-                  <span class="font-weight-bold d-block m-4">
-                    Speakers:
-                  </span>
-                   <li class="m-4">
+                  <span class="font-weight-bold d-block m-4"> Speakers: </span>
+                  <li class="m-4">
                     <img
                       src="@/assets/Images/SpeakersMain.png"
                       style="width: 50px; border-radius: 50%"
@@ -366,7 +377,9 @@
               <div class="d-flex align-items-center justify-content-between">
                 <div class="eventTitle">
                   <span>14:30 am</span>
-                  <span>Keynote: Data Analytics: evaluating ROI and forecasting performance </span>
+                  <span
+                    >Keynote: Data Analytics: evaluating ROI and forecasting performance
+                  </span>
                 </div>
                 <span
                   data-toggle="collapse"
@@ -390,9 +403,7 @@
                 </span>
               </div>
               <p class="collapse font-sm-own" id="eventFour">
-                  <span>
-                    Mr. Arvindo Shankar: Marketing Director at Tamimah Group
-                  </span>
+                <span> Mr. Arvindo Shankar: Marketing Director at Tamimah Group </span>
               </p>
             </div>
             <div class="eventHappening">
@@ -427,9 +438,7 @@
               </div>
               <p class="collapse" id="eventFive">
                 <span>
-                  <span class="font-weight-bold d-block m-4">
-                    Speakers:
-                  </span>
+                  <span class="font-weight-bold d-block m-4"> Speakers: </span>
                   <li class="m-4">
                     <img
                       src="@/assets/Images/SpeakersMain.png"
@@ -446,7 +455,8 @@
                 <div class="eventTitle">
                   <span>15:30 am</span>
                   <span
-                    >Keynote: Social selling and customer service: Omni-channel customer nurturing
+                    >Keynote: Social selling and customer service: Omni-channel customer
+                    nurturing
                   </span>
                 </div>
                 <span
@@ -476,6 +486,310 @@
             </div>
           </div>
         </div>
+
+        <!-- Day Two -->
+        <div class="row mt-3" v-if="dayTwo">
+          <div class="col-md-10 offset-md-1">
+            <div class="eventHappening">
+              <div class="d-flex align-items-center justify-content-between">
+                <div class="eventTitle">
+                  <span>09:00 am</span>
+                  <span>Registration and networking</span>
+                </div>
+                <span
+                  data-toggle="collapse"
+                  href="#eventTen"
+                  role="button"
+                  aria-expanded="false"
+                  aria-controls="eventTen"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="16"
+                    height="16"
+                    fill="currentColor"
+                    class="bi bi-caret-down-fill"
+                    viewBox="0 0 16 16"
+                  >
+                    <path
+                      d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
+                    />
+                  </svg>
+                </span>
+              </div>
+              <p class="collapse font-sm-own" id="eventTen">
+                <span class="d-block"> - Participant’s Arrival </span>
+                <span class="d-block">
+                  - Collect details of the participants (company name, contact details)
+                </span>
+                <span>
+                  - Ushers/Usherettes to guide the participants to the ballroom
+                </span>
+              </p>
+            </div>
+            <div class="eventHappening">
+              <div class="eventTitle">
+                <span>10:00 am</span>
+                <span>Welcome note - NPA representative</span>
+              </div>
+            </div>
+            <div class="eventHappening">
+              <div class="d-flex align-items-center justify-content-between">
+                <div class="eventTitle">
+                  <span>10:05 am</span>
+                  <span
+                    >Panel Discussion: The Influencers Talks: The growing importance of
+                    influencer marketing
+                  </span>
+                </div>
+                <span
+                  data-toggle="collapse"
+                  href="#eventEleven"
+                  role="button"
+                  aria-expanded="false"
+                  aria-controls="eventEleven"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="16"
+                    height="16"
+                    fill="currentColor"
+                    class="bi bi-caret-down-fill"
+                    viewBox="0 0 16 16"
+                  >
+                    <path
+                      d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
+                    />
+                  </svg>
+                </span>
+              </div>
+              <p class="collapse" id="eventEleven">
+                <span>
+                  <span class="font-weight-bold d-block m-4">
+                    Points of Discussion:
+                  </span>
+                  <li class="m-4">
+                    The value of influencers in the socio-economic landscape of a country.
+                  </li>
+                  <li class="m-4">
+                    From quick results to strategizing influencer marketing: how to work
+                    with influencers to build long-term strategy for community engagement.
+                  </li>
+                  <li class="m-4">
+                    Influencer marketing best practices: how to collaborate with
+                    influencers to obtain best results for building a strong brand
+                    presence.
+                  </li>
+                  <li class="m-4">
+                    Advertising and social media: how creativity in curating content is
+                    impacting leads acquisition and social media engagement.
+                  </li>
+                  <span class="font-weight-bold d-block m-4">
+                    MCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
+                    Practical Motivational Speaker
+                  </span>
+                  <span class="font-weight-bold d-block mx-4">
+                    Speakers: (Reserved)
+                  </span>
+                  <li class="m-4">Hawra Al Farsi: Influencer, TV Host</li>
+                  <li class="m-4">Taj Noor: Influencer, TV & Radio Presenter</li>
+                  <li class="m-4">
+                    Ibtihal Al Zadjali: (TBC)Influencer, Omani Media Personality
+                  </li>
+                  <li class="m-4">Dr. Ahmed Murad: Influencer & Speaker: Community</li>
+                </span>
+              </p>
+            </div>
+            <div class="eventHappening">
+              <div class="d-flex align-items-center justify-content-between">
+                <div class="eventTitle">
+                  <span>10:30 am</span>
+                  <span>Morning Break</span>
+                </div>
+              </div>
+            </div>
+            <div class="eventHappening">
+              <div class="d-flex align-items-center justify-content-between">
+                <div class="eventTitle">
+                  <span>11:05 am</span>
+                  <span>Panel Discussion: </span>
+                </div>
+                <span
+                  data-toggle="collapse"
+                  href="#eventTwelve"
+                  role="button"
+                  aria-expanded="false"
+                  aria-controls="eventTwelve"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="16"
+                    height="16"
+                    fill="currentColor"
+                    class="bi bi-caret-down-fill"
+                    viewBox="0 0 16 16"
+                  >
+                    <path
+                      d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
+                    />
+                  </svg>
+                </span>
+              </div>
+              <p class="collapse" id="eventTwelve">
+                <span>
+                  <span class="font-weight-bold d-block m-4">
+                    Creative influencing: how content, planning and strategy makes all the
+                    difference
+                  </span>
+                  <span class="font-weight-bold d-block m-4">
+                    MCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
+                    Practical Motivational Speaker
+                  </span>
+                  <span class="font-weight-bold d-block mx-4">
+                    Speakers: (Reserved)
+                  </span>
+                  <li class="m-4">Imad Al Habsi | Video Creator</li>
+                  <li class="m-4">
+                    Harith AlShereiqi| Adventurer| Travel content creator
+                  </li>
+                </span>
+              </p>
+            </div>
+            <div class="eventHappening">
+              <div class="d-flex align-items-center justify-content-between">
+                <div class="eventTitle">
+                  <span>12:00 am</span>
+                  <span>Photo booth and Networking with influencers </span>
+                </div>
+              </div>
+            </div>
+            <div class="eventHappening">
+              <div class="d-flex align-items-center justify-content-between">
+                <div class="eventTitle">
+                  <span>13:00 am</span>
+                  <span>Lunch Break and networking</span>
+                </div>
+              </div>
+            </div>
+            <div class="eventHappening">
+              <div class="d-flex align-items-center justify-content-between">
+                <div class="eventTitle">
+                  <span>14:30 am</span>
+                  <span
+                    >Case Study: Harnessing the impact of influencer marketing in tourism
+                    by meaningful and authentic content
+                  </span>
+                </div>
+                <span
+                  data-toggle="collapse"
+                  href="#eventThirteen"
+                  role="button"
+                  aria-expanded="false"
+                  aria-controls="eventThirteen"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="16"
+                    height="16"
+                    fill="currentColor"
+                    class="bi bi-caret-down-fill"
+                    viewBox="0 0 16 16"
+                  >
+                    <path
+                      d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
+                    />
+                  </svg>
+                </span>
+              </div>
+              <p class="collapse" id="eventThirteen">
+                <span>
+                  <span class="font-weight-bold d-block m-4"> Speakers: (Reserved) </span>
+                  <li class="m-4">
+                    Harith AlShereiqi| Adventurer| Travel content creator
+                  </li>
+                </span>
+              </p>
+            </div>
+            <div class="eventHappening">
+              <div class="d-flex align-items-center justify-content-between">
+                <div class="eventTitle">
+                  <span>14:30 am</span>
+                  <span>Case Study: social media in telecommunication</span>
+                </div>
+                <span
+                  data-toggle="collapse"
+                  href="#eventFourteen"
+                  role="button"
+                  aria-expanded="false"
+                  aria-controls="eventFourteen"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="16"
+                    height="16"
+                    fill="currentColor"
+                    class="bi bi-caret-down-fill"
+                    viewBox="0 0 16 16"
+                  >
+                    <path
+                      d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
+                    />
+                  </svg>
+                </span>
+              </div>
+              <p class="collapse" id="eventFourteen">
+                <span class="font-weight-bold d-block m-4"> Omantel </span>
+              </p>
+            </div>
+            <div class="eventHappening">
+              <div class="d-flex align-items-center justify-content-between">
+                <div class="eventTitle">
+                  <span>15:00 am</span>
+                  <span>Case Study: social media in Banking </span>
+                </div>
+                <span
+                  data-toggle="collapse"
+                  href="#eventFiftheen"
+                  role="button"
+                  aria-expanded="false"
+                  aria-controls="eventFiftheen"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="16"
+                    height="16"
+                    fill="currentColor"
+                    class="bi bi-caret-down-fill"
+                    viewBox="0 0 16 16"
+                  >
+                    <path
+                      d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
+                    />
+                  </svg>
+                </span>
+              </div>
+              <p class="collapse" id="eventFiftheen">
+                <span class="font-weight-bold d-block m-4"> Bank Muscat </span>
+              </p>
+            </div>
+            <div class="eventHappening">
+              <div class="d-flex align-items-center justify-content-between">
+                <div class="eventTitle">
+                  <span>15:30 am</span>
+                  <span>Case study: social media in tourism </span>
+                </div>
+              </div>
+            </div>
+            <div class="eventHappening">
+              <div class="d-flex align-items-center justify-content-between">
+                <div class="eventTitle">
+                  <span>16:00 am</span>
+                  <span>Event Closing Remarks </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
     <FormContacts></FormContacts>
@@ -486,6 +800,22 @@
 <script>
 export default {
   name: "AgendaView",
+  data() {
+    return {
+      dayOne: true,
+      dayTwo: false,
+    };
+  },
+  methods: {
+    dayOneClick() {
+      this.dayOne = true;
+      this.dayTwo = false;
+    },
+    dayTwoClick() {
+      this.dayOne = false;
+      this.dayTwo = true;
+    },
+  },
   mounted() {
     document.body.scrollTop = 1;
     document.documentElement.scrollTop = 1;
