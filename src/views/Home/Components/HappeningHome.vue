@@ -845,6 +845,11 @@ export default {
   margin: 0.8rem 0;
 }
 
+.font-sm-own {
+  font-size: 14px;
+  margin: 1rem 0 0 0 !important;
+}
+
 .eventHappening .eventTitle span:nth-child(2) {
   margin: 0 0.4rem;
   padding: 0 1rem;

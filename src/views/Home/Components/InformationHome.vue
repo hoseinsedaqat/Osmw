@@ -4,16 +4,16 @@
     <div class="container">
       <div class="row mt-5">
         <div class="col-md-6">
-          <h1 class="font-weight-bold">Accelerating</h1>
-          <h1 class="font-weight-bold">the growth of</h1>
-          <h1 class="d-flex font-weight-bold">
+          <h1 class="font-weight-bold own-size">Accelerating</h1>
+          <h1 class="font-weight-bold own-size">the growth of</h1>
+          <h1 class="d-flex font-weight-bold own-size">
             <div>Oman's</div>
             <div class="pinkLayout">
               <span class="pinkLayoutChild"></span>
             </div>
           </h1>
-          <h1 class="font-weight-bold">Digital</h1>
-          <h1 class="font-weight-bold">Economy</h1>
+          <h1 class="font-weight-bold own-size">Digital</h1>
+          <h1 class="font-weight-bold own-size">Economy</h1>
         </div>
         <div class="col-md-6">
           <p>
@@ -84,6 +84,10 @@ export default {
 .infoStickers {
   margin: -1rem 0 0 0;
   width: 200px;
+}
+
+.own-size {
+  font-size: 50px;
 }
 
 @media screen and (max-width: 1000px) {

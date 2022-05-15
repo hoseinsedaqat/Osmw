@@ -12,13 +12,16 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-6 mt-3 mx-4 text-white">
-            <h1 class="font-weight-bold">
-              Embrace The Future <br />
-              Of Social Media <br />
-              Marketing
-            </h1>
-          </div>
+            <div class="col-md-6 mt-3 mx-4 text-white">
+              <h1 class="font-weight-bold own-size">
+                Embrace The Future <br />
+                Of Social Media <br />
+                Marketing
+              </h1>
+            </div>
+        </div>
+        <div class="row">
+          <div id="pinkBelow" class="mx-own d-block"></div>
         </div>
         <div class="row showcase-3">
           <div class="col-md-5 mx-4 text-white mt-3">
@@ -110,16 +113,30 @@ export default {
 #showcase .t1 {
   position: absolute;
   top: 90px;
-  left: 125px;
+  left: 120px;
 }
 #showcase .t2 {
   position: absolute;
-  top: 125px;
-  left: 125px;
+  top: 127px;
+  left: 120px;
+}
+
+.own-size {
+  font-size: 40px;
+}
+
+.mx-own {
+  margin: 0 0 0 2.5rem;
 }
 
 .eventMobile {
   display: none;
+}
+
+#pinkBelow {
+  width: 85px;
+  height: 3px;
+  background: #e6007e;
 }
 @media screen and (max-width: 1000px) {
   #showcase {
