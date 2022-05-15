@@ -72,18 +72,18 @@
           <div class="mt-5">
             <h4>Follow us:</h4>
             <div class="social-icons">
-              <li>
+              <a href="https://www.facebook.com/National-Publishing-and-Advertising-108422801076962/?ref=page_internal" target="_blank">
                 <i class="fab fa-facebook"></i>
-              </li>
-              <li>
+              </a>
+              <a>
                 <i class="fab fa-twitter"></i>
-              </li>
-              <li>
+              </a>
+              <a href="https://www.linkedin.com/company/npaoman/mycompany/" target="_blank">
                 <i class="fab fa-linkedin"></i>
-              </li>
-              <li>
+              </a>
+              <a href="https://www.instagram.com/npaoman/" target="_blank">
                 <i class="fab fa-instagram"></i>
-              </li>
+              </a>
             </div>
           </div>
         </div>
@@ -191,7 +191,7 @@ textarea:focus {
   display: flex;
 }
 
-.social-icons li {
+.social-icons a {
   margin: 0 1rem 0 0;
 }
 
