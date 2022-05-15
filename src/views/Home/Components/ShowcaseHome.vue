@@ -14,9 +14,9 @@
         <div class="row">
             <div class="col-md-6 mt-3 mx-4 text-white">
               <h1 class="font-weight-bold own-size">
-                Embrace The Future <br />
-                Of Social Media <br />
-                Marketing
+                <span class="d-block m-0 p-0">Embrace The Future </span>
+                <span class="d-block m-0 p-0">Of Social Media </span>
+                <span class="d-block m-0 p-0">Marketing</span>
               </h1>
             </div>
         </div>
@@ -123,6 +123,7 @@ export default {
 
 .own-size {
   font-size: 40px;
+  font-weight: 900;
 }
 
 .mx-own {

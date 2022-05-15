@@ -6,18 +6,18 @@
       <div class="row no-gutters">
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img
-            src="@/assets/Images/Screen Shot 2022-04-21 at 3.43.31 PM.png"
+            src="@/assets/Images/HawaraAlfarsi.jpg"
             alt=""
             class="speakersImg h-100"
           />
           <div class="overlay text-white">
-            <div>Sharifa Al Buruomi</div>
-            <p>Business Woman, Speaker</p>
+            <div>Hawra Al Farsi</div>
+            <p> Influencer, TV Host </p>
             <router-link to="/speaker/SharifaAlBuruomi">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
-          <img src="@/assets/Images/SpeakersMain.png" alt="" class="speakersImg h-100" />
+          <img src="@/assets/Images/1579850100816.jpg" alt="" class="speakersImg h-100" />
           <div class="overlay text-white">
             <div>Steve Bambury</div>
             <p>Metaverse, Web3 and XR Consultant</p>
@@ -26,13 +26,13 @@
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img
-            src="@/assets/Images/Thuraya Al Harthi- Speaker_ Digital Transformation_ Innovation.jpeg"
+            src="@/assets/Images/TajNoor.jpg"
             alt=""
             class="speakersImg h-100"
           />
           <div class="overlay text-white">
-            <div>Thuraya Al Harthi</div>
-            <p>Speake, Digital Transformation, Innovation</p>
+            <div>Taj Noor</div>
+            <p>Influencer, TV & Radio Presenter</p>
             <router-link to="/speaker/ThurayaAlHarthi">More</router-link>
           </div>
         </div>
@@ -113,6 +113,44 @@
           </div>
         </div>
       </div>
+      <div class="row no-gutters">
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
+          <img
+            src="@/assets/Images/Harith AlShereiqi.jpg"
+            alt=""
+            class="speakersImg h-100"
+          />
+          <div class="overlay2 text-white">
+            <div>Harith Al Shuraiqi</div>
+            <p> Adventurer| Travel content creator</p>
+            <router-link to="/speaker/SabaAlBusaidi">More</router-link>
+          </div>
+        </div>
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
+          <img
+            src="@/assets/Images/Said Al Busiaid - Manager Communication and Sustainability at Mazoon Electricity .jpeg"
+            alt=""
+            class="speakersImg h-100"
+          />
+          <div class="overlay2 text-white">
+            <div>Said Al Busaidi</div>
+            <p>Certified Digital Marketer | PR Expert | Change Management</p>
+            <router-link to="/speaker/AneelaHameed">More</router-link>
+          </div>
+        </div>
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
+          <img
+            src="@/assets/Images/RahebIbrahim.jpg"
+            alt=""
+            class="speakersImg h-100"
+          />
+          <div class="overlay2 text-white">
+            <div>Rehab Ibrahim</div>
+            <p>Speaker</p>
+            <router-link to="/speaker/HalaAlZadjali">More</router-link>
+          </div>
+        </div>
+      </div>
     </div>
     <!-- Mobile View -->
     <div class="container" id="smScreen">
@@ -120,13 +158,13 @@
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
          <router-link to="/speaker/SharifaAlBuruomi">
             <img
-            src="@/assets/Images/Screen Shot 2022-04-21 at 3.43.31 PM.png"
+            src="@/assets/Images/HawaraAlfarsi.jpg"
             alt=""
             class="speakersImg h-100"
           /> 
          </router-link>
           <router-link to="/speaker/SharifaAlBuruomi" class="btn btn-light w-100">
-            <h4 class="text-center my-3">Sharifa Al Buruomi</h4>
+            <h4 class="text-center my-3">Hawra Al Farsi</h4>
           </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
@@ -144,13 +182,13 @@
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <router-link to="/speaker/ThurayaAlHarthi">
             <img
-            src="@/assets/Images/Thuraya Al Harthi- Speaker_ Digital Transformation_ Innovation.jpeg"
+            src="@/assets/Images/TajNoor.jpg"
             alt=""
             class="speakersImg h-100"
           />
           </router-link>
          <router-link to="/speaker/ThurayaAlHarthi" class="btn btn-light w-100">
-            <h4 class="text-center my-3">Thuraya Al Harthi</h4>
+            <h4 class="text-center my-3">Taj Noor</h4>
          </router-link>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
@@ -223,6 +261,42 @@
           </router-link>
           <router-link to="/speaker/TazimaAlGhannami" class="btn btn-light w-100">
             <h4 class="text-center my-3">Tazima Al Ghannami</h4>
+          </router-link>
+        </div>
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
+          <router-link to="/speaker/TazimaAlGhannami">
+            <img
+            src="@/assets/Images/Harith AlShereiqi.jpg"
+            alt=""
+            class="speakersImg h-100"
+          />
+          </router-link>
+          <router-link to="/speaker/TazimaAlGhannami" class="btn btn-light w-100">
+            <h4 class="text-center my-3">Harith Al Shuraiqi</h4>
+          </router-link>
+        </div>
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
+          <router-link to="/speaker/TazimaAlGhannami">
+            <img
+            src="@/assets/Images/Said Al Busiaid - Manager Communication and Sustainability at Mazoon Electricity .jpeg"
+            alt=""
+            class="speakersImg h-100"
+          />
+          </router-link>
+          <router-link to="/speaker/TazimaAlGhannami" class="btn btn-light w-100">
+            <h4 class="text-center my-3">Said Al Busaidi</h4>
+          </router-link>
+        </div>
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
+          <router-link to="/speaker/TazimaAlGhannami">
+            <img
+            src="@/assets/Images/RahebIbrahim.jpg"
+            alt=""
+            class="speakersImg h-100"
+          />
+          </router-link>
+          <router-link to="/speaker/TazimaAlGhannami" class="btn btn-light w-100">
+            <h4 class="text-center my-3">Rehab Ibrahim</h4>
           </router-link>
         </div>
       </div>

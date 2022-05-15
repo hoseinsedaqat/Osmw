@@ -17,13 +17,13 @@
         </div>
         <div class="col-md-6">
           <p>
-            Oman’s digital economy's contribution to the GDP is aimed at 10% in 2040
-            according to Oman’s Vision 2040. Digital transformation plays a critical role
-            in supporting the Sultanate of Oman's strategic and vital industries, which is
-            aligned with Oman Vision 2040's economic growth and employment creation goals.
-            The backbone of the digital economy is hyper connectivity which means growing
-            interconnectedness of people, organizations, and machines that results from
-            the Internet, mobile technology and the internet of things (IoT).
+            According to Oman's Vision 2040, Oman's digital economy's contribution to GDP
+            planned to reach 10% by 2040. Digital transformation will play an important
+            role in supporting Oman's strategic and important industries in line with Oman
+            Vision 2040's economic growth and job creation. What is defined named, as
+            “hyper-connectivity” is the spine of the digital economy, which is defined as
+            increased interoperability of people, organizations, and machines due to the
+            Internet, mobile technology, and the Internet of Things (IoT).
           </p>
           <div class="informationBtn">
             <div>

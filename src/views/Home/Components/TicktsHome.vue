@@ -17,7 +17,7 @@
             <div class="card-body">
               <h5 class="text-center">One Day Pass</h5>
               <h1 class="text-center font-weight-bold">OR 100</h1>
-              <p class="mt-4 text-center">Admission Options</p>
+              <p class="mt-4 text-center">Admission Benefits </p>
               <div class="mt-5 ftickts">
                 <div class="my-1">
                   <img src="@/assets/Images/Vector 18.png" alt="" />
@@ -40,7 +40,7 @@
                 </div>
                 <div class="my-1">
                   <img src="@/assets/Images/Vector 18.png" alt="" />
-                  <span class="mx-2">You selection of the day to attend</span>
+                  <span class="mx-2">Certificate of attendance</span>
                 </div>
                 <div class="ticktsOne mt-5">
                   <router-link to="/attend">
@@ -56,7 +56,7 @@
             <div class="card-body">
               <h5 class="text-center">Two Days Pass</h5>
               <h1 class="text-center font-weight-bold">OR 150</h1>
-              <p class="mt-4 text-center">Admission Options</p>
+              <p class="mt-4 text-center">Admission Benefits </p>
               <div class="mt-5 ftickts">
                 <div class="my-1">
                   <img src="@/assets/Images/Vector 31.png" alt="" />
@@ -101,7 +101,8 @@
           <div class="cards" id="cardOne">
             <div class="card-body">
               <h5 class="text-center">Group Booking</h5>
-              <h1 class="text-center font-weight-bold">_ _ _</h1>
+              <h1 class="text-center font-weight-bold">OR 100</h1>
+              <span class="font-own d-block text-center font-weight-bold">(minimum 5)</span>
               <p class="mt-4 text-center">Admission to Conference</p>
               <div class="mt-5 ftickts">
                 <div class="my-1">
@@ -192,6 +193,10 @@ export default {
   border-radius: 10px;
   background-color: #e6007e;
   color: #fff;
+}
+
+.font-own {
+  font-size: 14px;
 }
 
 @media screen and (max-width: 1200px) {
