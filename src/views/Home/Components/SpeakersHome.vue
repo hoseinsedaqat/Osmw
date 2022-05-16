@@ -14,7 +14,7 @@
           <div class="overlay text-white">
             <div>H.H. Sayeeda Basma Al Said</div>
             <p>Mental Health Specialist|Tedax Speaker |Multi-Award Winner</p>
-            <router-link to="/speaker/SharifaAlBuruomi">More</router-link>
+            <router-link to="/speaker/H.H.SayeedaBasmaAlSaid">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
@@ -29,7 +29,7 @@
               Artificial Intelligence and eGovernance Researcher, Consultant and
               Influencer
             </p>
-            <router-link to="/speaker/ThurayaAlHarthi">More</router-link>
+            <router-link to="/speaker/HalahAlZadjali">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
@@ -52,7 +52,7 @@
           <div class="overlay2 text-white">
             <div>Maged Farrag</div>
             <p>Digital Media Evangelist</p>
-            <router-link to="/speaker/MagedFarrag">More</router-link>
+            <router-link to="/speaker/SMagedFarrag">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
@@ -68,7 +68,7 @@
               Brand Ambassador and Founding Partner Award-Winning Technology Professional
               & Practical Motivational Speaker
             </p>
-            <router-link to="/speaker/TariqAlBarwani">More</router-link>
+            <router-link to="/speaker/MTariqAlBarwani">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
@@ -81,7 +81,7 @@
           <div class="overlay2 text-white">
             <div>Imad Al Habsi</div>
             <p>Video Creator & Film Director </p>
-            <router-link to="/speaker/HalaAlZadjali">More</router-link>
+            <router-link to="/speaker/ImadAlHabsi">More</router-link>
           </div>
         </div>
       </div>
@@ -96,7 +96,7 @@
           <div class="overlay text-white">
             <div>Hawra Al Farsi</div>
             <p>Influencer, TV Host</p>
-            <router-link to="/speaker/MagedFarrag">More</router-link>
+            <router-link to="/speaker/HawraAlFarsi">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
@@ -108,7 +108,7 @@
           <div class="overlay text-white">
             <div>Taj Noor</div>
             <p>Influencer, TV & Radio Presenter</p>
-            <router-link to="/speaker/TariqAlBarwani">More</router-link>
+            <router-link to="/speaker/TajNoor">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
@@ -121,7 +121,7 @@
           <div class="overlay text-white">
             <div>Ibtihal Al Zadjali</div>
             <p>Influencer, Omani Media Personality</p>
-            <router-link to="/speaker/TazimaAlGhannami">More</router-link>
+            <router-link to="/speaker/IbtihalAlZadjali">More</router-link>
           </div>
         </div>
       </div>
@@ -137,7 +137,7 @@
           <div class="overlay2 text-white">
             <div>Rehab Ibrahim</div>
             <p>Founder & MD at Space| TEDx Speaker</p>
-            <router-link to="/speaker/SabaAlBusaidi">More</router-link>
+            <router-link to="/speaker/RehabIbrahim">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
@@ -150,7 +150,7 @@
           <div class="overlay2 text-white">
             <div>Harith Al Shereiqi</div>
             <p>Adventurer| Travel Content Creator </p>
-            <router-link to="/speaker/AneelaHameed">More</router-link>
+            <router-link to="/speaker/HarithAlShereiqi">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
@@ -163,7 +163,7 @@
           <div class="overlay2 text-white">
             <div>Said Al Busaidi</div>
             <p>Certified Digital Marketer | PR Expert | Change Management </p>
-            <router-link to="/speaker/HalaAlZadjali">More</router-link>
+            <router-link to="/speaker/SaidAlBusaidi">More</router-link>
           </div>
         </div>
       </div>
@@ -179,7 +179,7 @@
           <div class="overlay text-white">
             <div>Amira Al Busaidi</div>
             <p>4IR | Consultant | Training Lead | Metaverse </p>
-            <router-link to="/speaker/SabaAlBusaidi">More</router-link>
+            <router-link to="/speaker/AmiraAlBusaidi">More</router-link>
           </div>
         </div>
       </div>
