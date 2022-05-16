@@ -189,166 +189,166 @@
       <div class="row">
         <!-- 1 -->
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <router-link to="/speaker/SharifaAlBuruomi">
+          <router-link to="/speaker/H.H.SayeedaBasmaAlSaid">
             <img
               src="@/assets/Images/Sayyeda Basma AL Said.jpg"
               alt=""
               class="speakersImg h-100"
             />
           </router-link>
-          <router-link to="/speaker/SharifaAlBuruomi" class="btn btn-light w-100">
+          <router-link to="/speaker/H.H.SayeedaBasmaAlSaid" class="btn btn-light w-100">
             <h4 class="text-center my-3">H.H. Sayeeda Basma Al Said</h4>
           </router-link>
         </div>
         <!-- 2 -->
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <router-link to="/speaker/SteveBambury">
+          <router-link to="/speaker/HalahAlZadjali">
             <img
               src="@/assets/Images/Hala Al Zadjali.jpg"
               alt=""
               class="speakersImg h-100"
             />
           </router-link>
-          <router-link to="/speaker/SteveBambury" class="btn btn-light w-100">
+          <router-link to="/speaker/HalahAlZadjali" class="btn btn-light w-100">
             <h4 class="text-center my-3">Halah Al Zadjali</h4>
           </router-link>
         </div>
         <!-- 3 -->
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <router-link to="/speaker/ThurayaAlHarthi">
+          <router-link to="/speaker/SteveBambury">
             <img src="@/assets/Images/1579850100816.jpg" alt="" class="speakersImg h-100" />
           </router-link>
-          <router-link to="/speaker/ThurayaAlHarthi" class="btn btn-light w-100">
+          <router-link to="/speaker/SteveBambury" class="btn btn-light w-100">
             <h4 class="text-center my-3">Steve Bambury</h4>
           </router-link>
         </div>
         <!-- 4 -->
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <router-link to="/speaker/SabaAlBusaidi">
+          <router-link to="/speaker/SMagedFarrag">
             <img
               src="@/assets/Images/Maged Farrag-Creative and Managing Director at 5dVR.jpeg"
               alt=""
               class="speakersImg h-100"
             />
           </router-link>
-          <router-link to="/speaker/SabaAlBusaidi" class="btn btn-light w-100">
+          <router-link to="/speaker/SMagedFarrag" class="btn btn-light w-100">
             <h4 class="text-center my-3">Maged Farrag</h4>
           </router-link>
         </div>
         <!-- 5 -->
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <router-link to="/speaker/AneelaHameed">
+          <router-link to="/speaker/MTariqAlBarwani">
             <img
               src="@/assets/Images/Tariq Al Barwani.jpg"
               alt=""
               class="speakersImg h-100"
             />
           </router-link>
-          <router-link to="/speaker/AneelaHameed" class="btn btn-light w-100">
+          <router-link to="/speaker/MTariqAlBarwani" class="btn btn-light w-100">
             <h4 class="text-center my-3">Tariq Al Barwani</h4>
           </router-link>
         </div>
         <!-- 6 -->
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <router-link to="/speaker/HalaAlZadjali">
+          <router-link to="/speaker/ImadAlHabsi">
             <img
               src="@/assets/Images/Imad Al Habsi.jpg"
               alt=""
               class="speakersImg h-100"
             />
           </router-link>
-          <router-link to="/speaker/HalaAlZadjali" class="btn btn-light w-100">
+          <router-link to="/speaker/ImadAlHabsi" class="btn btn-light w-100">
             <h4 class="text-center my-3">Imad Al Habsi</h4>
           </router-link>
         </div>
         <!-- 7 -->
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <router-link to="/speaker/MagedFarrag">
+          <router-link to="/speaker/HawraAlFarsi">
             <img
               src="@/assets/Images/Hawra Al Farsi.jpg"
               alt=""
               class="speakersImg h-100"
             />
           </router-link>
-          <router-link to="/speaker/MagedFarrag" class="btn btn-light w-100">
+          <router-link to="/speaker/HawraAlFarsi" class="btn btn-light w-100">
             <h4 class="text-center my-3">Hawra Al Farsi</h4>
           </router-link>
         </div>
         <!-- 8 -->
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <router-link to="/speaker/TariqAlBarwani">
+          <router-link to="/speaker/TajNoor">
             <img
               src="@/assets/Images/Taj Noor .jpg"
               alt=""
               class="speakersImg h-100"
             />
           </router-link>
-          <router-link to="/speaker/TariqAlBarwani" class="btn btn-light w-100">
+          <router-link to="/speaker/TajNoor" class="btn btn-light w-100">
             <h4 class="text-center my-3">Taj Noor</h4>
           </router-link>
         </div>
         <!-- 9 -->
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <router-link to="/speaker/TazimaAlGhannami">
+          <router-link to="/speaker/IbtihalAlZadjali">
             <img
               src="@/assets/Images/Ibtihal Al Zadjali 1.jpg"
               alt=""
               class="speakersImg h-100"
             />
           </router-link>
-          <router-link to="/speaker/TazimaAlGhannami" class="btn btn-light w-100">
+          <router-link to="/speaker/IbtihalAlZadjali" class="btn btn-light w-100">
             <h4 class="text-center my-3">Ibtihal Al Zadjali</h4>
           </router-link>
         </div>
         <!-- 10 -->
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <router-link to="/speaker/TazimaAlGhannami">
+          <router-link to="/speaker/RehabIbrahim">
             <img
               src="@/assets/Images/WhatsApp Image 2022-04-21 at 12.21.21 PM.jpeg"
               alt=""
               class="speakersImg h-100"
             />
           </router-link>
-          <router-link to="/speaker/TazimaAlGhannami" class="btn btn-light w-100">
+          <router-link to="/speaker/RehabIbrahim" class="btn btn-light w-100">
             <h4 class="text-center my-3">Rehab Ibrahim</h4>
           </router-link>
         </div>
         <!-- 11 -->
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <router-link to="/speaker/TazimaAlGhannami">
+          <router-link to="/speaker/HarithAlShereiqi">
             <img
               src="@/assets/Images/Harith AlShereiqi.jpeg"
               alt=""
               class="speakersImg h-100"
             />
           </router-link>
-          <router-link to="/speaker/TazimaAlGhannami" class="btn btn-light w-100">
+          <router-link to="/speaker/HarithAlShereiqi" class="btn btn-light w-100">
             <h4 class="text-center my-3">Harith AlShereiqi</h4>
           </router-link>
         </div>
         <!-- 12 -->
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <router-link to="/speaker/TazimaAlGhannami">
+          <router-link to="/speaker/SaidAlBusaidi">
             <img
             src="@/assets/Images/Said Al Busaidi.png"
             alt=""
             class="speakersImg h-100"
           />
           </router-link>
-          <router-link to="/speaker/TazimaAlGhannami" class="btn btn-light w-100">
+          <router-link to="/speaker/SaidAlBusaidi" class="btn btn-light w-100">
             <h4 class="text-center my-3">Said Al Busaidi</h4>
           </router-link>
         </div>
         <!-- 13 -->
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
-          <router-link to="/speaker/TazimaAlGhannami">
+          <router-link to="/speaker/AmiraAlBusaidi">
             <img
             src="@/assets/Images/Amira Al Busaidi.jpeg"
             alt=""
             class="speakersImg h-100"
           />
           </router-link>
-          <router-link to="/speaker/TazimaAlGhannami" class="btn btn-light w-100">
+          <router-link to="/speaker/AmiraAlBusaidi" class="btn btn-light w-100">
             <h4 class="text-center my-3">Amira Al Busaidi</h4>
           </router-link>
         </div>
