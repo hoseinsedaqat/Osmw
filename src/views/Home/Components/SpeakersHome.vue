@@ -19,7 +19,7 @@
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img
-            src="@/assets/Images/Hala Al Zadjali.jpeg"
+            src="@/assets/Images/Hala Al Zadjali.jpg"
             alt=""
             class="speakersImg h-100"
           />
@@ -85,81 +85,103 @@
           </div>
         </div>
       </div>
+      <!-- Row Three -->
       <div class="row no-gutters">
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img
-            src="@/assets/Images/Maged Farrag-Creative and Managing Director at 5dVR.jpeg"
+            src="@/assets/Images/Hawra Al Farsi.jpg"
             alt=""
             class="speakersImg h-100"
           />
           <div class="overlay text-white">
-            <div>Maged Farrag</div>
-            <p>Creative and Managing Director at 5dVR</p>
+            <div>Hawra Al Farsi</div>
+            <p>Influencer, TV Host</p>
             <router-link to="/speaker/MagedFarrag">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img
-            src="@/assets/Images/Tariq Al Barwani-Award-Winning Technology Professional & Practical Motivational Speaker .jpeg"
+            src="@/assets/Images/Taj Noor .jpg"
             alt=""
             class="speakersImg h-100"
           />
           <div class="overlay text-white">
-            <div>Tariq Al Barwani</div>
-            <p>Award-Winning Technology Professional & Practical Motivational Speaker</p>
+            <div>Taj Noor</div>
+            <p>Influencer, TV & Radio Presenter</p>
             <router-link to="/speaker/TariqAlBarwani">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img
-            src="@/assets/Images/Tazima Al Ghannami- Senior Manager HR Analytics, Omantel.jpeg"
+            src="@/assets/Images/Ibtihal Al Zadjali 1.jpg"
             alt=""
-            class="speakersImg h-100"
+            class="speakersImg"
+            style="height:390px;"
           />
           <div class="overlay text-white">
-            <div>Tazima Al Ghannami</div>
-            <p>Senior Manager HR Analytics, Omantel</p>
+            <div>Ibtihal Al Zadjali</div>
+            <p>Influencer, Omani Media Personality</p>
             <router-link to="/speaker/TazimaAlGhannami">More</router-link>
           </div>
         </div>
       </div>
+      <!-- Row Four -->
       <div class="row no-gutters">
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img
-            src="@/assets/Images/Harith AlShereiqi.jpg"
+            src="@/assets/Images/WhatsApp Image 2022-04-21 at 12.21.21 PM.jpeg"
             alt=""
-            class="speakersImg h-100"
+            class="speakersImg"
+            style="height:390px;"
           />
           <div class="overlay2 text-white">
-            <div>Harith Al Shuraiqi</div>
-            <p>Adventurer| Travel content creator</p>
+            <div>Rehab Ibrahim</div>
+            <p>Founder & MD at Space| TEDx Speaker</p>
             <router-link to="/speaker/SabaAlBusaidi">More</router-link>
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img
-            src="@/assets/Images/Said Al Busiaid - Manager Communication and Sustainability at Mazoon Electricity .jpeg"
+            src="@/assets/Images/Harith AlShereiqi.jpeg"
             alt=""
-            class="speakersImg h-100"
+            class="speakersImg"
+            style="height:390px;"
           />
           <div class="overlay2 text-white">
-            <div>Said Al Busaidi</div>
-            <p>Certified Digital Marketer | PR Expert | Change Management</p>
+            <div>Harith Al Shereiqi</div>
+            <p>Adventurer| Travel Content Creator </p>
             <router-link to="/speaker/AneelaHameed">More</router-link>
           </div>
         </div>
-        <!-- <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img
-            src="@/assets/Images/RahebIbrahim.jpg"
+            src="@/assets/Images/Said Al Busaidi.png"
             alt=""
-            class="speakersImg h-100"
+            class="speakersImg"
+            style="height:390px;"
           />
           <div class="overlay2 text-white">
-            <div>Rehab Ibrahim</div>
-            <p>Speaker</p>
+            <div>Said Al Busaidi</div>
+            <p>Certified Digital Marketer | PR Expert | Change Management </p>
             <router-link to="/speaker/HalaAlZadjali">More</router-link>
           </div>
-        </div> -->
+        </div>
+      </div>
+      <!-- Row Fove -->
+      <div class="row no-gutters">
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 offset-md-4" id="speakersMain">
+          <img
+            src="@/assets/Images/Amira Al Busaidi.jpeg"
+            alt=""
+            class="speakersImg"
+            style="height:390px;"
+          />
+          <div class="overlay text-white">
+            <div>Amira Al Busaidi</div>
+            <p>4IR | Consultant | Training Lead | Metaverse </p>
+            <router-link to="/speaker/SabaAlBusaidi">More</router-link>
+          </div>
+        </div>
       </div>
     </div>
     <!-- Mobile View -->
