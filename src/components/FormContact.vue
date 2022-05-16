@@ -36,7 +36,7 @@ export default {
       } else {
         try {
           axios
-            .post("https://www.actionforms.io/e/r/hsoein-sedaqat-test", {
+            .post("https://www.actionforms.io/e/r/omansocialmediaweek-test", {
               emailSubscribe: this.subscribe,
             })
             .then((res) => {

@@ -117,7 +117,7 @@ export default {
       } else {
         try {
           axios
-            .post("https://www.actionforms.io/e/r/hsoein-sedaqat-test", {
+            .post("https://www.actionforms.io/e/r/omansocialmediaweek-test", {
               contactName: this.name,
               contactEmail: this.email,
               contactMessage: this.message,
