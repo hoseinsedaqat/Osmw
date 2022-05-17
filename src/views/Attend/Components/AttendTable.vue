@@ -13,7 +13,7 @@
             </thead>
             <tbody class="bg-light text-dark">
               <tr>
-                <th>Your selection of the day to attend </th>
+                <th>Your selection of the day to attend</th>
                 <td>1 Day</td>
                 <td>2 Days</td>
               </tr>
@@ -54,6 +54,16 @@
               </tr>
             </tbody>
           </table>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <h4>*20% discount for SMEs</h4>
+          <h4 class="text-danger">(CTA Book your Seat)</h4>
+          <h5 class="text-danger">
+            (Keep the rest of the page as it is but activate the social handles links and
+            add the below disclaimer below the Covid 19 vaccination note)
+          </h5>
         </div>
       </div>
     </div>
