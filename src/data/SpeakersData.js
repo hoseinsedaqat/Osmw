@@ -14,14 +14,14 @@ import SpeakerThirteen from '@/assets/Images/Amira Al Busaidi.jpeg';
 
 export const SpeakerData = [
     {
-        name: 'H.H. Sayeeda Basma Al Said',
+        name: 'HH Sayeeda Basma Al Said',
         career: 'Mental Health Specialist|Tedax Speaker |Multi-Award Winner',
         image: SpeakerOne,
         page: 'H.H.SayeedaBasmaAlSaid',
         when:`13-14 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description: `
-        H Sayeeda Basma Al Said is a well-established psychotherapist, clinical hypnotherapist, mental health counselor, owner, and founder of the first mental health clinic in Oman, Whispers of Serenity, which she opened in 2012. She aspires to establish the clinic as a a hotbed of psychology and mental-health related information not only in Oman, but in the neighbouring Gulf countries, as well as on a global level. She also aims to establish it as a training centre for psychology students.
+        HH Sayeeda Basma Al Said is a well-established psychotherapist, clinical hypnotherapist, mental health counselor, owner, and founder of the first mental health clinic in Oman, Whispers of Serenity, which she opened in 2012. She aspires to establish the clinic as a a hotbed of psychology and mental-health related information not only in Oman, but in the neighbouring Gulf countries, as well as on a global level. She also aims to establish it as a training centre for psychology students.
  
 In 2015, she won the GR8! Women Achievers Awards for her contribution to society.  She regularly participates in community and professional events. Her “Not Alone” Mental Health Awareness initiative, an ongoing effort to create societal awareness of the importance of mental well-being is a living proof of her dedication and ambition towards the betterment of the society.
 

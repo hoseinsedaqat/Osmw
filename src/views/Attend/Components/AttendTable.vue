@@ -6,60 +6,51 @@
           <table class="table table-bordered text-center">
             <thead class="thead-pink">
               <tr>
-                <th></th>
-                <th scope="col">One Days</th>
-                <th scope="col">Two Days</th>
-                <th scope="col">Group Booking</th>
+                <th scope="col">Benefits</th>
+                <th scope="col">1 Day</th>
+                <th scope="col">Option 2</th>
               </tr>
             </thead>
             <tbody class="bg-light text-dark">
               <tr>
-                <th>ALL DAY BARISTA & SO MUCH FOOD</th>
-                <td>Yes</td>
-                <td>Yes</td>
-                <td>Yes</td>
+                <th>Your selection of the day to attend </th>
+                <td>1 Day</td>
+                <td>2 Days</td>
               </tr>
               <tr>
-                <th>MAIN CONFERENCE</th>
-                <td>Yes</td>
-                <td>Yes</td>
-                <td>Yes</td>
+                <th>Access to all day sessions</th>
+                <td><i class="fa fa-check" aria-hidden="true"></i></td>
+                <td><i class="fa fa-check" aria-hidden="true"></i></td>
               </tr>
               <tr>
-                <th>NETWORKING DRINKS</th>
-                <td>Yes</td>
-                <td>Yes</td>
-                <td>Yes</td>
+                <th>Access to lunch break and networking</th>
+                <td><i class="fa fa-check" aria-hidden="true"></i></td>
+                <td><i class="fa fa-check" aria-hidden="true"></i></td>
               </tr>
               <tr>
-                <th>THE MOST EPIC GIFT BAG</th>
-                <td>Yes</td>
-                <td>Yes</td>
-                <td>Yes</td>
+                <th>Access to event recordings/ Presentations after the event</th>
+                <td><i class="fa fa-check" aria-hidden="true"></i></td>
+                <td><i class="fa fa-check" aria-hidden="true"></i></td>
               </tr>
               <tr>
-                <th>DAY TWO WORKSHOPS</th>
-                <td>No</td>
-                <td>Yes</td>
-                <td>Yes</td>
+                <th>Certificate of attendance</th>
+                <td><i class="fa fa-check" aria-hidden="true"></i></td>
+                <td><i class="fa fa-check" aria-hidden="true"></i></td>
               </tr>
               <tr>
-                <th>POST-SHOW VIDEO ACCESS</th>
-                <td>Yes</td>
-                <td>Yes</td>
-                <td>Yes</td>
+                <th>Inclusion in attendees list “Hall of Fame”</th>
+                <td></td>
+                <td><i class="fa fa-check" aria-hidden="true"></i></td>
               </tr>
               <tr>
-                <th>EXTRA SPECIAL VIRTUAL SESSIONS</th>
-                <td>Yes</td>
-                <td>Yes</td>
-                <td>Yes</td>
+                <th>Inclusion of company logo on event website</th>
+                <td></td>
+                <td><i class="fa fa-check" aria-hidden="true"></i></td>
               </tr>
               <tr>
-                <th class="tableAttendShow">REGISTRATIONS</th>
-                <td class="tableAttendShow">OR 150</td>
-                <td class="tableAttendShow">OR 100</td>
-                <td class="tableAttendShow">______</td>
+                <th><b class="font-weight-bold h4 text-dark">Price</b></th>
+                <td><b class="tableAttendShow font-weight-bold text-dark">OR 150</b></td>
+                <td><b class="tableAttendShow font-weight-bold text-dark">OR 100</b></td>
               </tr>
             </tbody>
           </table>
@@ -81,15 +72,14 @@ export default {
   color: #fff;
 }
 
-.tableAttendShow {
+/* .tableAttendShow {
   font-size: 1.5rem;
   padding: 2rem;
-}
+} */
 
 @media screen and (max-width: 1000px) {
   .tableAttendShow {
     font-size: 1rem;
-    padding: 1rem;
   }
 }
 </style>

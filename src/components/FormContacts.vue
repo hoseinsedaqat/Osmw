@@ -61,8 +61,8 @@
             </li>
             <li class="mt-4">
               <img src="@/assets/Images/telephone.png" alt="" style="width:30px;">
-              <span class="mx-2">+968 24694905</span>
-              <p class="m-self mt-1">+968 94060921</p>
+              <span class="mx-2">+968 7400044</span>
+              <!-- <p class="m-self mt-1">+968 94060921</p> -->
             </li>
             <li class="mt-4">
               <img src="@/assets/Images/emails.png" alt="" style="width:30px;">

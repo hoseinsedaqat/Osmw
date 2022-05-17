@@ -12,7 +12,7 @@
             class="speakersImg h-100"
           />
           <div class="overlay text-white">
-            <div>H.H. Sayeeda Basma Al Said</div>
+            <div>H H Sayeeda Basma Al Said</div>
             <p>Mental Health Specialist|Tedax Speaker |Multi-Award Winner</p>
             <router-link to="/speaker/H.H.SayeedaBasmaAlSaid">More</router-link>
           </div>
@@ -80,7 +80,7 @@
           />
           <div class="overlay2 text-white">
             <div>Imad Al Habsi</div>
-            <p>Video Creator & Film Director </p>
+            <p>Video Creator & Film Director</p>
             <router-link to="/speaker/ImadAlHabsi">More</router-link>
           </div>
         </div>
@@ -100,11 +100,7 @@
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
-          <img
-            src="@/assets/Images/Taj Noor .jpg"
-            alt=""
-            class="speakersImg h-100"
-          />
+          <img src="@/assets/Images/Taj Noor .jpg" alt="" class="speakersImg h-100" />
           <div class="overlay text-white">
             <div>Taj Noor</div>
             <p>Influencer, TV & Radio Presenter</p>
@@ -116,7 +112,7 @@
             src="@/assets/Images/Ibtihal Al Zadjali 1.jpg"
             alt=""
             class="speakersImg"
-            style="height:402px;"
+            style="height: 402px"
           />
           <div class="overlay text-white">
             <div>Ibtihal Al Zadjali</div>
@@ -132,7 +128,7 @@
             src="@/assets/Images/WhatsApp Image 2022-04-21 at 12.21.21 PM.jpeg"
             alt=""
             class="speakersImg"
-            style="height:402px;"
+            style="height: 402px"
           />
           <div class="overlay2 text-white">
             <div>Rehab Ibrahim</div>
@@ -145,11 +141,11 @@
             src="@/assets/Images/Harith AlShereiqi.jpeg"
             alt=""
             class="speakersImg"
-            style="height:402px;"
+            style="height: 402px"
           />
           <div class="overlay2 text-white">
             <div>Harith Al Shereiqi</div>
-            <p>Adventurer| Travel Content Creator </p>
+            <p>Adventurer| Travel Content Creator</p>
             <router-link to="/speaker/HarithAlShereiqi">More</router-link>
           </div>
         </div>
@@ -158,27 +154,30 @@
             src="@/assets/Images/Said Al Busaidi.png"
             alt=""
             class="speakersImg"
-            style="height:402px;"
+            style="height: 402px"
           />
           <div class="overlay2 text-white">
             <div>Said Al Busaidi</div>
-            <p>Certified Digital Marketer | PR Expert | Change Management </p>
+            <p>Certified Digital Marketer | PR Expert | Change Management</p>
             <router-link to="/speaker/SaidAlBusaidi">More</router-link>
           </div>
         </div>
       </div>
       <!-- Row Five -->
       <div class="row no-gutters">
-        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 offset-md-4" id="speakersMain">
+        <div
+          class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 offset-md-4"
+          id="speakersMain"
+        >
           <img
             src="@/assets/Images/Amira Al Busaidi.jpeg"
             alt=""
             class="speakersImg"
-            style="height:402px;"
+            style="height: 402px"
           />
           <div class="overlay text-white">
             <div>Amira Al Busaidi</div>
-            <p>4IR | Consultant | Training Lead | Metaverse </p>
+            <p>4IR | Consultant | Training Lead | Metaverse</p>
             <router-link to="/speaker/AmiraAlBusaidi">More</router-link>
           </div>
         </div>
@@ -193,7 +192,8 @@
             <img
               src="@/assets/Images/Sayyeda Basma AL Said.jpg"
               alt=""
-              class="speakersImg h-100"
+              class="speakersImg"
+              style="height: 402px"
             />
           </router-link>
           <router-link to="/speaker/H.H.SayeedaBasmaAlSaid" class="btn btn-light w-100">
@@ -206,7 +206,8 @@
             <img
               src="@/assets/Images/Hala Al Zadjali.jpg"
               alt=""
-              class="speakersImg h-100"
+              class="speakersImg"
+              style="height: 402px"
             />
           </router-link>
           <router-link to="/speaker/HalahAlZadjali" class="btn btn-light w-100">
@@ -216,7 +217,12 @@
         <!-- 3 -->
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <router-link to="/speaker/SteveBambury">
-            <img src="@/assets/Images/1579850100816.jpg" alt="" class="speakersImg h-100" />
+            <img
+              src="@/assets/Images/1579850100816.jpg"
+              alt=""
+              class="speakersImg"
+              style="height: 402px"
+            />
           </router-link>
           <router-link to="/speaker/SteveBambury" class="btn btn-light w-100">
             <h4 class="text-center my-3">Steve Bambury</h4>
@@ -228,7 +234,8 @@
             <img
               src="@/assets/Images/Maged Farrag-Creative and Managing Director at 5dVR.jpeg"
               alt=""
-              class="speakersImg h-100"
+              class="speakersImg"
+              style="height: 402px"
             />
           </router-link>
           <router-link to="/speaker/SMagedFarrag" class="btn btn-light w-100">
@@ -241,7 +248,8 @@
             <img
               src="@/assets/Images/Tariq Al Barwani.jpg"
               alt=""
-              class="speakersImg h-100"
+              class="speakersImg"
+              style="height: 402px"
             />
           </router-link>
           <router-link to="/speaker/MTariqAlBarwani" class="btn btn-light w-100">
@@ -254,7 +262,8 @@
             <img
               src="@/assets/Images/Imad Al Habsi.jpg"
               alt=""
-              class="speakersImg h-100"
+              class="speakersImg"
+              style="height: 402px"
             />
           </router-link>
           <router-link to="/speaker/ImadAlHabsi" class="btn btn-light w-100">
@@ -267,7 +276,8 @@
             <img
               src="@/assets/Images/Hawra Al Farsi.jpg"
               alt=""
-              class="speakersImg h-100"
+              class="speakersImg"
+              style="height: 402px"
             />
           </router-link>
           <router-link to="/speaker/HawraAlFarsi" class="btn btn-light w-100">
@@ -280,7 +290,8 @@
             <img
               src="@/assets/Images/Taj Noor .jpg"
               alt=""
-              class="speakersImg h-100"
+              class="speakersImg"
+              style="height: 402px"
             />
           </router-link>
           <router-link to="/speaker/TajNoor" class="btn btn-light w-100">
@@ -293,7 +304,8 @@
             <img
               src="@/assets/Images/Ibtihal Al Zadjali 1.jpg"
               alt=""
-              class="speakersImg h-100"
+              class="speakersImg"
+              style="height: 402px"
             />
           </router-link>
           <router-link to="/speaker/IbtihalAlZadjali" class="btn btn-light w-100">
@@ -306,7 +318,8 @@
             <img
               src="@/assets/Images/WhatsApp Image 2022-04-21 at 12.21.21 PM.jpeg"
               alt=""
-              class="speakersImg h-100"
+              class="speakersImg"
+              style="height: 402px"
             />
           </router-link>
           <router-link to="/speaker/RehabIbrahim" class="btn btn-light w-100">
@@ -319,7 +332,8 @@
             <img
               src="@/assets/Images/Harith AlShereiqi.jpeg"
               alt=""
-              class="speakersImg h-100"
+              class="speakersImg"
+              style="height: 402px"
             />
           </router-link>
           <router-link to="/speaker/HarithAlShereiqi" class="btn btn-light w-100">
@@ -330,10 +344,11 @@
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <router-link to="/speaker/SaidAlBusaidi">
             <img
-            src="@/assets/Images/Said Al Busaidi.png"
-            alt=""
-            class="speakersImg h-100"
-          />
+              src="@/assets/Images/Said Al Busaidi.png"
+              alt=""
+              class="speakersImg"
+              style="height: 402px"
+            />
           </router-link>
           <router-link to="/speaker/SaidAlBusaidi" class="btn btn-light w-100">
             <h4 class="text-center my-3">Said Al Busaidi</h4>
@@ -343,10 +358,11 @@
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <router-link to="/speaker/AmiraAlBusaidi">
             <img
-            src="@/assets/Images/Amira Al Busaidi.jpeg"
-            alt=""
-            class="speakersImg h-100"
-          />
+              src="@/assets/Images/Amira Al Busaidi.jpeg"
+              alt=""
+              class="speakersImg"
+              style="height: 402px"
+            />
           </router-link>
           <router-link to="/speaker/AmiraAlBusaidi" class="btn btn-light w-100">
             <h4 class="text-center my-3">Amira Al Busaidi</h4>
