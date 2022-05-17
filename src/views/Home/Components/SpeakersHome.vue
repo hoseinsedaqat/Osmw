@@ -60,7 +60,7 @@
             src="@/assets/Images/Tariq Al Barwani.jpg"
             alt=""
             class="speakersImg"
-            style="height: 390px"
+            style="height: 402px"
           />
           <div class="overlay2 text-white">
             <div>Tariq Al Barwani</div>
@@ -76,7 +76,7 @@
             src="@/assets/Images/Imad Al Habsi.jpg"
             alt=""
             class="speakersImg"
-            style="height: 390px"
+            style="height: 402px"
           />
           <div class="overlay2 text-white">
             <div>Imad Al Habsi</div>
@@ -116,7 +116,7 @@
             src="@/assets/Images/Ibtihal Al Zadjali 1.jpg"
             alt=""
             class="speakersImg"
-            style="height:390px;"
+            style="height:402px;"
           />
           <div class="overlay text-white">
             <div>Ibtihal Al Zadjali</div>
@@ -132,7 +132,7 @@
             src="@/assets/Images/WhatsApp Image 2022-04-21 at 12.21.21 PM.jpeg"
             alt=""
             class="speakersImg"
-            style="height:390px;"
+            style="height:402px;"
           />
           <div class="overlay2 text-white">
             <div>Rehab Ibrahim</div>
@@ -145,7 +145,7 @@
             src="@/assets/Images/Harith AlShereiqi.jpeg"
             alt=""
             class="speakersImg"
-            style="height:390px;"
+            style="height:402px;"
           />
           <div class="overlay2 text-white">
             <div>Harith Al Shereiqi</div>
@@ -158,7 +158,7 @@
             src="@/assets/Images/Said Al Busaidi.png"
             alt=""
             class="speakersImg"
-            style="height:390px;"
+            style="height:402px;"
           />
           <div class="overlay2 text-white">
             <div>Said Al Busaidi</div>
@@ -174,7 +174,7 @@
             src="@/assets/Images/Amira Al Busaidi.jpeg"
             alt=""
             class="speakersImg"
-            style="height:390px;"
+            style="height:402px;"
           />
           <div class="overlay text-white">
             <div>Amira Al Busaidi</div>
