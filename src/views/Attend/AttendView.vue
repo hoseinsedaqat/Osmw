@@ -5,22 +5,65 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 my-5">
-            <h3 class="text-center">#OSMW22 IS COMING!!</h3>
-            <p class="text-center my-2">
+            <h3 class="text-center font-weight-bold">Many reasons to book your seat</h3>
+            <!-- <p class="text-center my-2">
               Oman’s brainiest digital marketing event is back to equip you with the
               skills, tools and <br />
               smarts you need to to stay ahead of the pack.
-            </p>
+            </p> -->
           </div>
         </div>
         <div class="row">
           <div class="col-md-8 mx-auto">
-            <p class="text-center">
-              From becoming the Most Valuable Player to fast-tracking projects with a
-              Minimum Viable Product mindset, getting your MVP on means getting maximum
-              points on the board with minimum effort.
-            </p>
-            <p class="text-center my-5">
+            <h3 class="text-center font-weight-bold">
+              #OSMW is an exclusive opportunity to build and refine your skillset in
+              social media & influencer marketing
+            </h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-9 mx-auto">
+            <h4 class="text-start my-5">
+              <b>Meet</b> influencers, experts and peers from Oman and the world
+            </h4>
+            <h4 class="text-start my-5">
+              <b>Learn </b> how to position your brand for success through good social
+              media plan and strategy
+            </h4>
+            <h4 class="text-start my-5">
+              <b>Connect </b> with like-minded attendees and build resourceful toolkit for
+              your social
+            </h4>
+            <h4 class="text-start my-5">
+              <b>Evaluate </b> how your current social media efforts are benchmarked with
+              others in your sector or other industries
+            </h4>
+            <h4 class="text-start my-5">
+              <b>Meet </b> face-to-face with prominent social media influencers
+            </h4>
+            <h4 class="text-start my-5">
+              <b>Highlight </b> your presence by sharing what you learned and boosting
+              your profile status
+            </h4>
+            <h4 class="text-start my-5">
+              <b>Earn </b> a certificate of Attendance from Muscat Media Group
+            </h4>
+            <h4 class="text-start my-5">(CTA Book your Seat)</h4>
+            <h4 class="text-start my-5">
+              <b>Who can attend OSMW 2022 ?</b>
+            </h4>
+            <h5 class="text-start my-5">
+              <b>
+                Marketing Manager • E-commerce Manager • Communication Managers •
+                Entrepreneurs, Digital Marketing specialists • Digital Media Specialists •
+                Commercial managers • Public Information • Public Affairs • Public and media
+                relations • Customer service managers and specialists. • Advertising and
+                destination marketing specialist • Information Officer • Program Manager •
+                Community Manager • HR Manager • HR Coordinator • Strategic communication
+                manager • Digital Marketing Instructor
+              </b>
+            </h5>
+            <!-- <p class="text-center my-5">
               Join us June 13 - 14 for two days of OCEC, discussions and brainstorms
               analysing the latest trends, techniques and real-world to help you find your
               MVP, no matter what the world throws at you.
@@ -47,7 +90,7 @@
             </div>
             <p class="text-center">
               <b>Who will attends Oman Social Media Week 2022</b>
-            </p>
+            </p> -->
           </div>
         </div>
         <div class="row my-5">
