@@ -28,7 +28,7 @@
         <div class="col-md-10 offset-md-1">
           <div class="eventHappening">
             <div class="eventTitle">
-              <span>9:00 am</span>
+              <span>09:00 am</span>
               <span>Registration and networking</span>
             </div>
           </div>
@@ -303,28 +303,29 @@
                     style="width: 50px; border-radius: 50%"
                     alt=""
                   />
-                  <b class="mx-1 my-1">Amira AlBusaidi</b>,4IR | Consultant | Training Lead |
-                  Metaverse | Entrepreneur | Researcher | Speaker | VR-Healthcare
+                  <b class="mx-1 my-1">Amira AlBusaidi</b>,4IR | Consultant | Training
+                  Lead | Metaverse | Entrepreneur | Researcher | Speaker | VR-Healthcare
                   Specialist (TBC)
                 </li>
                 <li class="m-4">
-                  <b class="mx-1">Sumaya Al Kindi</b>: Senior Media & Communications Specialist (TBC)
+                  <b class="mx-1">Sumaya Al Kindi</b>: Senior Media & Communications
+                  Specialist (TBC)
                 </li>
               </span>
             </p>
           </div>
           <div class="eventHappening">
             <div class="eventTitle">
-              <span>13:00 am</span>
+              <span>13:00 pm</span>
               <span>Lunch and Networking Break</span>
             </div>
           </div>
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>14:00 am</span>
+                <span>14:00 pm</span>
                 <span
-                  >The Social Metaverse: the shift towards immersive social experiences  
+                  >The Social Metaverse: the shift towards immersive social experiences
                 </span>
               </div>
               <span
@@ -365,9 +366,9 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>14:30 am</span>
+                <span>14:30 pm</span>
                 <span
-                  >Keynote: How to build a mental health oriented social media campaign. 
+                  >Keynote: How to build a mental health oriented social media campaign.
                 </span>
               </div>
               <span
@@ -409,9 +410,10 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>15:00 am</span>
+                <span>15:00 pm</span>
                 <span
-                  >Keynote: From Web2 to Web3 – how block chain and NFTs will redefine the use of social media.
+                  >Keynote: From Web2 to Web3 – how block chain and NFTs will redefine the
+                  use of social media.
                 </span>
               </div>
               <span
@@ -453,7 +455,7 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>15:30 am</span>
+                <span>15:30 pm</span>
                 <span
                   >Keynote: Data Analytics: evaluating ROI and forecasting performance
                 </span>
@@ -480,7 +482,9 @@
               </span>
             </div>
             <p class="collapse" id="eventSix">
-              <span class="d-block mt-4"><b> Mr. Arvindo Shankar</b>:  Marketing Director at Tamimah Group</span>
+              <span class="d-block mt-4"
+                ><b> Mr. Arvindo Shankar</b>: Marketing Director at Tamimah Group</span
+              >
             </p>
           </div>
         </div>
@@ -527,7 +531,7 @@
           <div class="eventHappening">
             <div class="eventTitle">
               <span>10:00 am</span>
-              <span>Welcome note - NPA representative</span>
+              <span>Welcome note - MCEE</span>
             </div>
           </div>
           <div class="eventHappening">
@@ -574,28 +578,50 @@
                   Influencer marketing best practices: how to collaborate with influencers
                   to obtain best results for building a strong brand presence.
                 </li>
-                <li class="m-4">
+                <!-- <li class="m-4">
                   Advertising and social media: how creativity in curating content is
                   impacting leads acquisition and social media engagement.
-                </li>
+                </li> -->
                 <span class="font-weight-bold d-block m-4">
                   MCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
                   Practical Motivational Speaker
                 </span>
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
-                <li class="m-4">Hawra Al Farsi: Influencer, TV Host</li>
-                <li class="m-4">Taj Noor: Influencer, TV & Radio Presenter</li>
                 <li class="m-4">
-                  Ibtihal Al Zadjali: (TBC)Influencer, Omani Media Personality
+                  <img
+                    src="@/assets/Images/Hawra Al Farsi.jpg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  <b class="mx-1">Hawra Al Farsi</b>: Influencer, TV Host
                 </li>
-                <li class="m-4">Dr. Ahmed Murad: Influencer & Speaker: Community</li>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Taj Noor .jpg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  <b class="mx-1">Taj Noor</b>: Influencer, TV & Radio Presenter
+                </li>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Ibtihal Al Zadjali 1.jpg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  <b class="mx-1">Ibtihal Al Zadjali</b>: (TBC)Influencer, Omani Media
+                  Personality
+                </li>
+                <li class="m-4">
+                  <b class="mx-1">Dr. Ahmed Murad</b> Influencer & Speaker: Community
+                </li>
               </span>
             </p>
           </div>
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>10:30 am</span>
+                <span>11:05 am</span>
                 <span>Morning Break</span>
               </div>
             </div>
@@ -603,7 +629,7 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>11:05 am</span>
+                <span>11:30 am</span>
                 <span>Panel Discussion: </span>
               </div>
               <span
@@ -638,23 +664,45 @@
                   Practical Motivational Speaker
                 </span>
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
-                <li class="m-4">Imad Al Habsi | Video Creator</li>
-                <li class="m-4">Harith AlShereiqi| Adventurer| Travel content creator</li>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Imad Al Habsi.jpg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  <b class="mx-1">Imad Al Habsi</b> | Video Creator
+                </li>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/WhatsApp Image 2022-04-21 at 12.21.21 PM.jpeg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  <b class="mx-1"> Rehab Ibrahim</b> : Founder & MD at Space| TEDx Speaker
+                </li>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Harith AlShereiqi.jpeg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  <b class="mx-1">Harith AlShereiqi</b> Adventurer| Travel content creator
+                </li>
               </span>
             </p>
           </div>
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>12:00 am</span>
-                <span>Photo booth and Networking with influencers </span>
+                <span>12:30 pm</span>
+                <span>Morning Photo booth and Networking with influencers </span>
               </div>
             </div>
           </div>
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>13:00 am</span>
+                <span>13:00 pm</span>
                 <span>Lunch Break and networking</span>
               </div>
             </div>
@@ -662,10 +710,10 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>14:30 am</span>
+                <span>14:00 pm</span>
                 <span
-                  >Case Study: Harnessing the impact of influencer marketing in tourism by
-                  meaningful and authentic content
+                  >Keynote: How the landscape of brands is changing drastically with all
+                  the new possibilities that spatial computing offers
                 </span>
               </div>
               <span
@@ -691,16 +739,35 @@
             </div>
             <p class="collapse" id="eventThirteen">
               <span>
-                <span class="font-weight-bold d-block m-4"> Speakers: (Reserved) </span>
-                <li class="m-4">Harith AlShereiqi| Adventurer| Travel content creator</li>
+                <span class="font-weight-bold d-block m-4">
+                  A showcase of various brands capitalizing on immersive technologies to
+                  market, sell and offer a new paradigm for product interaction. MCee:
+                  Tariq Al-Barwani
+                </span>
+                <!-- <li class="m-4">
+                  Advertising and social media: how creativity in curating content is
+                  impacting leads acquisition and social media engagement.
+                </li> -->
+                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Maged Farrag GAT2.jpg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  <b class="mx-1">Maged Farrag</b>: Digital media evangelist
+                </li>
               </span>
             </p>
           </div>
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>14:30 am</span>
-                <span>Case Study: social media in telecommunication</span>
+                <span>14:30 pm</span>
+                <span
+                  >Harnessing the impact of influencer marketing in tourism by meaningful
+                  and authentic content
+                </span>
               </div>
               <span
                 data-toggle="collapse"
@@ -724,14 +791,40 @@
               </span>
             </div>
             <p class="collapse" id="eventFourteen">
-              <span class="font-weight-bold d-block m-4"> Omantel </span>
+              <span>
+                <span class="font-weight-bold d-block">
+                  <li class="m-4">
+                    <img
+                      src="@/assets/Images/Tariq Al Barwani-Award-Winning Technology Professional & Practical Motivational Speaker .jpeg"
+                      style="width: 50px; border-radius: 50%"
+                      alt=""
+                    />
+                    <b class="mx-1">MCee: Tariq Al-Barwani</b>
+                  </li>
+                </span>
+                <!-- <li class="m-4">
+                  Advertising and social media: how creativity in curating content is
+                  impacting leads acquisition and social media engagement.
+                </li> -->
+                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Harith AlShereiqi.jpeg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  <b class="mx-1">Harith AlShereiqi</b> Adventurer| Travel content creator
+                </li>
+              </span>
             </p>
           </div>
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>15:00 am</span>
-                <span>Case Study: social media in Banking </span>
+                <span>15:00 pm</span>
+                <span
+                  >Keynote: Boosting social media profiles by quality video production
+                </span>
               </div>
               <span
                 data-toggle="collapse"
@@ -755,24 +848,199 @@
               </span>
             </div>
             <p class="collapse" id="eventFiftheen">
-              <span class="font-weight-bold d-block m-4"> Bank Muscat </span>
+              <span>
+                <span class="font-weight-bold d-block">
+                  <li class="m-4">
+                    <img
+                      src="@/assets/Images/Tariq Al Barwani-Award-Winning Technology Professional & Practical Motivational Speaker .jpeg"
+                      style="width: 50px; border-radius: 50%"
+                      alt=""
+                    />
+                    <b class="mx-1">MCee: Tariq Al-Barwani</b>
+                  </li>
+                </span>
+                <!-- <li class="m-4">
+                  Advertising and social media: how creativity in curating content is
+                  impacting leads acquisition and social media engagement.
+                </li> -->
+                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Imad Al Habsi.jpg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  <b class="mx-1">Imad Al Habsi</b> | Video Creator
+                </li>
+              </span>
             </p>
           </div>
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>15:30 am</span>
-                <span>Case study: social media in tourism </span>
+                <span>15:30 pm</span>
+                <span>Metaverse in Education </span>
               </div>
+              <span
+                data-toggle="collapse"
+                href="#hoseintwo"
+                role="button"
+                aria-expanded="false"
+                aria-controls="hoseintwo"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  fill="currentColor"
+                  class="bi bi-caret-down-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
+                  />
+                </svg>
+              </span>
             </div>
+            <p class="collapse" id="hoseintwo">
+              <span>
+                <span class="font-weight-bold d-block">
+                  <li class="m-4">
+                    <img
+                      src="@/assets/Images/Tariq Al Barwani-Award-Winning Technology Professional & Practical Motivational Speaker .jpeg"
+                      style="width: 50px; border-radius: 50%"
+                      alt=""
+                    />
+                    <b class="mx-1">MCee: Tariq Al-Barwani</b>
+                  </li>
+                </span>
+                <!-- <li class="m-4">
+                  Advertising and social media: how creativity in curating content is
+                  impacting leads acquisition and social media engagement.
+                </li> -->
+                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/SpeakersMain.png"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  <b class="mx-1">Steve Bambury</b>,Metaverse, Web3 and XR Consultant
+                </li>
+              </span>
+            </p>
           </div>
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>16:00 am</span>
-                <span>Event Closing Remarks </span>
+                <span>16:00 pm</span>
+                <span>The Power of Words </span>
               </div>
+              <span
+                data-toggle="collapse"
+                href="#hoseinthree"
+                role="button"
+                aria-expanded="false"
+                aria-controls="hoseinthree"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  fill="currentColor"
+                  class="bi bi-caret-down-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
+                  />
+                </svg>
+              </span>
             </div>
+            <p class="collapse" id="hoseinthree">
+              <span>
+                <span class="font-weight-bold d-block">
+                  <li class="m-4">
+                    <img
+                      src="@/assets/Images/Tariq Al Barwani-Award-Winning Technology Professional & Practical Motivational Speaker .jpeg"
+                      style="width: 50px; border-radius: 50%"
+                      alt=""
+                    />
+                    <b class="mx-1">MCee: Tariq Al-Barwani</b>
+                  </li>
+                </span>
+                <!-- <li class="m-4">
+                  Advertising and social media: how creativity in curating content is
+                  impacting leads acquisition and social media engagement.
+                </li> -->
+                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/WhatsApp Image 2022-04-21 at 12.21.21 PM.jpeg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  <b class="mx-1"> Rehab Ibrahim</b> : Founder & MD at Space| TEDx Speaker
+                </li>
+              </span>
+            </p>
+          </div>
+          <div class="eventHappening">
+            <div class="d-flex align-items-center justify-content-between">
+              <div class="eventTitle">
+                <span>16:30 pm</span>
+                <span>Keynote: Metaverse in Healthcare </span>
+              </div>
+              <span
+                data-toggle="collapse"
+                href="#hoseinfours"
+                role="button"
+                aria-expanded="false"
+                aria-controls="hoseinfours"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  fill="currentColor"
+                  class="bi bi-caret-down-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
+                  />
+                </svg>
+              </span>
+            </div>
+            <p class="collapse" id="hoseinfours">
+              <span>
+                <span class="font-weight-bold d-block">
+                  <li class="m-4">
+                    <img
+                      src="@/assets/Images/Tariq Al Barwani-Award-Winning Technology Professional & Practical Motivational Speaker .jpeg"
+                      style="width: 50px; border-radius: 50%"
+                      alt=""
+                    />
+                    <b class="mx-1">MCee: Tariq Al-Barwani</b>
+                  </li>
+                </span>
+                <!-- <li class="m-4">
+                  Advertising and social media: how creativity in curating content is
+                  impacting leads acquisition and social media engagement.
+                </li> -->
+                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Amira Al Busaidi.jpeg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  <b class="mx-1 my-1">Amira AlBusaidi</b>,4IR | Consultant | Training
+                  Lead | Metaverse | Entrepreneur | Researcher | Speaker | VR-Healthcare
+                  Specialist (TBC)
+                </li>
+              </span>
+            </p>
           </div>
         </div>
       </div>
