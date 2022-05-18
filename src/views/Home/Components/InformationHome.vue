@@ -16,7 +16,7 @@
           <h1 class="font-weight-bold own-size">Economy</h1>
         </div>
         <div class="col-md-6">
-          <p>
+          <p class="font-weight-bold">
             According to Oman's Vision 2040, Oman's digital economy's contribution to GDP
             planned to reach 10% by 2040. Digital transformation will play an important
             role in supporting Oman's strategic and important industries in line with Oman
