@@ -65,7 +65,7 @@
           </div>
           <div class="col-md-4 text-center mt-3">
             <img src="@/assets/Images/Member3.png" alt="" class="img-fluid" />
-            <h4 class="my-3">Meriana Ebef</h4>
+            <h4 class="my-3">MERIANA EBEF</h4>
             <span>Influencers Relations</span>
           </div>
         </div>
@@ -77,19 +77,19 @@
           </div>
           <div class="col-md-4 text-center mt-3">
             <img src="@/assets/Images/Member5.png" alt="" class="img-fluid" />
-            <h4 class="my-3">ASIL Al Lawati</h4>
+            <h4 class="my-3">ASIL Al LAWATI</h4>
             <span>Content & Engagement </span>
           </div>
           <div class="col-md-4 text-center mt-3">
             <img src="@/assets/Images/Member6.png" alt="" class="img-fluid" />
-            <h4 class="my-3">Meera Al Sabbagh</h4>
+            <h4 class="my-3">MEERA Al SABBAGH</h4>
             <span>Content & Engagement </span>
           </div>
         </div>
         <div class="row mt-5">
           <div class="col-md-4 text-center mt-3">
             <img src="@/assets/Images/Member7.png" alt="" class="img-fluid" />
-            <h4 class="my-3">MARIA Khairulla</h4>
+            <h4 class="my-3">MARIA KHAIRULLA</h4>
             <span>Digital Media Strategy</span>
           </div>
           <div class="col-md-4 text-center mt-3">
@@ -99,7 +99,7 @@
           </div>
           <div class="col-md-4 text-center my-3">
             <img src="@/assets/Images/Member9.png" alt="" class="img-fluid" />
-            <h4 class="my-3">Aman Shaw</h4>
+            <h4 class="my-3">AMAN SHAW</h4>
             <span>Accounts</span>
           </div>
         </div>
