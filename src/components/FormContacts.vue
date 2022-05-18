@@ -5,10 +5,10 @@
         <div class="col-md-6">
           <h3 class="font-weight-bold">Contact Us</h3>
           <p id="pinkBelow"></p>
-          <p class="mt-3">
+          <!-- <p class="mt-3">
             perspiciatis unde omnis iste natus error sit voluptatem accusantium
             doloremque laudantium
-          </p>
+          </p> -->
         </div>
         <div class="col-md-6 my-3">
           <img src="@/assets/Images/ContactUs.png" alt="" />
@@ -75,9 +75,9 @@
               <a href="https://www.facebook.com/National-Publishing-and-Advertising-108422801076962/?ref=page_internal" target="_blank">
                 <i class="fab fa-facebook"></i>
               </a>
-              <a>
+              <!-- <a>
                 <i class="fab fa-twitter"></i>
-              </a>
+              </a> -->
               <a href="https://www.linkedin.com/company/npaoman/mycompany/" target="_blank">
                 <i class="fab fa-linkedin"></i>
               </a>

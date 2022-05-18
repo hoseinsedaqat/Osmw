@@ -66,9 +66,7 @@
               </span>
             </div>
             <p class="collapse font-sm-own" id="hOne">
-              <span>
-                Introduced by Hawra Al Farsi: Influencer, TV Host 
-              </span>
+              <span> Introduced by Hawra Al Farsi: Influencer, TV Host </span>
             </p>
           </div>
           <div class="eventHappening">
@@ -102,7 +100,8 @@
             </div>
             <p class="collapse font-sm-own" id="eventSeven">
               <span>
-                H.E Talal Al Rahbi: Vice Chairman: Implementation Follow up Unit, Oman Vision 2040 (TBC)
+                H.E Talal Al Rahbi: Vice Chairman: Implementation Follow up Unit, Oman
+                Vision 2040 (TBC)
               </span>
             </p>
           </div>
@@ -141,36 +140,10 @@
             </p>
           </div>
           <div class="eventHappening">
-            <div class="d-flex align-items-center justify-content-between">
-              <div class="eventTitle">
-                <span>10:15 am</span>
-                <span>Trophy Handing to Chief Guest</span>
-              </div>
-              <span
-                data-toggle="collapse"
-                href="#eventNine"
-                role="button"
-                aria-expanded="false"
-                aria-controls="eventNine"
-              >
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="16"
-                  height="16"
-                  fill="currentColor"
-                  class="bi bi-caret-down-fill"
-                  viewBox="0 0 16 16"
-                >
-                  <path
-                    d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
-                  />
-                </svg>
-              </span>
+            <div class="eventTitle">
+              <span>10:15 am</span>
+              <span>Trophy Handing to Chief Guest</span>
             </div>
-            <p class="collapse font-sm-own" id="eventNine">
-              <span class="d-block"> - NPA representative to hand the Trophy </span>
-              <span> - Assist the Chief guest after the giving the trophy </span>
-            </p>
           </div>
           <div class="eventHappening">
             <div class="eventTitle">
@@ -217,8 +190,6 @@
                 </li>
                 <li class="m-4">
                   Strategizing social media to build communities and cultural capital.
-                  Realizing return on investment: data analytics in driving investment
-                  decisions.
                 </li>
                 <li class="m-4">Evolving usage of social media channels</li>
                 <li class="m-4">
@@ -230,22 +201,17 @@
                   managing risks.
                 </li>
                 <li class="m-4">
-                  Social selling and customer acquisition by personalized shopping. Social
-                  customer service
+                  Social selling and customer acquisition by personalized shopping.
                 </li>
+                <li class="m-4">Social customer service</li>
                 <span class="font-weight-bold d-block m-4">
                   MCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
                   Practical Motivational Speaker
                 </span>
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
-                <li class="m-4">H.H Sayyed Faher Bin Fatik Al Said</li>
+                <li class="m-4"><b class="mx-1">Ali Shabdar</b>, ZOHO Corporation.</li>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/Saba Al Busaidi- Senior Manager Corporate Affairs at Omantel .jpeg"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
-                  Ms Saba Al Busaidi, Omantel
+                  <b class="mx-1">Richie Santosdiaz</b>, Fintech Thoughtleader TBC
                 </li>
                 <li class="m-4">
                   <img
@@ -253,7 +219,8 @@
                     style="width: 50px; border-radius: 50%"
                     alt=""
                   />
-                  Certified Digital Marketer | PR Expert | Change Management
+                  <b class="mx-1">Said Al Busaidi</b>, Certified Digital Marketer | PR
+                  Expert | Change Management
                 </li>
               </span>
             </p>
@@ -312,7 +279,7 @@
                     style="width: 50px; border-radius: 50%"
                     alt=""
                   />
-                  Metaverse, Web3 and XR Consultant
+                  <b class="mx-1">Steve Bambury</b>,Metaverse, Web3 and XR Consultant
                 </li>
                 <li class="m-4">
                   <img
@@ -320,15 +287,7 @@
                     style="width: 50px; border-radius: 50%"
                     alt=""
                   />
-                  Senior Executive of Governance
-                </li>
-                <li class="m-4">
-                  <img
-                    src="@/assets/Images/Screen Shot 2022-04-21 at 3.43.31 PM.png"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
-                  (TBC): Entrepreneur
+                  <b class="mx-1">Hala Al Zadjali</b>,Senior Executive of Governance
                 </li>
                 <li class="m-4">
                   <img
@@ -336,7 +295,20 @@
                     style="width: 50px; border-radius: 50%"
                     alt=""
                   />
-                  Senior Manager, Omantel
+                  <b class="mx-1">Tazima Al Ghannami</b>,Senior Manager, Omantel
+                </li>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Amira Al Busaidi.jpeg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  <b class="mx-1 my-1">Amira AlBusaidi</b>,4IR | Consultant | Training Lead |
+                  Metaverse | Entrepreneur | Researcher | Speaker | VR-Healthcare
+                  Specialist (TBC)
+                </li>
+                <li class="m-4">
+                  <b class="mx-1">Sumaya Al Kindi</b>: Senior Media & Communications Specialist (TBC)
                 </li>
               </span>
             </p>
@@ -352,7 +324,7 @@
               <div class="eventTitle">
                 <span>14:00 am</span>
                 <span
-                  >The Social Metaverse: the shift towards immersive social experiences
+                  >The Social Metaverse: the shift towards immersive social experiences  
                 </span>
               </div>
               <span
@@ -385,7 +357,7 @@
                     style="width: 50px; border-radius: 50%"
                     alt=""
                   />
-                  Metaverse, Web3 and XR Consultant
+                  <b class="mx-1">Steve Bambury</b>Metaverse, Web3 and XR Consultant
                 </li>
               </span>
             </p>
@@ -395,7 +367,7 @@
               <div class="eventTitle">
                 <span>14:30 am</span>
                 <span
-                  >Keynote: Data Analytics: evaluating ROI and forecasting performance
+                  >Keynote: How to build a mental health oriented social media campaign. 
                 </span>
               </div>
               <span
@@ -420,7 +392,18 @@
               </span>
             </div>
             <p class="collapse font-sm-own" id="eventFour">
-              <span> Mr. Arvindo Shankar: Marketing Director at Tamimah Group </span>
+              <span class="font-weight-bold"> MCEE: Tariq Al Barwani </span>
+              <span>
+                <span class="font-weight-bold d-block m-4"> Speakers: </span>
+                <li class="m-4">
+                  <img
+                    src="@/assets/Images/Sayyeda Basma AL Said.jpg"
+                    style="width: 50px; border-radius: 50%"
+                    alt=""
+                  />
+                  <b class="mx-1">H.H Sayyeda Basma Al Said</b>
+                </li>
+              </span>
             </p>
           </div>
           <div class="eventHappening">
@@ -428,8 +411,7 @@
               <div class="eventTitle">
                 <span>15:00 am</span>
                 <span
-                  >From Web2 to Web3 How blockchain and NFTs will redefine the use of
-                  social media.
+                  >Keynote: From Web2 to Web3 – how block chain and NFTs will redefine the use of social media.
                 </span>
               </div>
               <span
@@ -453,7 +435,8 @@
                 </svg>
               </span>
             </div>
-            <p class="collapse" id="eventFive">
+            <p class="collapse font-sm-own" id="eventFive">
+              <span class="font-weight-bold"> MCEE: Tariq Al Barwani </span>
               <span>
                 <span class="font-weight-bold d-block m-4"> Speakers: </span>
                 <li class="m-4">
@@ -462,7 +445,7 @@
                     style="width: 50px; border-radius: 50%"
                     alt=""
                   />
-                  Metaverse, Web3 and XR Consultant
+                  <b class="mx-1">Steve Bambury</b>Metaverse, Web3 and XR Consultant
                 </li>
               </span>
             </p>
@@ -472,8 +455,7 @@
               <div class="eventTitle">
                 <span>15:30 am</span>
                 <span
-                  >Keynote: Social selling and customer service: Omni-channel customer
-                  nurturing
+                  >Keynote: Data Analytics: evaluating ROI and forecasting performance
                 </span>
               </div>
               <span
@@ -498,7 +480,7 @@
               </span>
             </div>
             <p class="collapse" id="eventSix">
-              <span class="font-weight-bold d-block m-4"> Zoho (TBC)</span>
+              <span class="d-block mt-4"><b> Mr. Arvindo Shankar</b>:  Marketing Director at Tamimah Group</span>
             </p>
           </div>
         </div>

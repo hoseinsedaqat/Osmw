@@ -88,13 +88,13 @@ export default {
 
 #speakersMain {
   position: relative;
-  width: 402px;
+  width: 100%;
   height: 402px;
 }
 
 .speakersImg {
   display: block;
-  width: 402px;
+  width: 100%;
   height: 402px;
 }
 
@@ -105,7 +105,7 @@ export default {
   left: 0;
   right: 0;
   height: 402px;
-  width: 402px;
+  width: 100%;
   opacity: 0;
   transition: 0.5s ease;
   background-color: #008cba;
@@ -122,7 +122,7 @@ export default {
   left: 0;
   right: 0;
   height: 402px;
-  width: 402px;
+  width: 100%;
   opacity: 0;
   transition: 0.5s ease;
   background-color: #e6007e;

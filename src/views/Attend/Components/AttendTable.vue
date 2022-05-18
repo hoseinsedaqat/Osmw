@@ -56,7 +56,7 @@
           </table>
         </div>
       </div>
-      <div class="row">
+      <!-- <div class="row">
         <div class="col-md-12">
           <h4>*20% discount for SMEs</h4>
           <h4 class="text-danger">(CTA Book your Seat)</h4>
@@ -65,7 +65,7 @@
             add the below disclaimer below the Covid 19 vaccination note)
           </h5>
         </div>
-      </div>
+      </div> -->
     </div>
   </section>
 </template>
