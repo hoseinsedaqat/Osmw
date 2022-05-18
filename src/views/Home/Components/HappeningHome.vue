@@ -181,7 +181,7 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>10:30 am</span>
+                <span>11:00 am</span>
                 <span
                   >Panel Discussion: Social Media Trends: a holistic view on regional and
                   global social media usage and adaptation.</span
@@ -261,7 +261,7 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>11:30 am</span>
+                <span>12:00 am</span>
                 <span
                   >Panel Discussion: How technology is driving social media evolution and
                   changing future outlook of business and social networking:</span
