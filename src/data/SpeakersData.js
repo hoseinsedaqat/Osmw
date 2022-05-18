@@ -1,6 +1,6 @@
 import SpeakerOne from '@/assets/Images/Sayyeda Basma AL Said.jpg';
 import SpeakerTwo from '@/assets/Images/Hala Al Zadjali.jpg';
-import SpeakerThree from '../assets/Images/SpeakersMain.png';
+import SpeakerThree from '@/assets/Images/1579850100816.jpg';
 import SpeakerFour from '@/assets/Images/Maged Farrag-Creative and Managing Director at 5dVR.jpeg';
 import SpeakerFive from '@/assets/Images/Tariq Al Barwani.jpg';
 import SpeakerSix from '@/assets/Images/Imad Al Habsi.jpg';
