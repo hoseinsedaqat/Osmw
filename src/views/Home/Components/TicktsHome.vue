@@ -101,7 +101,8 @@
           <div class="cards" id="cardOne">
             <div class="card-body">
               <h5 class="text-center">Group Booking</h5>
-              <h1 class="text-center font-weight-bold">_ _ _</h1>
+              <h1 class="text-center font-weight-bold">OR 100</h1>
+              <p class="text-dark text-center font-weight-bold"> (minimum 5)</p>
               <p class="mt-4 text-center">Admission to Conference</p>
               <div class="mt-5 ftickts">
                 <div class="my-1">

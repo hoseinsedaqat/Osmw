@@ -79,7 +79,7 @@ export default {
 #showcase {
   margin: 4rem 0 0 0;
   width: 100%;
-  height: 700px;
+  height: 800px;
   background: url("@/assets/Images/waiting-room-with-monitors.jpg") no-repeat center
     center/cover;
   position: relative;
@@ -88,7 +88,7 @@ export default {
 #showcase .showcase-layout {
   position: absolute;
   width: 100%;
-  height: 700px;
+  height: 800px;
   background-color: rgba(0, 0, 0, 0.3);
 }
 
@@ -122,7 +122,7 @@ export default {
 }
 
 .own-size {
-  font-size: 40px;
+  font-size: 50px;
   font-weight: 900;
 }
 
@@ -169,5 +169,10 @@ export default {
   #showcase .showcase-3 button {
     width: 100%;
   }
+
+  .own-size {
+  font-size: 40px;
+  font-weight: 900;
+}
 }
 </style>
