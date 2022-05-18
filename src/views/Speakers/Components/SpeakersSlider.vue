@@ -88,14 +88,14 @@ export default {
 
 #speakersMain {
   position: relative;
-  width: 100%;
-  height: 400px;
+  width: 402px;
+  height: 402px;
 }
 
 .speakersImg {
   display: block;
-  width: 100%;
-  height: 400px;
+  width: 402px;
+  height: 402px;
 }
 
 .overlay {
@@ -104,8 +104,8 @@ export default {
   bottom: 0;
   left: 0;
   right: 0;
-  height: 100%;
-  width: 100%;
+  height: 402px;
+  width: 402px;
   opacity: 0;
   transition: 0.5s ease;
   background-color: #008cba;
@@ -121,8 +121,8 @@ export default {
   bottom: 0;
   left: 0;
   right: 0;
-  height: 100%;
-  width: 100%;
+  height: 402px;
+  width: 402px;
   opacity: 0;
   transition: 0.5s ease;
   background-color: #e6007e;
