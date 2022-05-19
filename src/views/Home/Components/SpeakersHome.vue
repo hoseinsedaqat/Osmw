@@ -100,7 +100,7 @@
           </div>
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
-          <img src="@/assets/Images/Taj Noor .jpg" alt="" class="speakersImg h-100" />
+          <img src="@/assets/Images/Taj Noor.jpg" alt="" class="speakersImg h-100" />
           <div class="overlay text-white">
             <div>Taj Noor</div>
             <p>Influencer, TV & Radio Presenter</p>
@@ -109,7 +109,7 @@
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img
-            src="@/assets/Images/Ibtihal Al Zadjali 1.jpg"
+            src="@/assets/Images/Ibtihal Al Zadjali.jpg"
             alt=""
             class="speakersImg"
             style="height: 402px"
@@ -138,7 +138,7 @@
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img
-            src="@/assets/Images/Harith AlShereiqi.jpeg"
+            src="@/assets/Images/NHarith AlShereiqi.jpg"
             alt=""
             class="speakersImg"
             style="height: 402px"
@@ -151,7 +151,7 @@
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img
-            src="@/assets/Images/Said Al Busaidi.png"
+            src="@/assets/Images/NSaid Al Busaidi.jpg"
             alt=""
             class="speakersImg"
             style="height: 402px"
@@ -170,7 +170,7 @@
           id="speakersMain"
         >
           <img
-            src="@/assets/Images/Amira Al Busaidi.jpeg"
+            src="@/assets/Images/NAmira Al Busaidi.jpg"
             alt=""
             class="speakersImg"
             style="height: 402px"
@@ -288,7 +288,7 @@
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <router-link to="/speaker/TajNoor">
             <img
-              src="@/assets/Images/Taj Noor .jpg"
+              src="@/assets/Images/Taj Noor.jpg"
               alt=""
               class="speakersImg"
               style="height: 402px"
@@ -302,7 +302,7 @@
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <router-link to="/speaker/IbtihalAlZadjali">
             <img
-              src="@/assets/Images/Ibtihal Al Zadjali 1.jpg"
+              src="@/assets/Images/Ibtihal Al Zadjali.jpg"
               alt=""
               class="speakersImg"
               style="height: 402px"
@@ -330,7 +330,7 @@
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <router-link to="/speaker/HarithAlShereiqi">
             <img
-              src="@/assets/Images/Harith AlShereiqi.jpeg"
+              src="@/assets/Images/NHarith AlShereiqi.jpg"
               alt=""
               class="speakersImg"
               style="height: 402px"
@@ -344,7 +344,7 @@
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <router-link to="/speaker/SaidAlBusaidi">
             <img
-              src="@/assets/Images/Said Al Busaidi.png"
+              src="@/assets/Images/NSaid Al Busaidi.jpg"
               alt=""
               class="speakersImg"
               style="height: 402px"
@@ -358,7 +358,7 @@
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <router-link to="/speaker/AmiraAlBusaidi">
             <img
-              src="@/assets/Images/Amira Al Busaidi.jpeg"
+              src="@/assets/Images/NAmira Al Busaidi.jpg"
               alt=""
               class="speakersImg"
               style="height: 402px"

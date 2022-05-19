@@ -5,12 +5,12 @@ import SpeakerFour from '@/assets/Images/Maged Farrag-Creative and Managing Dire
 import SpeakerFive from '@/assets/Images/Tariq Al Barwani.jpg';
 import SpeakerSix from '@/assets/Images/Imad Al Habsi.jpg';
 import SpeakerSeven from '@/assets/Images/Hawra Al Farsi.jpg';
-import SpeakerEight from '@/assets/Images/Taj Noor .jpg';
-import SpeakerNine from '@/assets/Images/Ibtihal Al Zadjali 1.jpg';
+import SpeakerEight from '@/assets/Images/Taj Noor.jpg';
+import SpeakerNine from '@/assets/Images/Ibtihal Al Zadjali.jpg';
 import SpeakerTen from '@/assets/Images/WhatsApp Image 2022-04-21 at 12.21.21 PM.jpeg';
-import SpeakerEleven from '@/assets/Images/Harith AlShereiqi.jpeg';
-import SpeakerTwelve from '@/assets/Images/Said Al Busaidi.png';
-import SpeakerThirteen from '@/assets/Images/Amira Al Busaidi.jpeg';
+import SpeakerEleven from '@/assets/Images/NHarith AlShereiqi.jpg';
+import SpeakerTwelve from '@/assets/Images/NSaid Al Busaidi.jpg';
+import SpeakerThirteen from '@/assets/Images/NAmira Al Busaidi.jpg';
 
 export const SpeakerData = [
     {
