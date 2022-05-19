@@ -15,7 +15,7 @@
         </div>
         <div class="row mt-3">
           <div class="col-md-5">
-            <img :src="data.image" alt="" class="img-fluid h-100 w-100" />
+            <img :src="data.image" alt="" class="img-fluid w-100" style="height:517px;"/>
           </div>
           <div class="col-md-6">
             <p class="textdownSpeakers">
