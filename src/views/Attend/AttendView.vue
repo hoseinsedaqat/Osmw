@@ -5,7 +5,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 my-5">
-            <h3 class="text-center font-weight-bold">Many reasons to book your seat</h3>
+            <h1 class="text-center font-weight-bold">Many reasons to book your seat</h1>
             <!-- <p class="text-center my-2">
               Oman’s brainiest digital marketing event is back to equip you with the
               skills, tools and <br />
@@ -15,53 +15,55 @@
         </div>
         <div class="row">
           <div class="col-md-8 mx-auto">
-            <h3 class="text-center font-weight-bold">
+            <h5 class="text-center font-weight-bold">
               #OSMW is an exclusive opportunity to build and refine your skillset in
               social media & influencer marketing
-            </h3>
+            </h5>
           </div>
         </div>
         <div class="row">
           <div class="col-md-9 mx-auto">
-            <h4 class="text-start my-5">
+            <p class="text-center my-5">
               <b>Meet</b> influencers, experts and peers from Oman and the world
-            </h4>
-            <h4 class="text-start my-5">
-              <b>Learn </b> how to position your brand for success through good social
+            </p>
+            <p class="text-center my-5">
+              <b class="font-weight-bold">Learn </b> how to position your brand for success through good social
               media plan and strategy
-            </h4>
-            <h4 class="text-start my-5">
-              <b>Connect </b> with like-minded attendees and build resourceful toolkit for
+            </p>
+            <p class="text-center my-5">
+              <b class="font-weight-bold">Connect </b> with like-minded attendees and build resourceful toolkit for
               your social
-            </h4>
-            <h4 class="text-start my-5">
-              <b>Evaluate </b> how your current social media efforts are benchmarked with
+            </p>
+            <p class="text-center my-5">
+              <b class="font-weight-bold">Evaluate </b> how your current social media efforts are benchmarked with
               others in your sector or other industries
-            </h4>
-            <h4 class="text-start my-5">
-              <b>Meet </b> face-to-face with prominent social media influencers
-            </h4>
-            <h4 class="text-start my-5">
-              <b>Highlight </b> your presence by sharing what you learned and boosting
+            </p>
+            <p class="text-center my-5">
+              <b class="font-weight-bold">Meet </b> face-to-face with prominent social media influencers
+            </p>
+            <p class="text-center my-5">
+              <b class="font-weight-bold">Highlight </b> your presence by sharing what you learned and boosting
               your profile status
-            </h4>
-            <h4 class="text-start my-5">
-              <b>Earn </b> a certificate of Attendance from Muscat Media Group
-            </h4>
-            <h4 class="text-start my-5">(CTA Book your Seat)</h4>
-            <h4 class="text-start my-5">
+            </p>
+            <p class="text-center my-5">
+              <b class="font-weight-bold">Earn </b> a certificate of Attendance from Muscat Media Group
+            </p>
+            <div class="text-center my-5">
+              <button class="attendBtn">Download the Prospecteus</button>
+            </div>
+            <p class="text-center my-5 text-center">
               <b>Who can attend OSMW 2022 ?</b>
-            </h4>
-            <h5 class="text-start my-5">
-              <b>
-                Marketing Manager • E-commerce Manager • Communication Managers •
+            </p>
+            <h5 class="text-center my-5">
+              <span>
+                Marketing Manager• E-commerce Manager • Communication Managers •
                 Entrepreneurs, Digital Marketing specialists • Digital Media Specialists •
-                Commercial managers • Public Information • Public Affairs • Public and media
-                relations • Customer service managers and specialists. • Advertising and
-                destination marketing specialist • Information Officer • Program Manager •
-                Community Manager • HR Manager • HR Coordinator • Strategic communication
-                manager • Digital Marketing Instructor
-              </b>
+                Commercial managers • Public Information • Public Affairs • Public and
+                media relations • Customer service managers and specialists. • Advertising
+                and destination marketing specialist • Information Officer • Program
+                Manager • Community Manager • HR Manager• HR Coordinator • Strategic
+                communication manager • Digital Marketing Instructor.
+              </span>
             </h5>
             <!-- <p class="text-center my-5">
               Join us June 13 - 14 for two days of OCEC, discussions and brainstorms
