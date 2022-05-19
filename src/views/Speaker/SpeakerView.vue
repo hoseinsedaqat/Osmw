@@ -47,7 +47,7 @@
 </template>
 
 <script>
-import { SpeakerData } from "@/data/SpeakersData";
+import { SpeakerData } from "@/data/SpeakerPageData";
 import SpeakersSlider from './Components/SpeakersSlider.vue'
 export default {
   name: "SpeakerView",
