@@ -15,7 +15,7 @@
         </div>
         <div class="row mt-3">
           <div class="col-md-5">
-            <img src="@/assets/Images/SpeakersMain.png" alt="" class="img-fluid" />
+            <img src="@/assets/Images/1579850100816.jpg" alt="" class="img-fluid" />
           </div>
           <div class="col-md-6">
             <p class="textdownSpeakers">

@@ -12,13 +12,13 @@
           </div>
         </div>
         <div class="row">
-            <div class="col-md-6 mt-3 mx-4 text-white">
-              <h1 class="font-weight-bold own-size">
-                <span class="d-block m-0 p-0">Embrace The Future </span>
-                <span class="d-block m-0 p-0">Of Social Media </span>
-                <span class="d-block m-0 p-0">Marketing</span>
-              </h1>
-            </div>
+          <div class="col-md-6 mt-3 mx-4 text-white">
+            <h1 class="font-weight-bold own-size">
+              <span class="d-block m-0 p-0">Embrace the Future  </span>
+              <span class="d-block m-0 p-0">of Social Media </span>
+              <span class="d-block m-0 p-0">Marketing</span>
+            </h1>
+          </div>
         </div>
         <div class="row">
           <div id="pinkBelow" class="mx-own d-block"></div>
@@ -26,16 +26,16 @@
         <div class="row showcase-3">
           <div class="col-md-5 mx-4 text-white mt-3">
             <p>
-              The first of its type in the Sultanate of Oman, Oman Social Media Week 2022
-              intends to gather thought leadership and influencers, highlight global and
-              local trends, and feature latest technology in an inspiring dynamic
-              environment.
+              The first of its kind in the Sultanate of Oman, Oman Social Media Week 2022
+              aims to gather industry thought leaders, experts and influencers to share
+              and discuss local and global trends in social media and its vital role in
+              today’s evolving digital landscape
             </p>
             <router-link to="/attend">
-              <button>Register to Attend</button>
+              <button>REGISTER TO ATTEND</button>
             </router-link>
             <router-link to="/sponsorship">
-              <button>Become a Sponsor</button>
+              <button>BE A SPONSOR</button>
             </router-link>
           </div>
           <div class="col-md-6">
@@ -171,8 +171,8 @@ export default {
   }
 
   .own-size {
-  font-size: 40px;
-  font-weight: 900;
-}
+    font-size: 40px;
+    font-weight: 900;
+  }
 }
 </style>

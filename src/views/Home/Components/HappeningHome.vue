@@ -214,11 +214,6 @@
                   <b class="mx-1">Richie Santosdiaz</b>, Fintech Thoughtleader TBC
                 </li>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/Said Al Busiaid - Manager Communication and Sustainability at Mazoon Electricity .jpeg"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1">Said Al Busaidi</b>, Certified Digital Marketer | PR
                   Expert | Change Management
                 </li>
@@ -274,35 +269,15 @@
                 </li>
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/SpeakersMain.png"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1">Steve Bambury</b>,Metaverse, Web3 and XR Consultant
                 </li>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/Hala Al Zadjali.jpeg"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1">Hala Al Zadjali</b>,Senior Executive of Governance
                 </li>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/Tazima Al Ghannami- Senior Manager HR Analytics, Omantel.jpeg"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1">Tazima Al Ghannami</b>,Senior Manager, Omantel
                 </li>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/Amira Al Busaidi.jpeg"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1 my-1">Amira AlBusaidi</b>,4IR | Consultant | Training
                   Lead | Metaverse | Entrepreneur | Researcher | Speaker | VR-Healthcare
                   Specialist (TBC)
@@ -353,11 +328,6 @@
               <span>
                 <span class="font-weight-bold d-block m-4"> Speakers: </span>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/SpeakersMain.png"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1">Steve Bambury</b>Metaverse, Web3 and XR Consultant
                 </li>
               </span>
@@ -397,11 +367,6 @@
               <span>
                 <span class="font-weight-bold d-block m-4"> Speakers: </span>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/Sayyeda Basma AL Said.jpg"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1">H.H Sayyeda Basma Al Said</b>
                 </li>
               </span>
@@ -442,11 +407,6 @@
               <span>
                 <span class="font-weight-bold d-block m-4"> Speakers: </span>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/SpeakersMain.png"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1">Steve Bambury</b>Metaverse, Web3 and XR Consultant
                 </li>
               </span>
@@ -561,27 +521,12 @@
                 </span>
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/Hawra Al Farsi.jpg"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1">Hawra Al Farsi</b>: Influencer, TV Host
                 </li>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/Taj Noor .jpg"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1">Taj Noor</b>: Influencer, TV & Radio Presenter
                 </li>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/Ibtihal Al Zadjali 1.jpg"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1">Ibtihal Al Zadjali</b>: (TBC)Influencer, Omani Media
                   Personality
                 </li>
@@ -638,27 +583,12 @@
                 </span>
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/Imad Al Habsi.jpg"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1">Imad Al Habsi</b> | Video Creator
                 </li>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/WhatsApp Image 2022-04-21 at 12.21.21 PM.jpeg"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1"> Rehab Ibrahim</b> : Founder & MD at Space| TEDx Speaker
                 </li>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/Harith AlShereiqi.jpeg"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1">Harith AlShereiqi</b> Adventurer| Travel content creator
                 </li>
               </span>
@@ -723,11 +653,6 @@
                 </li> -->
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/Maged Farrag GAT2.jpg"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1">Maged Farrag</b>: Digital media evangelist
                 </li>
               </span>
@@ -767,11 +692,6 @@
               <span>
                 <span class="font-weight-bold d-block">
                   <li class="m-4">
-                    <img
-                      src="@/assets/Images/Tariq Al Barwani-Award-Winning Technology Professional & Practical Motivational Speaker .jpeg"
-                      style="width: 50px; border-radius: 50%"
-                      alt=""
-                    />
                     <b class="mx-1">MCee: Tariq Al-Barwani</b>
                   </li>
                 </span>
@@ -781,11 +701,6 @@
                 </li> -->
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/Harith AlShereiqi.jpeg"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1">Harith AlShereiqi</b> Adventurer| Travel content creator
                 </li>
               </span>
@@ -824,11 +739,6 @@
               <span>
                 <span class="font-weight-bold d-block">
                   <li class="m-4">
-                    <img
-                      src="@/assets/Images/Tariq Al Barwani-Award-Winning Technology Professional & Practical Motivational Speaker .jpeg"
-                      style="width: 50px; border-radius: 50%"
-                      alt=""
-                    />
                     <b class="mx-1">MCee: Tariq Al-Barwani</b>
                   </li>
                 </span>
@@ -838,11 +748,6 @@
                 </li> -->
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/Imad Al Habsi.jpg"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1">Imad Al Habsi</b> | Video Creator
                 </li>
               </span>
@@ -879,11 +784,6 @@
               <span>
                 <span class="font-weight-bold d-block">
                   <li class="m-4">
-                    <img
-                      src="@/assets/Images/Tariq Al Barwani-Award-Winning Technology Professional & Practical Motivational Speaker .jpeg"
-                      style="width: 50px; border-radius: 50%"
-                      alt=""
-                    />
                     <b class="mx-1">MCee: Tariq Al-Barwani</b>
                   </li>
                 </span>
@@ -893,11 +793,6 @@
                 </li> -->
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/SpeakersMain.png"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1">Steve Bambury</b>,Metaverse, Web3 and XR Consultant
                 </li>
               </span>
@@ -934,11 +829,6 @@
               <span>
                 <span class="font-weight-bold d-block">
                   <li class="m-4">
-                    <img
-                      src="@/assets/Images/Tariq Al Barwani-Award-Winning Technology Professional & Practical Motivational Speaker .jpeg"
-                      style="width: 50px; border-radius: 50%"
-                      alt=""
-                    />
                     <b class="mx-1">MCee: Tariq Al-Barwani</b>
                   </li>
                 </span>
@@ -948,11 +838,6 @@
                 </li> -->
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/WhatsApp Image 2022-04-21 at 12.21.21 PM.jpeg"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1"> Rehab Ibrahim</b> : Founder & MD at Space| TEDx Speaker
                 </li>
               </span>
@@ -989,11 +874,6 @@
               <span>
                 <span class="font-weight-bold d-block">
                   <li class="m-4">
-                    <img
-                      src="@/assets/Images/Tariq Al Barwani-Award-Winning Technology Professional & Practical Motivational Speaker .jpeg"
-                      style="width: 50px; border-radius: 50%"
-                      alt=""
-                    />
                     <b class="mx-1">MCee: Tariq Al-Barwani</b>
                   </li>
                 </span>
@@ -1003,11 +883,6 @@
                 </li> -->
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
                 <li class="m-4">
-                  <img
-                    src="@/assets/Images/Amira Al Busaidi.jpeg"
-                    style="width: 50px; border-radius: 50%"
-                    alt=""
-                  />
                   <b class="mx-1 my-1">Amira AlBusaidi</b>,4IR | Consultant | Training
                   Lead | Metaverse | Entrepreneur | Researcher | Speaker | VR-Healthcare
                   Specialist (TBC)
