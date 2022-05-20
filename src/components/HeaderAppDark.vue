@@ -6,7 +6,11 @@
         <ul>
           <li>
             <router-link to="/">
-              <img src="@/assets/Images/HeaderIcon.png" alt="TitleOsmw" />
+              <img
+                src="@/assets/Images/OSMW-01.png"
+                alt="TitleOsmw"
+                class="img-headers"
+              />
             </router-link>
           </li>
           <li>
@@ -40,7 +44,9 @@
     </header>
     <!-- for mobile -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-      <router-link to="/"><img src="@/assets/Images/HeaderIcon.png" alt="TitleOsmw" /> </router-link>
+      <router-link to="/">
+        <img src="@/assets/Images/OSMW-01.png" alt="TitleOsmw" class="img-headers" />
+      </router-link>
       <button
         class="navbar-toggler"
         type="button"
@@ -103,6 +109,10 @@ export default {
 </script>
 
 <style scoped>
+.img-headers {
+  width: 150px;
+  height: auto;
+}
 header {
   background: #1d272e;
   width: 100%;
