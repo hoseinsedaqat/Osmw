@@ -8,7 +8,7 @@
               <tr>
                 <th scope="col">Benefits</th>
                 <th scope="col">1 Day</th>
-                <th scope="col">Option 2</th>
+                <th scope="col">2 Day</th>
               </tr>
             </thead>
             <tbody class="bg-light text-dark">
