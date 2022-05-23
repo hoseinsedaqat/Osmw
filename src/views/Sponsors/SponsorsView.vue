@@ -105,6 +105,11 @@
             </div>
           </div>
         </div>
+        <div class="row">
+          <div class="col-md-12 my-3">
+            <img src="@/assets/Images/MMG-Brands 1.png" alt="MMG-BRANDS" class="img-fluid">
+          </div>
+        </div>
         <!-- Old Content -->
         <!-- <div class="row">
           <div class="col-md-12 mx-auto text-center" id="sponsorsPartners">
@@ -232,11 +237,7 @@ a {
   .bg-sky-blue {
     flex-direction: column;
     text-align: center;
-    padding: 3rem;
-  }
-
-  .bg-sky-blue div:nth-child(1) {
-    margin: 0;
+    padding: 1.68rem;
   }
 }
 </style>
