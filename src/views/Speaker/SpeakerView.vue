@@ -14,7 +14,7 @@
           </div>
         </div>
         <div class="row mt-3">
-          <div class="col-md-5">
+          <div class="col-md-6">
             <img :src="data.image" alt="" class="img-fluid w-100" style="height:517px;"/>
           </div>
           <div class="col-md-6">

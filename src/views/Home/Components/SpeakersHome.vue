@@ -7,7 +7,7 @@
       <div class="row no-gutters">
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img
-            src="@/assets/Images/Sayyeda Basma AL Said.jpg"
+            src="@/assets/Images/IMG-20220523-WA0004.jpg"
             alt=""
             class="speakersImg h-100"
           />
@@ -190,7 +190,7 @@
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <router-link to="/speaker/H.H.SayeedaBasmaAlSaid">
             <img
-              src="@/assets/Images/Sayyeda Basma AL Said.jpg"
+              src="@/assets/Images/IMG-20220523-WA0004.jpg"
               alt=""
               class="speakersImg"
               style="height: 402px"
