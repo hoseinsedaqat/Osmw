@@ -10,7 +10,7 @@
               We are welcoming sponsors and exhibitors to join us at Oman Social Media
               Week <br />#OSMW
             </p>
-            <p class="text-center my-4 font-weight-bold">13-14, June 2022</p>
+            <p class="text-center font-weight-bold">13-14, June 2022</p>
             <!-- Old Content -->
             <!-- <p class="text-center mt-5">
               OSMW 2022 would not be possible without a dedicated group of supporters and
@@ -44,8 +44,28 @@
             <h1 class="text-center font-weight-bold">SPONSORSHIP BENEFITS</h1>
           </div>
         </div>
+        <div class="row">
+          <div class="col-md-10 mx-auto tarekFormat">
+            <ul>
+              <li>
+                Get Your brand associated with the most impactful influencers in Oman
+                reaching hundreds of thousands of followers.
+              </li>
+              <li>
+                Promote Your products and services to hundreds of virtual and onsite
+              </li>
+              <li>
+                Generate leads through a - 3day exhibition booth to connect with potential
+                customers, partners and supporters
+              </li>
+              <li>
+                Obtain detailed analytics of your brand engagement and booth visitors
+              </li>
+            </ul>
+          </div>
+        </div>
         <!-- One Card -->
-        <div class="row no-gutters bg-sky-blue my-4">
+        <!-- <div class="row no-gutters bg-sky-blue my-4">
           <div class="col-md-6 mx-auto my-4">
             <div class="text-white">
               <h1 class="font-weight-bold bg-sky-blue-own-font mx-3">GET</h1>
@@ -57,9 +77,9 @@
               hundreds of thousands of followers.
             </p>
           </div>
-        </div>
+        </div> -->
         <!-- Two Card -->
-        <div class="row no-gutters bg-sky-blue my-4">
+        <!-- <div class="row no-gutters bg-sky-blue my-4">
           <div class="col-md-6 mx-auto my-4">
             <div class="text-white">
               <h1 class="font-weight-bold bg-sky-blue-own-font mx-3">PROMOTE</h1>
@@ -70,9 +90,9 @@
               Your products and services to hundreds of virtual and onsite
             </p>
           </div>
-        </div>
+        </div> -->
         <!-- Three Card -->
-        <div class="row no-gutters bg-sky-blue my-4">
+        <!-- <div class="row no-gutters bg-sky-blue my-4">
           <div class="col-md-6 mx-auto my-4">
             <div class="bg-sky-blue text-white">
               <h1 class="font-weight-bold bg-sky-blue-own-font">GENERATE</h1>
@@ -84,9 +104,9 @@
               partners and supporters
             </p>
           </div>
-        </div>
+        </div> -->
         <!-- Four Card -->
-        <div class="row no-gutters bg-sky-blue">
+        <!-- <div class="row no-gutters bg-sky-blue">
           <div class="col-md-6 mx-auto my-4">
             <div class="text-white">
               <h1 class="font-weight-bold bg-sky-blue-own-font mx-3">OBTAIN</h1>
@@ -97,7 +117,7 @@
               detailed analytics of your brand engagement and booth visitors
             </p>
           </div>
-        </div>
+        </div> -->
         <div class="row">
           <div class="col-md-12 mx-auto my-3">
             <div class="text-center my-5">
@@ -107,7 +127,11 @@
         </div>
         <div class="row">
           <div class="col-md-12 my-3">
-            <img src="@/assets/Images/MMG-Brands 1.png" alt="MMG-BRANDS" class="img-fluid">
+            <img
+              src="@/assets/Images/MMG-Brands 1.png"
+              alt="MMG-BRANDS"
+              class="img-fluid"
+            />
           </div>
         </div>
         <!-- Old Content -->
@@ -227,6 +251,10 @@ a {
 
 .bg-sky-blue-own-font {
   font-size: 56px;
+}
+
+.tarekFormat ul li{
+  margin: 1rem 0;
 }
 
 @media screen and (max-width: 1000px) {
