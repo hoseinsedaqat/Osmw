@@ -28,13 +28,13 @@
         <div class="col-md-10 offset-md-1">
           <div class="eventHappening">
             <div class="eventTitle">
-              <span>09:00 am</span>
+              <span>09:30 - 10:00 am</span>
               <span>Registration and networking</span>
             </div>
           </div>
           <div class="eventHappening">
             <div class="eventTitle">
-              <span>9:30 am</span>
+              <span>09:30 - 10:00 am</span>
               <span>VIP welcome at Majlis</span>
             </div>
           </div>
@@ -140,21 +140,55 @@
             </p>
           </div>
           <div class="eventHappening">
+            <div class="d-flex align-items-center justify-content-between">
+              <div class="eventTitle">
+                <span>10:20 am</span>
+                <span>
+                  The essence of social media is “social”: the importance of sustaining
+                  mental health when we design and implement social media strategies
+                </span>
+              </div>
+              <span
+                data-toggle="collapse"
+                href="#newplanOne"
+                role="button"
+                aria-expanded="false"
+                aria-controls="newplanOne"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  fill="currentColor"
+                  class="bi bi-caret-down-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
+                  />
+                </svg>
+              </span>
+            </div>
+            <p class="collapse font-sm-own" id="newplanOne">
+              <span> H.H. Sayyida Basma Al Said, Mental Health Counselor </span>
+            </p>
+          </div>
+          <div class="eventHappening">
             <div class="eventTitle">
-              <span>10:15 am</span>
+              <span>10:40 am</span>
               <span>Trophy Handing to Chief Guest</span>
             </div>
           </div>
           <div class="eventHappening">
             <div class="eventTitle">
-              <span>10:15 am</span>
+              <span>10:45 - 11:00 am</span>
               <span>Morning Break</span>
             </div>
           </div>
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>11:00 am</span>
+                <span>11:00 - 12:00 am</span>
                 <span
                   >Panel Discussion: Social Media Trends: a holistic view on regional and
                   global social media usage and adaptation.</span
@@ -223,7 +257,7 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>12:00 am</span>
+                <span>12:00 - 13:00 am</span>
                 <span
                   >Panel Discussion: How technology is driving social media evolution and
                   changing future outlook of business and social networking:</span
@@ -291,14 +325,14 @@
           </div>
           <div class="eventHappening">
             <div class="eventTitle">
-              <span>13:00 pm</span>
+              <span>13:00 - 14:00 pm</span>
               <span>Lunch and Networking Break</span>
             </div>
           </div>
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>14:00 pm</span>
+                <span>14:00 - 14:30 pm</span>
                 <span
                   >The Social Metaverse: the shift towards immersive social experiences
                 </span>
@@ -336,7 +370,7 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>14:30 pm</span>
+                <span>14:30 - 15:00 pm</span>
                 <span
                   >Keynote: How to build a mental health oriented social media campaign.
                 </span>
@@ -375,7 +409,7 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>15:00 pm</span>
+                <span>15:00 - 15:30 pm</span>
                 <span
                   >Keynote: From Web2 to Web3 – how block chain and NFTs will redefine the
                   use of social media.
@@ -415,7 +449,7 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>15:30 pm</span>
+                <span>15:30 - 16:00 pm</span>
                 <span
                   >Keynote: Data Analytics: evaluating ROI and forecasting performance
                 </span>
@@ -456,21 +490,21 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>09:00 am</span>
+                <span>09:00 - 09:30 am</span>
                 <span>Registration and networking</span>
               </div>
             </div>
           </div>
           <div class="eventHappening">
             <div class="eventTitle">
-              <span>10:00 am</span>
-              <span>Welcome note - MCEE</span>
+              <span>09:30 am</span>
+              <span>Welcome note – EMCEE: Tariq Al-Barwani</span>
             </div>
           </div>
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>10:05 am</span>
+                <span>09:35 - 10:35 am</span>
                 <span
                   >Panel Discussion: The Influencers Talks: The growing importance of
                   influencer marketing
@@ -520,7 +554,7 @@
                   Practical Motivational Speaker
                 </span>
                 <span class="font-weight-bold d-block m-4">
-                  Moderator: Mark Al Naji
+                  Moderator: Mike Al Naji
                 </span>
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
                 <li class="m-4">
@@ -542,7 +576,7 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>11:05 am</span>
+                <span>10:35 - 11:00 am</span>
                 <span>Morning Break</span>
               </div>
             </div>
@@ -550,7 +584,7 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>11:30 am</span>
+                <span>11:00 - 12:00 am</span>
                 <span>Panel Discussion: </span>
               </div>
               <span
@@ -585,12 +619,10 @@
                   Practical Motivational Speaker
                 </span>
                 <span class="font-weight-bold d-block m-4">
-                  Moderator: Mark Al Naji
+                  Moderator: Mike Al Naji
                 </span>
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
-                <li class="m-4">
-                  <b class="mx-1">Imad Al Habsi</b> | Video Creator
-                </li>
+                <li class="m-4"><b class="mx-1">Imad Al Habsi</b> | Video Creator</li>
                 <li class="m-4">
                   <b class="mx-1"> Rehab Ibrahim</b> : Founder & MD at Space| TEDx Speaker
                 </li>
@@ -603,15 +635,91 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>12:30 pm</span>
-                <span>Morning Photo booth and Networking with influencers </span>
+                <span>12:00 - 12:30 am</span>
+                <span>The Power of Words </span>
               </div>
+              <span
+                data-toggle="collapse"
+                href="#newplanTwo"
+                role="button"
+                aria-expanded="false"
+                aria-controls="newplanTwo"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  fill="currentColor"
+                  class="bi bi-caret-down-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
+                  />
+                </svg>
+              </span>
             </div>
+            <p class="collapse" id="newplanTwo">
+              <span>
+                <span class="font-weight-bold d-block m-4">
+                  MCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
+                  Practical Motivational Speaker
+                </span>
+                <span class="font-weight-bold d-block m-4">
+                  Moderator: Mike Al Naji
+                </span>
+                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <li class="m-4">
+                  <b class="mx-1"> Rehab Ibrahim</b> : Founder & MD at Space| TEDx Speaker
+                </li>
+              </span>
+            </p>
           </div>
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>13:00 pm</span>
+                <span>12:30- 13:00 am</span>
+                <span>Boosting social media profiles by quality video production </span>
+              </div>
+              <span
+                data-toggle="collapse"
+                href="#newplanTwo"
+                role="button"
+                aria-expanded="false"
+                aria-controls="newplanTwo"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  fill="currentColor"
+                  class="bi bi-caret-down-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
+                  />
+                </svg>
+              </span>
+            </div>
+            <p class="collapse" id="newplanTwo">
+              <span>
+                <span class="font-weight-bold d-block m-4">
+                  MCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
+                  Practical Motivational Speaker
+                </span>
+                <span class="font-weight-bold d-block m-4">
+                  Moderator: Mike Al Naji
+                </span>
+                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <li class="m-4"><b class="mx-1"> Imad Al Habsi</b> : Video Creator</li>
+              </span>
+            </p>
+          </div>
+          <div class="eventHappening">
+            <div class="d-flex align-items-center justify-content-between">
+              <div class="eventTitle">
+                <span>13:00 - 14:00 pm</span>
                 <span>Lunch Break and networking</span>
               </div>
             </div>
@@ -619,7 +727,7 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>14:00 pm</span>
+                <span>14:00 - 14:30 pm</span>
                 <span
                   >Keynote: How the landscape of brands is changing drastically with all
                   the new possibilities that spatial computing offers
@@ -667,9 +775,10 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>14:30 pm</span>
+                <span>14:30 - 15:00 pm</span>
                 <span
-                  >Influencer Marketing:
+                  >Harnessing the impact of influencer marketing in tourism by meaningful
+                  and authentic content
                 </span>
               </div>
               <span
@@ -706,40 +815,15 @@
                 </li> -->
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
                 <li class="m-4">
-                  <b class="mx-1">Mike Al Naji</b> 
-                  (Language: English with Arabic Translation)
+                  <b class="mx-1">Mike Al Naji</b>
                 </li>
               </span>
             </p>
           </div>
           <div class="eventHappening">
-            <div class="d-flex align-items-center justify-content-between">
-              <div class="eventTitle">
-                <span>15:00 pm</span>
-                <span
-                  >Keynote: Boosting social media profiles by quality video production
-                </span>
-              </div>
-              <span
-                data-toggle="collapse"
-                href="#eventFiftheen"
-                role="button"
-                aria-expanded="false"
-                aria-controls="eventFiftheen"
-              >
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="16"
-                  height="16"
-                  fill="currentColor"
-                  class="bi bi-caret-down-fill"
-                  viewBox="0 0 16 16"
-                >
-                  <path
-                    d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
-                  />
-                </svg>
-              </span>
+            <div class="eventTitle">
+              <span>15:00 - 15:30 pm</span>
+              <span>Q &amp; A with Mike Al Naji </span>
             </div>
             <p class="collapse" id="eventFiftheen">
               <span>
@@ -753,152 +837,18 @@
                   impacting leads acquisition and social media engagement.
                 </li> -->
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
-                <li class="m-4">
-                  <b class="mx-1">Imad Al Habsi</b> | Video Creator
-                </li>
+                <li class="m-4"><b class="mx-1">Imad Al Habsi</b> | Video Creator</li>
               </span>
             </p>
           </div>
           <div class="eventHappening">
-            <div class="d-flex align-items-center justify-content-between">
-              <div class="eventTitle">
-                <span>15:30 pm</span>
-                <span>Metaverse in Education </span>
-              </div>
-              <span
-                data-toggle="collapse"
-                href="#hoseintwo"
-                role="button"
-                aria-expanded="false"
-                aria-controls="hoseintwo"
-              >
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="16"
-                  height="16"
-                  fill="currentColor"
-                  class="bi bi-caret-down-fill"
-                  viewBox="0 0 16 16"
-                >
-                  <path
-                    d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
-                  />
-                </svg>
-              </span>
+            <div class="eventTitle">
+              <span>15:30 - 16:00 pm</span>
+              <span>Event closing and networking </span>
             </div>
-            <p class="collapse" id="hoseintwo">
-              <span>
-                <span class="font-weight-bold d-block">
-                  <li class="m-4">
-                    <b class="mx-1">MCee: Tariq Al-Barwani</b>
-                  </li>
-                </span>
-                <!-- <li class="m-4">
-                  Advertising and social media: how creativity in curating content is
-                  impacting leads acquisition and social media engagement.
-                </li> -->
-                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
-                <li class="m-4">
-                  <b class="mx-1">Steve Bambury</b>,Metaverse, Web3 and XR Consultant
-                </li>
-              </span>
-            </p>
-          </div>
-          <div class="eventHappening">
-            <div class="d-flex align-items-center justify-content-between">
-              <div class="eventTitle">
-                <span>16:00 pm</span>
-                <span>The Power of Words </span>
-              </div>
-              <span
-                data-toggle="collapse"
-                href="#hoseinthree"
-                role="button"
-                aria-expanded="false"
-                aria-controls="hoseinthree"
-              >
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="16"
-                  height="16"
-                  fill="currentColor"
-                  class="bi bi-caret-down-fill"
-                  viewBox="0 0 16 16"
-                >
-                  <path
-                    d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
-                  />
-                </svg>
-              </span>
-            </div>
-            <p class="collapse" id="hoseinthree">
-              <span>
-                <span class="font-weight-bold d-block">
-                  <li class="m-4">
-                    <b class="mx-1">MCee: Tariq Al-Barwani</b>
-                  </li>
-                </span>
-                <!-- <li class="m-4">
-                  Advertising and social media: how creativity in curating content is
-                  impacting leads acquisition and social media engagement.
-                </li> -->
-                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
-                <li class="m-4">
-                  <b class="mx-1"> Rehab Ibrahim</b> : Founder & MD at Space| TEDx Speaker
-                </li>
-              </span>
-            </p>
-          </div>
-          <div class="eventHappening">
-            <div class="d-flex align-items-center justify-content-between">
-              <div class="eventTitle">
-                <span>16:30 pm</span>
-                <span>Keynote: Metaverse in Healthcare </span>
-              </div>
-              <span
-                data-toggle="collapse"
-                href="#hoseinfours"
-                role="button"
-                aria-expanded="false"
-                aria-controls="hoseinfours"
-              >
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="16"
-                  height="16"
-                  fill="currentColor"
-                  class="bi bi-caret-down-fill"
-                  viewBox="0 0 16 16"
-                >
-                  <path
-                    d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
-                  />
-                </svg>
-              </span>
-            </div>
-            <p class="collapse" id="hoseinfours">
-              <span>
-                <span class="font-weight-bold d-block">
-                  <li class="m-4">
-                    <b class="mx-1">MCee: Tariq Al-Barwani</b>
-                  </li>
-                </span>
-                <!-- <li class="m-4">
-                  Advertising and social media: how creativity in curating content is
-                  impacting leads acquisition and social media engagement.
-                </li> -->
-                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
-                <li class="m-4">
-                  <b class="mx-1 my-1">Amira AlBusaidi</b>,4IR | Consultant | Training
-                  Lead | Metaverse | Entrepreneur | Researcher | Speaker | VR-Healthcare
-                  Specialist (TBC)
-                </li>
-              </span>
-            </p>
           </div>
         </div>
       </div>
-
     </div>
   </section>
 </template>
