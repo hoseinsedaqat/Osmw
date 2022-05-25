@@ -519,6 +519,9 @@
                   MCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
                   Practical Motivational Speaker
                 </span>
+                <span class="font-weight-bold d-block m-4">
+                  Moderator: Mark Al Naji
+                </span>
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
                 <li class="m-4">
                   <b class="mx-1">Hawra Al Farsi</b>: Influencer, TV Host
@@ -580,6 +583,9 @@
                 <span class="font-weight-bold d-block m-4">
                   MCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
                   Practical Motivational Speaker
+                </span>
+                <span class="font-weight-bold d-block m-4">
+                  Moderator: Mark Al Naji
                 </span>
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
                 <li class="m-4">
@@ -663,8 +669,7 @@
               <div class="eventTitle">
                 <span>14:30 pm</span>
                 <span
-                  >Harnessing the impact of influencer marketing in tourism by meaningful
-                  and authentic content
+                  >Influencer Marketing:
                 </span>
               </div>
               <span
@@ -701,7 +706,8 @@
                 </li> -->
                 <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
                 <li class="m-4">
-                  <b class="mx-1">Harith AlShereiqi</b> Adventurer| Travel content creator
+                  <b class="mx-1">Mike Al Naji</b> 
+                  (Language: English with Arabic Translation)
                 </li>
               </span>
             </p>
