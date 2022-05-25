@@ -6,11 +6,11 @@
         <div class="row my-5">
           <div class="col-md-6">
             <h1 class="font-weight-bold">STEVE BAMBURY</h1>
-            <span>METAVERSE</span>
+            <span>Metaverse, Web3 and XR Consultant</span>
           </div>
           <div class="col-md-6 rightsideSpeakers">
-            <p>APPEARING AT 11:00 // DAY ONE</p>
-            <span class="font-weight-bold">Vray and Metaverse</span>
+            <p class="font-weight-bold">June 13 and 14, 2022</p>
+            <span class="font-weight-bold">Crystal Ballroom, Grand Millennium,  Muscat</span>
           </div>
         </div>
         <div class="row mt-3">

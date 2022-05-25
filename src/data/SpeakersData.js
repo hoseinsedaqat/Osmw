@@ -18,7 +18,7 @@ export const SpeakerData = [
         career: 'Mental Health Specialist|Tedax Speaker |Multi-Award Winner',
         image: SpeakerOne,
         page: 'H.H.SayeedaBasmaAlSaid',
-        when:`13-14 June 2022`,
+        when:`13 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description: `
         HH Sayeeda Basma Al Said is a well-established psychotherapist, clinical hypnotherapist, mental health counselor, owner, and founder of the first mental health clinic in Oman, Whispers of Serenity, which she opened in 2012. She aspires to establish the clinic as a a hotbed of psychology and mental-health related information not only in Oman, but in the neighbouring Gulf countries, as well as on a global level. She also aims to establish it as a training centre for psychology students.
@@ -59,7 +59,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         career: 'Digital Media Evangelist',
         image: SpeakerFour,
         page: 'SMagedFarrag',
-        when:`13-14 June 2022`,
+        when:`14 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Mr. Farrag is a digital media evangelist, having founded his first company Mega Media in 1994 to become Egypt’s leading multimedia service provider. His work extended to cover innovative use of technology in advertising, communication and cultural heritage documentation. 
 
@@ -86,7 +86,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         career: 'Video Creator & Film Director ',
         image: SpeakerSix,
         page: 'ImadAlHabsi',
-        when:`13-14 June 2022`,
+        when:`14 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Mr. Al Habsi is a known filmmaker and video creator. He also dabbles in directing, advertising and music. 
 
@@ -107,7 +107,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         career: 'Influencer, TV & Radio Presenter',
         image: SpeakerEight,
         page: 'TajNoor',
-        when:`13-14 June 2022`,
+        when:`14 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Ms. Noor is a public figure, a social media influencer, a music teacher, TV and radio presenter. 
 
@@ -119,7 +119,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         career: 'Influencer, Omani Media Personality',
         image: SpeakerNine,
         page: 'IbtihalAlZadjali',
-        when:`13-14 June 2022`,
+        when:`14 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Ibtihal Al Zadjali is a pioneer in the Omani media industry and an expert in social media implementation as well as
         marketing and events management. Her passion for business led her to get her undergraduate degree in
@@ -135,7 +135,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         career: 'Founder & MD at Space| TEDx Speaker',
         image: SpeakerTen,
         page: 'RehabIbrahim',
-        when:`13-14 June 2022`,
+        when:`14 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Ms. Ibrahim is the founder and Managing Director of Space, the first-of-its-kind talent development center that offers workshops on various topics. In 2019, she opened a startup SME consultancy service company, Rehab Consultancy, where she did freelance training in entrepreneurship, marketing and soft skills.
 
@@ -147,7 +147,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         career: 'Adventurer| Travel Content Creator',
         image: SpeakerEleven,
         page: 'HarithAlShereiqi',
-        when:`13-14 June 2022`,
+        when:`14 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Mr. Al Shereiqi is a travel content creator and an adventurer. He is passionate about places and travel and learning about different cultures around the world, which he documents and shares in his own YouTube channel. 
 
@@ -159,7 +159,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         career: 'Certified Digital Marketer | PR Expert | Change Management',
         image: SpeakerTwelve,
         page: 'SaidAlBusaidi',
-        when:`13-14 June 2022`,
+        when:`13 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`
         Mr. Al Busaidi is a certified digital marketer and public relations expert, specializing in communications and branding with more than 15 years of related experience. He is a consultant and trainer in marketing and corporate communications, member of a certified jury for the International Business Communication Awards at the International Association for Business Communication (UK), member of International Social Media Club (USA) and a member of Ship for World Youth (UN and Japan). 
@@ -169,10 +169,10 @@ She completed her undergraduate studies in Jordan and continued training at Harv
     },
     {
         name: 'Amira Al Busaidi',
-        career: '4IR | Consultant | Training Lead | Metaverse',
+        career: 'CEO and Founder, MulhimVR',
         image: SpeakerThirteen,
         page: 'AmiraAlBusaidi',
-        when:`13-14 June 2022`,
+        when:`13 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Ms. Al Busaidi is the CEO and founder of MulhimVR, an innovation-based startup that introduces virtual reality (VR) into healthcare and works closely with healthcare specialists and hospitals. Sas Center for Virtual Reality (SasVR) was one the biggest projects that she has worked on in since its establishment. She is passionate about helping to develop the VR industry in Oman, empowering youth and building partnerships locally and internationally. 
  

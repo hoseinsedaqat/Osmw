@@ -18,7 +18,7 @@ export const SpeakerData = [
         career: 'Mental Health Specialist|Tedax Speaker |Multi-Award Winner',
         image: SpeakerOne,
         page: 'H.H.SayeedaBasmaAlSaid',
-        when:`13-14 June 2022`,
+        when:`13 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         linkedin:'https://www.linkedin.com/in/alsayyida-basma-al-said-32514446/?originalSubdomain=om ',
         instagram:'https://www.instagram.com/basmaalsaidofficial/?hl=en',
@@ -72,7 +72,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         linkedin:'https://www.linkedin.com/in/magedfarrag/?originalSubdomain=eg',
         twitter:'https://twitter.com/magedfarrag',
         instagram:'https://www.instagram.com/megamegz7/?hl=en',
-        when:`13-14 June 2022`,
+        when:`14 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Mr. Farrag is a digital media evangelist, having founded his first company Mega Media in 1994 to become Egypt’s leading multimedia service provider. His work extended to cover innovative use of technology in advertising, communication and cultural heritage documentation. 
 
@@ -105,7 +105,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         career: 'Video Creator & Film Director ',
         image: SpeakerSix,
         page: 'ImadAlHabsi',
-        when:`13-14 June 2022`,
+        when:`14 June 2022`,
         linkedin:'https://www.linkedin.com/in/imad-al-habsi-938317156/?originalSubdomain=om',
         twitter:'https://twitter.com/emadalhabsi?lang=en',
         instagram:'https://www.instagram.com/emad.h15/?hl=en',
@@ -132,7 +132,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         career: 'Influencer, TV & Radio Presenter',
         image: SpeakerEight,
         page: 'TajNoor',
-        when:`13-14 June 2022`,
+        when:`14 June 2022`,
         instagram:'https://www.instagram.com/tajn00r/?hl=en',
         youtube:'https://www.youtube.com/channel/UCNH0ZU5sXsfAGIClsPj72Pg',
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
@@ -146,7 +146,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         career: 'Influencer, Omani Media Personality',
         image: SpeakerNine,
         page: 'IbtihalAlZadjali',
-        when:`13-14 June 2022`,
+        when:`14 June 2022`,
         instagram:'https://www.instagram.com/ibtihalz/?hl=en',
         facebook:'https://www.facebook.com/ibtihal.alzadjali',
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
@@ -165,7 +165,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         image: SpeakerTen,
         page: 'RehabIbrahim',
         linkedin:'https://www.linkedin.com/in/rehab-ibrahim-aaa60a1b/',
-        when:`13-14 June 2022`,
+        when:`14 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Ms. Ibrahim is the founder and Managing Director of Space, the first-of-its-kind talent development center that offers workshops on various topics. In 2019, she opened a startup SME consultancy service company, Rehab Consultancy, where she did freelance training in entrepreneurship, marketing and soft skills.
 
@@ -179,7 +179,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         page: 'HarithAlShereiqi',
         linkedin:'https://www.linkedin.com/in/harith-al-shereiqi-1905b9153/?originalSubdomain=om',
         instagram:'https://www.instagram.com/traveler_harith/',
-        when:`13-14 June 2022`,
+        when:`14 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Mr. Al Shereiqi is a travel content creator and an adventurer. He is passionate about places and travel and learning about different cultures around the world, which he documents and shares in his own YouTube channel. 
 
@@ -191,7 +191,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         career: 'Certified Digital Marketer | PR Expert | Change Management',
         image: SpeakerTwelve,
         page: 'SaidAlBusaidi',
-        when:`13-14 June 2022`,
+        when:`13 June 2022`,
         linkedin:'https://www.linkedin.com/in/saidalbusaidi/?originalSubdomain=om',
         instagram:' https://www.instagram.com/saidalbusaidi/?hl=en',
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
@@ -203,10 +203,10 @@ She completed her undergraduate studies in Jordan and continued training at Harv
     },
     {
         name: 'Amira Al Busaidi',
-        career: '4IR | Consultant | Training Lead | Metaverse',
+        career: 'CEO and Founder, MulhimVR',
         image: SpeakerThirteen,
         page: 'AmiraAlBusaidi',
-        when:`13-14 June 2022`,
+        when:`13 June 2022`,
         linkedin:'https://www.linkedin.com/in/amira-albusaidi-57b48422/',
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Ms. Al Busaidi is the CEO and founder of MulhimVR, an innovation-based startup that introduces virtual reality (VR) into healthcare and works closely with healthcare specialists and hospitals. Sas Center for Virtual Reality (SasVR) was one the biggest projects that she has worked on in since its establishment. She is passionate about helping to develop the VR industry in Oman, empowering youth and building partnerships locally and internationally. 

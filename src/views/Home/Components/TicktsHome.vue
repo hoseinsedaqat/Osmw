@@ -101,9 +101,9 @@
           <div class="cards" id="cardOne">
             <div class="card-body">
               <h5 class="text-center">Group Booking</h5>
-              <h1 class="text-center font-weight-bold">OmR 100</h1>
+              <h1 class="text-center font-weight-bold">OMR 100</h1>
               <p class="text-dark text-center font-weight-bold"> (Minimum of 5 Admission Benefits)</p>
-              <p class="mt-4 text-center">Admission to Conference</p>
+              <p class="mt-4 text-center">Admission Benefits</p>
               <div class="mt-5 ftickts">
                 <div class="my-1">
                   <img src="@/assets/Images/Vector 18.png" alt="" />

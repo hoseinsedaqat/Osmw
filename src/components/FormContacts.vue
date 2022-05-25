@@ -48,7 +48,7 @@
               v-model="message"
             ></textarea>
           </div>
-          <button class="my-3 contactSendformbtn" @click="formData()">View All</button>
+          <button class="my-3 contactSendformbtn" @click="formData()">SUBMIT</button>
         </div>
         <div class="col-md-6">
           <div>

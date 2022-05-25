@@ -6,7 +6,7 @@
           <div class="form-card">
             <h3 class="font-weight-bold">
               Join the newsletter and get all <br />
-              updates and new blogs
+              updates
             </h3>
             <div class="formpartcard mt-4">
               <input type="email" placeholder="Enter Your Email" v-model="subscribe" />

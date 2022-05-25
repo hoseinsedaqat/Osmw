@@ -14,7 +14,7 @@
         <div class="col-md-12">
           <div class="text-center">
             <router-link to="/sponsors">
-              <button class="sponsorsHome">Become Sponsor</button>
+              <button class="sponsorsHome">BE A SPONSOR</button>
             </router-link>
           </div>
         </div>
