@@ -8,7 +8,7 @@
               <tr>
                 <th scope="col">Benefits</th>
                 <th scope="col">1 Day</th>
-                <th scope="col">2 Day</th>
+                <th scope="col">2 Days</th>
               </tr>
             </thead>
             <tbody class="bg-light text-dark">
@@ -49,8 +49,8 @@
               </tr>
               <tr>
                 <th><b class="font-weight-bold h4 text-dark">Price</b></th>
-                <td><b class="tableAttendShow font-weight-bold text-dark">OR 150</b></td>
-                <td><b class="tableAttendShow font-weight-bold text-dark">OR 100</b></td>
+                <td><b class="tableAttendShow font-weight-bold text-dark">OMR 100</b></td>
+                <td><b class="tableAttendShow font-weight-bold text-dark">OMR 150</b></td>
               </tr>
             </tbody>
           </table>
