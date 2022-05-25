@@ -15,7 +15,7 @@
         </div>
         <div class="row mt-3">
           <div class="col-md-5">
-            <img src="@/assets/Images/1579850100816.jpg" alt="" class="img-fluid" />
+            <img src="@/assets/Images/1579850100816.jpg" alt="" class="img-fluid w-100 h-100" />
           </div>
           <div class="col-md-6">
             <p class="textdownSpeakers">
@@ -39,10 +39,28 @@
             </p>
             <div class="socialmediaSpeakers">
               <li>
-                <i class="fab fa-twitter"></i>
+                <!-- TWITTER -->
+                <a href="https://twitter.com/steve_bambury?lang=en" target="_BLANK">
+                  <img src="@/assets/Images/SocialMediaIcons/twitter.png" alt="TWITTER" class="img-fluid">
+                </a>
               </li>
               <li>
-                <i class="fab fa-linkedin"></i>
+                <!-- LINKEDIN -->
+                <a href="https://www.linkedin.com/in/stevebamburyvr/" target="_BLANK">
+                  <img src="@/assets/Images/SocialMediaIcons/linkedin.png" alt="LINKEDIN" class="img-fluid">
+                </a>
+              </li>
+              <li>
+                <!-- INSTAGRAM -->
+                <a href="https://www.instagram.com/steve_bambury/" target="_BLANK">
+                  <img src="@/assets/Images/SocialMediaIcons/instagram.png" alt="INSTAGRAM" class="img-fluid">
+                </a>
+              </li>
+              <li>
+                <!-- YOUTUBE -->
+                <a href="https://www.youtube.com/channel/UCzhIRzWVoFXM-Hdf5PUVJ_g/about" target="_BLANK">
+                  <img src="@/assets/Images/SocialMediaIcons/youtube.png" alt="YOUTUBE" class="img-fluid">
+                </a>
               </li>
             </div>
           </div>
