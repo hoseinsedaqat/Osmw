@@ -15,18 +15,48 @@
         </div>
         <div class="row mt-3">
           <div class="col-md-6">
-            <img :src="data.image" alt="" class="img-fluid w-100" style="height:517px;"/>
+            <img :src="data.image" alt="" class="img-fluid w-100 h-100" style="height:517px;"/>
           </div>
           <div class="col-md-6">
             <p class="textdownSpeakers text-justify">
               {{ data.description }}
             </p>
             <div class="socialmediaSpeakers">
-              <li>
-                <i class="fab fa-twitter"></i>
+              <li v-if="data.twitter">
+                <!-- TWITTER -->
+                <a :href="data.twitter" target="_BLANK">
+                  <img src="@/assets/Images/SocialMediaIcons/twitter.png" alt="TWITTER" class="img-fluid">
+                </a>
               </li>
-              <li>
-                <i class="fab fa-linkedin"></i>
+              <li v-if="data.linkedin">
+                <!-- LINKEDIN -->
+                <a :href="data.linkedin" target="_BLANK">
+                  <img src="@/assets/Images/SocialMediaIcons/linkedin.png" alt="LINKEDIN" class="img-fluid">
+                </a>
+              </li>
+              <li v-if="data.instagram">
+                <!-- INSTAGRAM -->
+                <a :href="data.instagram" target="_BLANK">
+                  <img src="@/assets/Images/SocialMediaIcons/instagram.png" alt="INSTAGRAM" class="img-fluid">
+                </a>
+              </li>
+              <li v-if="data.youtube">
+                <!-- YOUTUBE -->
+                <a :href="data.youtube" target="_BLANK">
+                  <img src="@/assets/Images/SocialMediaIcons/youtube.png" alt="YOUTUBE" class="img-fluid">
+                </a>
+              </li>
+              <li v-if="data.facebook">
+                <!-- FACEBOOK -->
+                <a :href="data.facebook" target="_BLANK">
+                  <img src="@/assets/Images/SocialMediaIcons/facebook.png" alt="FACEBOOK" class="img-fluid">
+                </a>
+              </li>
+              <li v-if="data.website">
+                <!-- WEBSITE -->
+                <a :href="data.website" target="_BLANK">
+                  <img src="@/assets/Images/SocialMediaIcons/website.png" alt="WEBSITE" class="img-fluid">
+                </a>
               </li>
             </div>
           </div>

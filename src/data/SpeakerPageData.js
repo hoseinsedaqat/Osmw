@@ -20,6 +20,9 @@ export const SpeakerData = [
         page: 'H.H.SayeedaBasmaAlSaid',
         when:`13-14 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
+        linkedin:'https://www.linkedin.com/in/alsayyida-basma-al-said-32514446/?originalSubdomain=om ',
+        instagram:'https://www.instagram.com/basmaalsaidofficial/?hl=en',
+        facebook:'https://www.facebook.com/Official-Sayyida-Basma-Al-said-232819700523179/ ',
         description: `
         HH Sayeeda Basma Al Said is a well-established psychotherapist, clinical hypnotherapist, mental health counselor, owner, and founder of the first mental health clinic in Oman, Whispers of Serenity, which she opened in 2012. She aspires to establish the clinic as a a hotbed of psychology and mental-health related information not only in Oman, but in the neighbouring Gulf countries, as well as on a global level. She also aims to establish it as a training centre for psychology students.
  
@@ -36,6 +39,9 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         image: SpeakerTwo,
         page: 'HalahAlZadjali',
         when:`13-14 June 2022`,
+        linkedin:'https://www.linkedin.com/in/halah-al-zadjali-099a6211b/?originalSubdomain=om',
+        twitter:'https://twitter.com/halahz85?lang=en',
+        instagram:'https://www.instagram.com/realhalahz/?utm_medium=copy_link',
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Ms. Al Zadjali is currently the Senior Executive of Standards at the Ministry of Transport, Communications & Information Technology. She recently spoke at the Oman University of Technology and Applied Sciences, Higher College of Technology about Artificial Intelligence and the Future of Recruitment.  
     
@@ -48,6 +54,10 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         image: SpeakerThree,
         page: 'SteveBambury',
         when:`13-14 June 2022`,
+        linkedin:'https://www.linkedin.com/in/stevebamburyvr/',
+        twitter:'https://twitter.com/steve_bambury?lang=en',
+        instagram:'https://www.instagram.com/steve_bambury/',
+        youtube:'https://www.youtube.com/channel/UCzhIRzWVoFXM-Hdf5PUVJ_g/about',
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Mr. Bambury has worked in education and training for 20 years. In 2016 he became the first Head of Digital Learning and Innovation across the JESS school group before moving on to work as an education consultant in 2019. This included an extended engagement within New Media Academy where he led on education strategy and immersive technology and coordinated the deployment of the first virtual campus in the Middle East. Steve has won awards from Apple, Microsoft, GESS, BETT and EdTech Digest for his working integrating technology in learning and professional development.  
 
@@ -59,6 +69,9 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         career: 'Digital Media Evangelist',
         image: SpeakerFour,
         page: 'SMagedFarrag',
+        linkedin:'https://www.linkedin.com/in/magedfarrag/?originalSubdomain=eg',
+        twitter:'https://twitter.com/magedfarrag',
+        instagram:'https://www.instagram.com/megamegz7/?hl=en',
         when:`13-14 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Mr. Farrag is a digital media evangelist, having founded his first company Mega Media in 1994 to become Egypt’s leading multimedia service provider. His work extended to cover innovative use of technology in advertising, communication and cultural heritage documentation. 
@@ -73,6 +86,12 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         career: 'Brand Ambassador and Founding Partner Award-Winning Technology Professional & Practical Motivational Speaker',
         image: SpeakerFive,
         page: 'MTariqAlBarwani',
+        linkedin:'https://www.linkedin.com/in/tariqnet/',
+        twitter:'https://twitter.com/tariqalbarwani?lang=en',
+        instagram:'https://www.instagram.com/tariqnet/?hl=en',
+        youtube:'https://www.youtube.com/user/TariqAlBarwani/videos?app=desktop&flow=grid&view=0&sort=da',
+        facebook:'https://www.facebook.com/Tariq-Al-Barwani-360044338010828/',
+        website:'https://www.tariq.net',
         when:`13-14 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Mr. Al Barwani is a renowned multi-awarded technologist and practical motivational keynote speaker. He is the founder of Knowledge Oman, a knowledge-sharing platform aimed at transforming Oman into a knowledge-based society and which has launched 74 initiatives such as projects, workshops, seminars in the form of computer programs, events, training, media entertainment programs (TV and radio) and community initiatives in partnership with the private and government. 
@@ -87,6 +106,9 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         image: SpeakerSix,
         page: 'ImadAlHabsi',
         when:`13-14 June 2022`,
+        linkedin:'https://www.linkedin.com/in/imad-al-habsi-938317156/?originalSubdomain=om',
+        twitter:'https://twitter.com/emadalhabsi?lang=en',
+        instagram:'https://www.instagram.com/emad.h15/?hl=en',
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Mr. Al Habsi is a known filmmaker and video creator. He also dabbles in directing, advertising and music. 
 
@@ -99,6 +121,9 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         image: SpeakerSeven,
         page: 'HawraAlFarsi',
         when:`13-14 June 2022`,
+        instagram:'https://www.instagram.com/hawra.alfarsi/',
+        facebook:'https://www.facebook.com/hawra.alfarsi',
+        website:'https://www.snapchat.com/add/hoori-1992',
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Ms. Al Farsi is a public figure and a TV host. She also owns the Hawra Al Farsi Boutique, a online shop that features an exclusive collection from Boutiqaat.`
     },
@@ -108,6 +133,8 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         image: SpeakerEight,
         page: 'TajNoor',
         when:`13-14 June 2022`,
+        instagram:'https://www.instagram.com/tajn00r/?hl=en',
+        youtube:'https://www.youtube.com/channel/UCNH0ZU5sXsfAGIClsPj72Pg',
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Ms. Noor is a public figure, a social media influencer, a music teacher, TV and radio presenter. 
 
@@ -120,6 +147,8 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         image: SpeakerNine,
         page: 'IbtihalAlZadjali',
         when:`13-14 June 2022`,
+        instagram:'https://www.instagram.com/ibtihalz/?hl=en',
+        facebook:'https://www.facebook.com/ibtihal.alzadjali',
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Ibtihal Al Zadjali is a pioneer in the Omani media industry and an expert in social media implementation as well as
         marketing and events management. Her passion for business led her to get her undergraduate degree in
@@ -135,6 +164,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         career: 'Founder & MD at Space| TEDx Speaker',
         image: SpeakerTen,
         page: 'RehabIbrahim',
+        linkedin:'https://www.linkedin.com/in/rehab-ibrahim-aaa60a1b/',
         when:`13-14 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Ms. Ibrahim is the founder and Managing Director of Space, the first-of-its-kind talent development center that offers workshops on various topics. In 2019, she opened a startup SME consultancy service company, Rehab Consultancy, where she did freelance training in entrepreneurship, marketing and soft skills.
@@ -147,6 +177,8 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         career: 'Adventurer| Travel Content Creator',
         image: SpeakerEleven,
         page: 'HarithAlShereiqi',
+        linkedin:'https://www.linkedin.com/in/harith-al-shereiqi-1905b9153/?originalSubdomain=om',
+        instagram:'https://www.instagram.com/traveler_harith/',
         when:`13-14 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Mr. Al Shereiqi is a travel content creator and an adventurer. He is passionate about places and travel and learning about different cultures around the world, which he documents and shares in his own YouTube channel. 
@@ -160,6 +192,8 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         image: SpeakerTwelve,
         page: 'SaidAlBusaidi',
         when:`13-14 June 2022`,
+        linkedin:'https://www.linkedin.com/in/saidalbusaidi/?originalSubdomain=om',
+        instagram:' https://www.instagram.com/saidalbusaidi/?hl=en',
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`
         Mr. Al Busaidi is a certified digital marketer and public relations expert, specializing in communications and branding with more than 15 years of related experience. He is a consultant and trainer in marketing and corporate communications, member of a certified jury for the International Business Communication Awards at the International Association for Business Communication (UK), member of International Social Media Club (USA) and a member of Ship for World Youth (UN and Japan). 
@@ -173,6 +207,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         image: SpeakerThirteen,
         page: 'AmiraAlBusaidi',
         when:`13-14 June 2022`,
+        linkedin:'https://www.linkedin.com/in/amira-albusaidi-57b48422/',
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Ms. Al Busaidi is the CEO and founder of MulhimVR, an innovation-based startup that introduces virtual reality (VR) into healthcare and works closely with healthcare specialists and hospitals. Sas Center for Virtual Reality (SasVR) was one the biggest projects that she has worked on in since its establishment. She is passionate about helping to develop the VR industry in Oman, empowering youth and building partnerships locally and internationally. 
  
