@@ -41,7 +41,7 @@ export default {
             })
             .then((res) => {
               if (res.status === 200) {
-                this.$toast.success("Email Was Send ");
+                this.$toast.success("Thank you for subscribing.");
                 this.subscribe = "";
               }
             })

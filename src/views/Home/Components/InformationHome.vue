@@ -5,7 +5,7 @@
       <div class="row mt-5">
         <div class="col-md-6">
           <h1 class="font-weight-bold own-size">Accelerating</h1>
-          <h1 class="font-weight-bold own-size">the growth of</h1>
+          <h1 class="font-weight-bold own-size">the Growth of</h1>
           <h1 class="d-flex font-weight-bold own-size">
             <div>Oman's</div>
             <div class="pinkLayout">
