@@ -5,18 +5,18 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 my-5">
-            <h3 class="text-center font-weight-bold">SPONSORSHIP</h3>
-            <p class="text-center my-4">
+            <h3 class="text-center font-weight-bold">SPONSORS</h3>
+            <!-- <p class="text-center my-4">
               We are welcoming sponsors and exhibitors to join us at Oman Social Media
               Week <br />#OSMW
             </p>
-            <p class="text-center font-weight-bold">13-14, June 2022</p>
+            <p class="text-center font-weight-bold">13-14, June 2022</p> -->
             <!-- Old Content -->
-            <p class="text-center mt-5">
+            <p class="text-center mt-5 font-weight-bold">
               OSMW 2022 would not be possible without a dedicated group of supporters and
               friends.
             </p>
-            <p class="text-center">
+            <p class="text-center text-muted">
               If you would like to see your brand listed with us,
               <router-link to="/contact-us"
                 ><span class="text-primary">get in touch.</span></router-link
@@ -168,22 +168,19 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-6 mx-auto">
+          <div class="col-md-7 mx-auto">
             <p class="text-center sponsorsdefine">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-              consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-              non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              Muscat Media Group is the media gateway to the people of Oman.
             </p>
-            <p class="text-center sponsorsdefine">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-              consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-              non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            <p class="text-center sponsorsdefine my-5">
+              Founded by late Essa bin Mohammed Al Zedjali who was a renowned journalist
+              in the Sultanate, the Group has played an integral role in Omani society
+              since 1975.
+            </p>
+            <p class="text-center sponsorsdefine my-5">
+              MMG offers advertisers more than 32 multimedia products in Arabic and
+              English to craft 360⁰ campaigns that reach 3.5 million people everyday in
+              the country.
             </p>
           </div>
         </div>
@@ -253,7 +250,7 @@ a {
   font-size: 56px;
 }
 
-.tarekFormat ul li{
+.tarekFormat ul li {
   margin: 1rem 0;
 }
 
