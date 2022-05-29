@@ -58,6 +58,12 @@
                   <img src="@/assets/Images/SocialMediaIcons/website.png" alt="WEBSITE" class="img-fluid">
                 </a>
               </li>
+              <li v-if="data.snapchat">
+                <!-- SNAPCHAT -->
+                <a :href="data.snapchat" target="_BLANK">
+                  <img src="@/assets/Images/SocialMediaIcons/Snapschat.png" alt="SNAPCHAT" class="img-fluid snapchat">
+                </a>
+              </li>
             </div>
           </div>
         </div>
@@ -126,6 +132,12 @@ export default {
 
 .mt-6 {
   margin: 5rem 0 0 0;
+}
+
+.snapchat{
+  background-color: #BFC5D0;
+  border-radius: 9px;
+  padding: 0.5rem;
 }
 
 @media screen and (max-width: 1000px) {

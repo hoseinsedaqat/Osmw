@@ -123,7 +123,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         when:`13-14 June 2022`,
         instagram:'https://www.instagram.com/hawra.alfarsi/',
         facebook:'https://www.facebook.com/hawra.alfarsi',
-        website:'https://www.snapchat.com/add/hoori-1992',
+        snapchat:'https://www.snapchat.com/add/hoori-1992',
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Ms. Al Farsi is a public figure and a TV host. She also owns the Hawra Al Farsi Boutique, a online shop that features an exclusive collection from Boutiqaat.`
     },
