@@ -112,7 +112,7 @@
         <div class="row">
           <div class="col-md-12 my-3">
             <img
-              src="@/assets/Images/MMG-Brands 1.png"
+              src="@/assets/Images/newSponsors.png"
               alt="MMG-BRANDS"
               class="img-fluid"
             />
