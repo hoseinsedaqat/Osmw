@@ -12,7 +12,7 @@
             </p>
             <p class="text-center font-weight-bold">13-14, June 2022</p>
             <!-- Old Content -->
-            <!-- <p class="text-center mt-5">
+            <p class="text-center mt-5">
               OSMW 2022 would not be possible without a dedicated group of supporters and
               friends.
             </p>
@@ -21,10 +21,10 @@
               <router-link to="/contact-us"
                 ><span class="text-primary">get in touch.</span></router-link
               >
-            </p> -->
+            </p>
           </div>
         </div>
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-md-7 mx-auto">
             <p class="text-center font-weight-bold">
               Oman Social Media Week 2022 aims to grow the understanding of the different
@@ -63,7 +63,7 @@
               </li>
             </ul>
           </div>
-        </div>
+        </div> -->
         <!-- One Card -->
         <!-- <div class="row no-gutters bg-sky-blue my-4">
           <div class="col-md-6 mx-auto my-4">
@@ -118,7 +118,7 @@
             </p>
           </div>
         </div> -->
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-md-12 mx-auto my-3">
             <div class="text-center my-5">
               <router-link to="/attend" class="attendBtn">Register Here</router-link>
@@ -133,9 +133,9 @@
               class="img-fluid"
             />
           </div>
-        </div>
+        </div> -->
         <!-- Old Content -->
-        <!-- <div class="row">
+        <div class="row">
           <div class="col-md-12 mx-auto text-center" id="sponsorsPartners">
             <div class="line"></div>
             <div class="font-weight-bold">FOUNDING PARTNERS</div>
@@ -186,7 +186,7 @@
               non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </p>
           </div>
-        </div> -->
+        </div>
       </div>
     </section>
     <FormContact></FormContact>

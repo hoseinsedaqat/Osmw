@@ -14,15 +14,15 @@ export const swiperOption = {
     breakpoints: {
         1400: {
             slidesPerView: 4,
-            spaceBetween: 10,
+            spaceBetween: 0,
         },
         1300: {
             slidesPerView: 3,
-            spaceBetween: 20,
+            spaceBetween: 0,
         },
         1000: {
             slidesPerView: 2,
-            spaceBetween: 30,
+            spaceBetween: 0,
         },
         320: {
             slidesPerGroup: 1,
