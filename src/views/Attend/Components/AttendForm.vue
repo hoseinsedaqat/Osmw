@@ -224,7 +224,12 @@ export default {
             })
             .then((res) => {
               if (res.status === 200) {
-                this.$toast.success("Message Was Send");
+                this.$toast.success("Thank you for Attending");
+              }
+            })
+            .catch((e) => {
+              this.$toast.error(e);
+            }).finally(() => {  
                 this.access = "One Day";
                 this.interested = "Exhibiting";
                 this.title = "Mr";
@@ -237,11 +242,7 @@ export default {
                 this.country = "";
                 this.vaccination = "";
                 this.checked = false;
-              }
             })
-            .catch((e) => {
-              this.$toast.error(e);
-            });
         } catch (e) {
           this.$toast.error("Try Again");
         }
