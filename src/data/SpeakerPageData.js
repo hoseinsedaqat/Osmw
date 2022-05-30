@@ -6,11 +6,11 @@ import SpeakerFive from '@/assets/Images/SpeakerNewImages/Tariq Al Barwani 496x5
 import SpeakerSix from '@/assets/Images/SpeakerNewImages/Imad Al Habsi 496x517.jpg';
 import SpeakerSeven from '@/assets/Images/SpeakerNewImages/Hawra Al Farsi 496x517.jpg';
 import SpeakerEight from '@/assets/Images/SpeakerNewImages/Taj Noor 496x517.jpg';
-import SpeakerNine from '@/assets/Images/SpeakerNewImages/Ibtihal Al Zadjali 496x517.jpg';
+import SpeakerNine from '@/assets/Images/Ibtihal Al Zadjali_photo 402x402.jpg';
 import SpeakerTen from '@/assets/Images/WhatsApp Image 2022-04-21 at 12.21.21 PM.jpeg';
 import SpeakerEleven from '@/assets/Images/SpeakerNewImages/Harith AlShereiqi 496x517.jpg';
 import SpeakerTwelve from '@/assets/Images/SpeakerNewImages/Said Al Busaidi 496x517.jpg';
-import SpeakerThirteen from '@/assets/Images/SpeakerNewImages/Amira Al Busaidi 496x517.jpg';
+import SpeakerThirteen from '@/assets/Images/Amira Al Busaidi 402x402.jpg';
 
 export const SpeakerData = [
     {

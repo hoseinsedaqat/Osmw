@@ -109,7 +109,7 @@
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img
-            src="@/assets/Images/Ibtihal Al Zadjali.jpg"
+            src="@/assets/Images/Ibtihal Al Zadjali_photo 402x402.jpg"
             alt=""
             class="speakersImg"
             style="height: 402px"
@@ -170,7 +170,7 @@
           id="speakersMain"
         >
           <img
-            src="@/assets/Images/NAmira Al Busaidi.jpg"
+            src="@/assets/Images/Amira Al Busaidi 402x402.jpg"
             alt=""
             class="speakersImg"
             style="height: 402px"
@@ -302,7 +302,7 @@
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <router-link to="/speaker/IbtihalAlZadjali">
             <img
-              src="@/assets/Images/Ibtihal Al Zadjali.jpg"
+              src="@/assets/Images/Ibtihal Al Zadjali_photo 402x402.jpg"
               alt=""
               class="speakersImg"
               style="height: 402px"
@@ -358,7 +358,7 @@
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <router-link to="/speaker/AmiraAlBusaidi">
             <img
-              src="@/assets/Images/NAmira Al Busaidi.jpg"
+              src="@/assets/Images/Amira Al Busaidi 402x402.jpg"
               alt=""
               class="speakersImg"
               style="height: 402px"
