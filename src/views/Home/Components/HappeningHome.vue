@@ -101,7 +101,7 @@
             <p class="collapse font-sm-own" id="eventSeven">
               <span>
                 H.E Talal Al Rahbi: Vice Chairman: Implementation Follow up Unit, Oman
-                Vision 2040 (TBC)
+                Vision 2040
               </span>
             </p>
           </div>
@@ -239,14 +239,14 @@
                 </li>
                 <li class="m-4">Social customer service</li>
                 <span class="font-weight-bold d-block m-4">
-                  MCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
+                  EMCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
                   Practical Motivational Speaker
                 </span>
-                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
-                <li class="m-4"><b class="mx-1">Ali Shabdar</b>, ZOHO Corporation.</li>
-                <li class="m-4">
-                  <b class="mx-1">Richie Santosdiaz</b>, Fintech Thoughtleader TBC
-                </li>
+                <span class="font-weight-bold d-block mx-4"> Speakers: </span>
+                <!-- <li class="m-4"><b class="mx-1">Ali Shabdar</b>, ZOHO Corporation.</li>
+                  <li class="m-4">
+                    <b class="mx-1">Richie Santosdiaz</b>, Fintech Thoughtleader TBC
+                  </li> -->
                 <li class="m-4">
                   <b class="mx-1">Said Al Busaidi</b>, Certified Digital Marketer | PR
                   Expert | Change Management
@@ -257,7 +257,7 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>12:00 - 13:00 am</span>
+                <span>12:00 - 13:00</span>
                 <span
                   >Panel Discussion: How technology is driving social media evolution and
                   changing future outlook of business and social networking:</span
@@ -287,7 +287,7 @@
             <p class="collapse" id="eventTwo">
               <span>
                 <span class="font-weight-bold d-block m-4">
-                  MCEE: Tarek Al Barwani: Award-Winning Technology Professional &amp;
+                  EMCEE: Tarek Al Barwani: Award-Winning Technology Professional &amp;
                   Practical Motivational Speaker
                 </span>
                 <li class="m-4">RFID Radio Frequency Identification Tags</li>
@@ -301,12 +301,13 @@
                 <li class="m-4">
                   Internet of Things: real-time monitoring of data and insights.
                 </li>
-                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <span class="font-weight-bold d-block mx-4"> Speakers: </span>
                 <li class="m-4">
                   <b class="mx-1">Steve Bambury</b>,Metaverse, Web3 and XR Consultant
                 </li>
                 <li class="m-4">
-                  <b class="mx-1">Hala Al Zadjali</b>,Senior Executive of Governance
+                  <b class="mx-1">Hala Al Zadjali</b>,Standards, Ministry of Transport,
+                  Communications &amp; Information Technology
                 </li>
                 <li class="m-4">
                   <b class="mx-1">Tazima Al Ghannami</b>,Senior Manager, Omantel
@@ -314,25 +315,25 @@
                 <li class="m-4">
                   <b class="mx-1 my-1">Amira AlBusaidi</b>,4IR | Consultant | Training
                   Lead | Metaverse | Entrepreneur | Researcher | Speaker | VR-Healthcare
-                  Specialist (TBC)
+                  Specialist
                 </li>
                 <li class="m-4">
                   <b class="mx-1">Sumaya Al Kindi</b>: Senior Media & Communications
-                  Specialist (TBC)
+                  Specialist
                 </li>
               </span>
             </p>
           </div>
           <div class="eventHappening">
             <div class="eventTitle">
-              <span>13:00 - 14:00 pm</span>
+              <span>13:00 - 14:00</span>
               <span>Lunch and Networking Break</span>
             </div>
           </div>
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>14:00 - 14:30 pm</span>
+                <span>14:00 - 14:30</span>
                 <span
                   >The Social Metaverse: the shift towards immersive social experiences
                 </span>
@@ -370,9 +371,9 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>14:30 - 15:00 pm</span>
+                <span>14:30 - 15:00</span>
                 <span
-                  >Keynote: How to build a mental health oriented social media campaign.
+                  >Keynote: Data Analytics: Evaluating ROI and forecasting performance
                 </span>
               </div>
               <span
@@ -397,11 +398,12 @@
               </span>
             </div>
             <p class="collapse font-sm-own" id="eventFour">
-              <span class="font-weight-bold"> MCEE: Tariq Al Barwani </span>
+              <span class="font-weight-bold"> EMCEE: Tariq Al Barwani </span>
               <span>
                 <span class="font-weight-bold d-block m-4"> Speakers: </span>
                 <li class="m-4">
-                  <b class="mx-1">H.H Sayyeda Basma Al Said</b>
+                  <!-- <b class="mx-1">H.H Sayyeda Basma Al Said</b> -->
+                  <b class="mx-1">Mr. Arvindo Shankar</b>
                 </li>
               </span>
             </p>
@@ -409,7 +411,7 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>15:00 - 15:30 pm</span>
+                <span>15:00 - 15:30</span>
                 <span
                   >Keynote: From Web2 to Web3 – how block chain and NFTs will redefine the
                   use of social media.
@@ -437,7 +439,7 @@
               </span>
             </div>
             <p class="collapse font-sm-own" id="eventFive">
-              <span class="font-weight-bold"> MCEE: Tariq Al Barwani </span>
+              <span class="font-weight-bold"> EMCEE: Tariq Al Barwani </span>
               <span>
                 <span class="font-weight-bold d-block m-4"> Speakers: </span>
                 <li class="m-4">
@@ -449,7 +451,7 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>15:30 - 16:00 pm</span>
+                <span>15:30 - 16:00</span>
                 <span
                   >Keynote: Data Analytics: evaluating ROI and forecasting performance
                 </span>
@@ -498,7 +500,7 @@
           <div class="eventHappening">
             <div class="eventTitle">
               <span>09:30 am</span>
-              <span>Welcome note – EMCEE: Tariq Al-Barwani</span>
+              <span>Welcome note – EEMCEE: Tariq Al-Barwani</span>
             </div>
           </div>
           <div class="eventHappening">
@@ -550,13 +552,13 @@
                   impacting leads acquisition and social media engagement.
                 </li> -->
                 <span class="font-weight-bold d-block m-4">
-                  MCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
+                  EMCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
                   Practical Motivational Speaker
                 </span>
                 <span class="font-weight-bold d-block m-4">
                   Moderator: Mike Al Naji
                 </span>
-                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <span class="font-weight-bold d-block mx-4"> Speakers: </span>
                 <li class="m-4">
                   <b class="mx-1">Hawra Al Farsi</b>: Influencer, TV Host
                 </li>
@@ -564,11 +566,11 @@
                   <b class="mx-1">Taj Noor</b>: Influencer, TV & Radio Presenter
                 </li>
                 <li class="m-4">
-                  <b class="mx-1">Ibtihal Al Zadjali</b>: (TBC)Influencer, Omani Media
+                  <b class="mx-1">Ibtihal Al Zadjali</b>: Influencer, Omani Media
                   Personality
                 </li>
                 <li class="m-4">
-                  <b class="mx-1">Dr. Ahmed Murad</b> Influencer & Speaker: Community
+                  <b class="mx-1">Maged Farrag</b> , Digital Media Evangelist
                 </li>
               </span>
             </p>
@@ -611,17 +613,17 @@
             <p class="collapse" id="eventTwelve">
               <span>
                 <span class="font-weight-bold d-block m-4">
-                  Creative influencing: how content, planning and strategy makes all the
+                  Creative influencing: How content, planning and strategy makes all the
                   difference
                 </span>
                 <span class="font-weight-bold d-block m-4">
-                  MCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
+                  EMCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
                   Practical Motivational Speaker
                 </span>
                 <span class="font-weight-bold d-block m-4">
                   Moderator: Mike Al Naji
                 </span>
-                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <span class="font-weight-bold d-block mx-4"> Speakers: </span>
                 <li class="m-4"><b class="mx-1">Imad Al Habsi</b> | Video Creator</li>
                 <li class="m-4">
                   <b class="mx-1"> Rehab Ibrahim</b> : Founder & MD at Space| TEDx Speaker
@@ -636,7 +638,7 @@
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
                 <span>12:00 - 12:30 am</span>
-                <span>The Power of Words </span>
+                <span>Keynote: The Power of Words </span>
               </div>
               <span
                 data-toggle="collapse"
@@ -662,13 +664,13 @@
             <p class="collapse" id="newplanTwo">
               <span>
                 <span class="font-weight-bold d-block m-4">
-                  MCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
+                  EMCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
                   Practical Motivational Speaker
                 </span>
                 <span class="font-weight-bold d-block m-4">
                   Moderator: Mike Al Naji
                 </span>
-                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <span class="font-weight-bold d-block mx-4"> Speakers: </span>
                 <li class="m-4">
                   <b class="mx-1"> Rehab Ibrahim</b> : Founder & MD at Space| TEDx Speaker
                 </li>
@@ -705,13 +707,13 @@
             <p class="collapse" id="newplanTwo">
               <span>
                 <span class="font-weight-bold d-block m-4">
-                  MCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
+                  EMCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
                   Practical Motivational Speaker
                 </span>
                 <span class="font-weight-bold d-block m-4">
                   Moderator: Mike Al Naji
                 </span>
-                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <span class="font-weight-bold d-block mx-4"> Speakers: </span>
                 <li class="m-4"><b class="mx-1"> Imad Al Habsi</b> : Video Creator</li>
               </span>
             </p>
@@ -719,7 +721,7 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>13:00 - 14:00 pm</span>
+                <span>13:00 - 14:00</span>
                 <span>Lunch Break and networking</span>
               </div>
             </div>
@@ -727,7 +729,7 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>14:00 - 14:30 pm</span>
+                <span>14:00 - 14:30</span>
                 <span
                   >Keynote: How the landscape of brands is changing drastically with all
                   the new possibilities that spatial computing offers
@@ -758,14 +760,14 @@
               <span>
                 <span class="font-weight-bold d-block m-4">
                   A showcase of various brands capitalizing on immersive technologies to
-                  market, sell and offer a new paradigm for product interaction. MCee:
+                  market, sell and offer a new paradigm for product interaction. EMCEE:
                   Tariq Al-Barwani
                 </span>
                 <!-- <li class="m-4">
                   Advertising and social media: how creativity in curating content is
                   impacting leads acquisition and social media engagement.
                 </li> -->
-                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <span class="font-weight-bold d-block mx-4"> Speakers: </span>
                 <li class="m-4">
                   <b class="mx-1">Maged Farrag</b>: Digital media evangelist
                 </li>
@@ -775,11 +777,8 @@
           <div class="eventHappening">
             <div class="d-flex align-items-center justify-content-between">
               <div class="eventTitle">
-                <span>14:30 - 15:00 pm</span>
-                <span
-                  >Harnessing the impact of influencer marketing in tourism by meaningful
-                  and authentic content
-                </span>
+                <span>14:30 - 15:00</span>
+                <span>Keynote: Inflluencer Marketing </span>
               </div>
               <span
                 data-toggle="collapse"
@@ -806,14 +805,14 @@
               <span>
                 <span class="font-weight-bold d-block">
                   <li class="m-4">
-                    <b class="mx-1">MCee: Tariq Al-Barwani</b>
+                    <b class="mx-1">EMCEE: Tariq Al-Barwani</b>
                   </li>
                 </span>
                 <!-- <li class="m-4">
                   Advertising and social media: how creativity in curating content is
                   impacting leads acquisition and social media engagement.
                 </li> -->
-                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <span class="font-weight-bold d-block mx-4"> Speakers: </span>
                 <li class="m-4">
                   <b class="mx-1">Mike Al Naji</b>
                 </li>
@@ -822,28 +821,28 @@
           </div>
           <div class="eventHappening">
             <div class="eventTitle">
-              <span>15:00 - 15:30 pm</span>
+              <span>15:00 - 15:30</span>
               <span>Q &amp; A with Mike Al Naji </span>
             </div>
             <p class="collapse" id="eventFiftheen">
               <span>
                 <span class="font-weight-bold d-block">
                   <li class="m-4">
-                    <b class="mx-1">MCee: Tariq Al-Barwani</b>
+                    <b class="mx-1">EMCEE: Tariq Al-Barwani</b>
                   </li>
                 </span>
                 <!-- <li class="m-4">
                   Advertising and social media: how creativity in curating content is
                   impacting leads acquisition and social media engagement.
                 </li> -->
-                <span class="font-weight-bold d-block mx-4"> Speakers: (Reserved) </span>
+                <span class="font-weight-bold d-block mx-4"> Speakers: </span>
                 <li class="m-4"><b class="mx-1">Imad Al Habsi</b> | Video Creator</li>
               </span>
             </p>
           </div>
           <div class="eventHappening">
             <div class="eventTitle">
-              <span>15:30 - 16:00 pm</span>
+              <span>15:30 - 16:00</span>
               <span>Event closing and networking </span>
             </div>
           </div>
