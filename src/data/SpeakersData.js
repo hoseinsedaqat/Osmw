@@ -35,7 +35,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         career: 'Artificial Intelligence and eGovernance Researcher, Consultant and Influencer',
         image: SpeakerTwo,
         page: 'HalahAlZadjali',
-        when:`13-14 June 2022`,
+        when:`13 June 2022`,
         where:`Crystal Ballroom, Grand Millennium,  Muscat`,
         description:`Ms. Al Zadjali is currently the Senior Executive of Standards at the Ministry of Transport, Communications & Information Technology. She recently spoke at the Oman University of Technology and Applied Sciences, Higher College of Technology about Artificial Intelligence and the Future of Recruitment.  
     

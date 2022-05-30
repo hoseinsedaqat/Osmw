@@ -38,7 +38,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         career: 'Artificial Intelligence and eGovernance Researcher, Consultant and Influencer',
         image: SpeakerTwo,
         page: 'HalahAlZadjali',
-        when:`13-14 June 2022`,
+        when:`13 June 2022`,
         linkedin:'https://www.linkedin.com/in/halah-al-zadjali-099a6211b/?originalSubdomain=om',
         twitter:'https://twitter.com/halahz85?lang=en',
         instagram:'https://www.instagram.com/realhalahz/?utm_medium=copy_link',
