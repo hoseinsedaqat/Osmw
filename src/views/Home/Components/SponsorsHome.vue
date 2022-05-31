@@ -12,7 +12,9 @@
       </div>
       <div class="row">
         <div class="col-md-2 mx-auto">
-          <img src="@/assets/Images/Millennium logo_Gold Sponsor.jpg" alt="GOLDSPONSOR" class="img-fluid">
+          <div class="text-center">
+            <img src="@/assets/Images/Millennium logo_Gold Sponsor.jpg" alt="GOLDSPONSOR" class="img-own-responsive my-3">
+          </div>
         </div>
       </div>
       <div class="row">
@@ -47,5 +49,17 @@ export default {
   color: #fff;
   margin: 0.4rem 1rem 0 0;
   border-radius: 6px;
+}
+
+.img-own-responsive{
+  width: 100%;
+  height: auto;
+}
+
+@media screen and (max-width:1000px) {
+  .img-own-responsive{
+    width: 150px;
+    height: 150px;
+  }
 }
 </style>

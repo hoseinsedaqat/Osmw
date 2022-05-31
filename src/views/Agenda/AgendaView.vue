@@ -312,7 +312,7 @@
                     <b class="mx-1">Steve Bambury</b>,Metaverse, Web3 and XR Consultant
                   </li>
                   <li class="m-4">
-                    <b class="mx-1">Hala Al Zadjali</b>,Standards, Ministry of Transport,
+                    <b class="mx-1">Hala Al Zadjali</b> Senior Executive of Standards, Ministry of Transport,
                     Communications &amp; Information Technology
                   </li>
                   <li class="m-4">
@@ -484,9 +484,9 @@
                 </span>
               </div>
               <p class="collapse" id="eventSix">
-                <span class="d-block mt-4"
-                  ><b> Mr. Arvindo Shankar</b>: Marketing Director at Tamimah Group</span
-                >
+               <span class="d-block mt-4"
+                >EMCEE: Q&A with Steve Bambury</span
+              >
               </p>
             </div>
           </div>
@@ -506,7 +506,7 @@
             <div class="eventHappening">
               <div class="eventTitle">
                 <span>09:30 am</span>
-                <span>Welcome note – EEMCEE: Tariq Al-Barwani</span>
+                <span>Welcome note – EMCEE: Tariq Al-Barwani</span>
               </div>
             </div>
             <div class="eventHappening">
@@ -791,7 +791,7 @@
                 <div class="eventTitle">
                   <span>14:30 - 15:00</span>
                   <span
-                    >Keynote: Inflluencer Marketing
+                    >Keynote: Influencer Marketing
                   </span>
                 </div>
                 <span
