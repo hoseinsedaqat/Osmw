@@ -12,11 +12,11 @@
               </tr>
             </thead>
             <tbody class="bg-light text-dark">
-              <tr>
+              <!-- <tr>
                 <th>Your selection of the day to attend</th>
                 <td>1 Day</td>
                 <td>2 Days</td>
-              </tr>
+              </tr> -->
               <tr>
                 <th>Access to all day sessions</th>
                 <td><i class="fa fa-check" aria-hidden="true"></i></td>

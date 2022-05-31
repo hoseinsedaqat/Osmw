@@ -49,7 +49,9 @@
               <b class="font-weight-bold">Earn </b> a certificate of Attendance from Muscat Media Group
             </p>
             <div class="text-center my-5">
-              <button class="attendBtn">Download the Prospecteus</button>
+              <a href="#attendForm">
+                <button class="attendBtn">REGISTER BELOW</button>
+              </a>
             </div>
             <p class="text-center my-5 text-center">
               <b>Who can attend OSMW 2022 ?</b>
@@ -58,11 +60,11 @@
               <span>
                 Marketing Manager• E-commerce Manager • Communication Managers •
                 Entrepreneurs, Digital Marketing specialists • Digital Media Specialists •
-                Commercial managers • Public Information • Public Affairs • Public and
-                media relations • Customer service managers and specialists. • Advertising
-                and destination marketing specialist • Information Officer • Program
+                Commercial Managers • Public Information • Public Affairs • Public and
+                Media Relations • Customer Service Managers and Specialists. • Advertising
+                and Destination Marketing Specialist • Information Officer • Program
                 Manager • Community Manager • HR Manager• HR Coordinator • Strategic
-                communication manager • Digital Marketing Instructor.
+                Communication Manager • Digital Marketing Instructor.
               </span>
             </h5>
             <!-- <p class="text-center my-5">
