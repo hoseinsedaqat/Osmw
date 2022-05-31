@@ -137,7 +137,7 @@
         </div>
         <div class="row">
           <div class="col-md-12">
-            <p>
+            <p class="font-italic">
               <b>Disclaimer:</b> National Publishing Agency (NPA), has the full right to change, add, reschedule all or
               part of the event program, speakers, topics and schedule without any legal or moral liabilities
               towards registrants, sponsors, speakers or any party represented by an individual or entity.

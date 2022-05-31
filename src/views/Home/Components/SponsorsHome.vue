@@ -18,6 +18,13 @@
         </div>
       </div>
       <div class="row">
+        <div class="col-md-12 mx-auto mt-5">
+        <h3 class="text-center font-weight-bold">
+          Media Partners
+        </h3>
+      </div>
+      </div>
+      <div class="row">
         <div class="col-md-12">
           <img src="@/assets/Images/Sponsors.png" alt="Sponosrs" class="img-fluid" />
         </div>

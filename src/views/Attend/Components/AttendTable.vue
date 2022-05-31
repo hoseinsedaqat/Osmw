@@ -9,6 +9,7 @@
                 <th scope="col">Benefits</th>
                 <th scope="col">1 Day</th>
                 <th scope="col">2 Days</th>
+                <th scope="col" colspan="2">Group Booking</th>
               </tr>
             </thead>
             <tbody class="bg-light text-dark">
@@ -21,39 +22,77 @@
                 <th>Access to all day sessions</th>
                 <td><i class="fa fa-check" aria-hidden="true"></i></td>
                 <td><i class="fa fa-check" aria-hidden="true"></i></td>
+                <td colspan="2"><i class="fa fa-check" aria-hidden="true"></i></td>
               </tr>
               <tr>
                 <th>Access to lunch break and networking</th>
                 <td><i class="fa fa-check" aria-hidden="true"></i></td>
                 <td><i class="fa fa-check" aria-hidden="true"></i></td>
+                <td colspan="2"></td>
+              </tr>
+              <tr>
+                <th>networking</th>
+                <td></td>
+                <td></td>
+                <td colspan="2"></td>
               </tr>
               <tr>
                 <th>Access to event recordings/ Presentations after the event</th>
                 <td><i class="fa fa-check" aria-hidden="true"></i></td>
                 <td><i class="fa fa-check" aria-hidden="true"></i></td>
+                <td colspan="2"><i class="fa fa-check" aria-hidden="true"></i></td>
               </tr>
               <tr>
                 <th>Certificate of attendance</th>
                 <td><i class="fa fa-check" aria-hidden="true"></i></td>
                 <td><i class="fa fa-check" aria-hidden="true"></i></td>
+                <td colspan="2"><i class="fa fa-check" aria-hidden="true"></i></td>
               </tr>
               <tr>
                 <th>Inclusion in attendees list “Hall of Fame”</th>
                 <td></td>
                 <td><i class="fa fa-check" aria-hidden="true"></i></td>
+                <td colspan="2"></td>
               </tr>
               <tr>
                 <th>Inclusion of company logo on event website</th>
                 <td></td>
                 <td><i class="fa fa-check" aria-hidden="true"></i></td>
+                <td colspan="2"></td>
+              </tr>
+              <tr>
+                <th>Admission to the Influencer Forum</th>
+                <td></td>
+                <td></td>
+                <td colspan="2"><i class="fa fa-check" aria-hidden="true"></i></td>
+              </tr>
+              <tr>
+                <th>Access to the Photo Booth with Influencers</th>
+                <td></td>
+                <td></td>
+                <td colspan="2"><i class="fa fa-check" aria-hidden="true"></i></td>
+              </tr>
+              <tr>
+                <th>Admission to the Social Talks Lounge</th>
+                <td></td>
+                <td></td>
+                <td colspan="2"><i class="fa fa-check" aria-hidden="true"></i></td>
               </tr>
               <tr>
                 <th><b class="font-weight-bold h4 text-dark">Price</b></th>
                 <td><b class="tableAttendShow font-weight-bold text-dark">OMR 100</b></td>
                 <td><b class="tableAttendShow font-weight-bold text-dark">OMR 150</b></td>
+                <td colspan="2"><b class="tableAttendShow font-weight-bold text-dark">OMR 100 PER PERSON</b></td>
               </tr>
             </tbody>
           </table>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <h4 class="my-3">
+            *20% discount for SMEs
+          </h4>
         </div>
       </div>
       <!-- <div class="row">

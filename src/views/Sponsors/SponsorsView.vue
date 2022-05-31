@@ -137,12 +137,12 @@
           </div>
         </div>
         <div class="row my-5">
-          <div class="col-md-12">
+          <div class="col-md-3 mx-auto">
             <div class="text-center">
               <img
-                src="@/assets/Images/Grand Millenium Logo (1)-01 2.png"
+                src="@/assets/Images/Millennium logo_Gold Sponsor.jpg"
                 alt="SponsorsPartners"
-                class="img-fuild"
+                class="img-own-responsive"
               />
             </div>
           </div>
@@ -247,6 +247,10 @@ a {
 .tarekFormat ul li {
   margin: 1rem 0;
 }
+.img-own-responsive {
+  width: 100%;
+  height: auto;
+}
 
 @media screen and (max-width: 1000px) {
   #sponsorsView {
@@ -258,5 +262,11 @@ a {
     text-align: center;
     padding: 1.68rem;
   }
+
+  .img-own-responsive {
+    width: 150px;
+    height: 150px;
+  }
+  
 }
 </style>

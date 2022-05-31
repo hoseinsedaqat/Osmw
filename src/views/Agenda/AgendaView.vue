@@ -31,20 +31,20 @@
           <div class="col-md-10 offset-md-1">
             <div class="eventHappening">
               <div class="eventTitle">
-                <span>09:30 - 10:00 am</span>
+                <span>09:30 - 10:00 </span>
                 <span>Registration and networking</span>
               </div>
             </div>
             <div class="eventHappening">
               <div class="eventTitle">
-                <span>09:30 - 10:00 am</span>
+                <span>09:30 - 10:00 </span>
                 <span>VIP welcome at Majlis</span>
               </div>
             </div>
             <div class="eventHappening">
               <div class="d-flex align-items-center justify-content-between">
                 <div class="eventTitle">
-                  <span>10:00 am</span>
+                  <span>10:00 </span>
                   <span>Welcome remarks by The National Publishing Agency</span>
                 </div>
                 <span
@@ -75,7 +75,7 @@
             <div class="eventHappening">
               <div class="d-flex align-items-center justify-content-between">
                 <div class="eventTitle">
-                  <span>10:05 am</span>
+                  <span>10:05 </span>
                   <span
                     >The role of digital marketing in accelerating the digital
                     economy</span
@@ -112,7 +112,7 @@
             <div class="eventHappening">
               <div class="d-flex align-items-center justify-content-between">
                 <div class="eventTitle">
-                  <span>10:10 am</span>
+                  <span>10:10 </span>
                   <span
                     >The importance of social media in the media mix, and the role of
                     regulators in promoting best practices</span
@@ -146,7 +146,7 @@
             <div class="eventHappening">
               <div class="d-flex align-items-center justify-content-between">
                 <div class="eventTitle">
-                  <span>10:20 am</span>
+                  <span>10:20 </span>
                   <span>
                     The essence of social media is “social”: the importance of sustaining
                     mental health when we design and implement social media strategies
@@ -179,20 +179,20 @@
             </div>
             <div class="eventHappening">
               <div class="eventTitle">
-                <span>10:40 am</span>
+                <span>10:40 </span>
                 <span>Trophy Handing to Chief Guest</span>
               </div>
             </div>
             <div class="eventHappening">
               <div class="eventTitle">
-                <span>10:45 - 11:00 am</span>
+                <span>10:45 - 11:00 </span>
                 <span>Morning Break</span>
               </div>
             </div>
             <div class="eventHappening">
               <div class="d-flex align-items-center justify-content-between">
                 <div class="eventTitle">
-                  <span>11:00 - 12:00 am</span>
+                  <span>11:00 - 12:00 </span>
                   <span
                     >Panel Discussion: Social Media Trends: a holistic view on regional
                     and global social media usage and adaptation.</span
@@ -498,21 +498,21 @@
             <div class="eventHappening">
               <div class="d-flex align-items-center justify-content-between">
                 <div class="eventTitle">
-                  <span>09:00 - 09:30 am</span>
+                  <span>09:00 - 09:30 </span>
                   <span>Registration and networking</span>
                 </div>
               </div>
             </div>
             <div class="eventHappening">
               <div class="eventTitle">
-                <span>09:30 am</span>
+                <span>09:30 </span>
                 <span>Welcome note – EMCEE: Tariq Al-Barwani</span>
               </div>
             </div>
             <div class="eventHappening">
               <div class="d-flex align-items-center justify-content-between">
                 <div class="eventTitle">
-                  <span>09:35 - 10:35 am</span>
+                  <span>09:35 - 10:35 </span>
                   <span
                     >Panel Discussion: The Influencers Talks: The growing importance of
                     influencer marketing
@@ -569,17 +569,17 @@
                   </span>
                   <span class="font-weight-bold d-block mx-4"> Speakers: </span>
                   <li class="m-4">
-                    <b class="mx-1">Hawra Al Farsi</b>: Influencer, TV Host
+                    <b class="mx-1">Hawra Al Farsi</b> : Influencer, TV Host
                   </li>
                   <li class="m-4">
-                    <b class="mx-1">Taj Noor</b>: Influencer, TV & Radio Presenter
+                    <b class="mx-1">Taj Noor</b> : Influencer, TV & Radio Presenter
                   </li>
                   <li class="m-4">
-                    <b class="mx-1">Ibtihal Al Zadjali</b>: Influencer, Omani Media
+                    <b class="mx-1">Ibtihal Al Zadjali</b> : Influencer, Omani Media
                     Personality
                   </li>
                   <li class="m-4">
-                    <b class="mx-1">Maged Farrag</b> , Digital Media Evangelist
+                    <b class="mx-1">Maged Farrag</b> : Digital Media Evangelist
                   </li>
                 </span>
               </p>
@@ -587,7 +587,7 @@
             <div class="eventHappening">
               <div class="d-flex align-items-center justify-content-between">
                 <div class="eventTitle">
-                  <span>10:35 - 11:00 am</span>
+                  <span>10:35 - 11:00 </span>
                   <span>Morning Break</span>
                 </div>
               </div>
@@ -595,7 +595,7 @@
             <div class="eventHappening">
               <div class="d-flex align-items-center justify-content-between">
                 <div class="eventTitle">
-                  <span>11:00 - 12:00 am</span>
+                  <span>11:00 - 12:00 </span>
                   <span>Panel Discussion: </span>
                 </div>
                 <span
@@ -648,7 +648,7 @@
             <div class="eventHappening">
               <div class="d-flex align-items-center justify-content-between">
                 <div class="eventTitle">
-                  <span>12:00 - 12:30 am</span>
+                  <span>12:00 - 12:30 </span>
                   <span>Keynote: The Power of Words </span>
                 </div>
                 <span
@@ -692,7 +692,7 @@
             <div class="eventHappening">
               <div class="d-flex align-items-center justify-content-between">
                 <div class="eventTitle">
-                  <span>12:30- 13:00 am</span>
+                  <span>12:30- 13:00 </span>
                   <span>Boosting social media profiles by quality video production </span>
                 </div>
                 <span
@@ -743,8 +743,7 @@
                 <div class="eventTitle">
                   <span>14:00 - 14:30</span>
                   <span
-                    >Keynote: How the landscape of brands is changing drastically with all
-                    the new possibilities that spatial computing offers
+                    >Harnessing the impact of influencer marketing in tourism by meaningful and authentic content
                   </span>
                 </div>
                 <span
@@ -771,9 +770,7 @@
               <p class="collapse" id="eventThirteen">
                 <span>
                   <span class="font-weight-bold d-block m-4">
-                    A showcase of various brands capitalizing on immersive technologies to
-                    market, sell and offer a new paradigm for product interaction. EMCEE:
-                    Tariq Al-Barwani
+                    EMCEE: Tariq Al Barwani
                   </span>
                   <!-- <li class="m-4">
                   Advertising and social media: how creativity in curating content is
@@ -781,7 +778,7 @@
                 </li> -->
                   <span class="font-weight-bold d-block mx-4"> Speakers: </span>
                   <li class="m-4">
-                    <b class="mx-1">Maged Farrag</b>: Digital media evangelist
+                    <b class="mx-1">Harith Al Shereiqi</b> : Adventurer, Travel Content Creator
                   </li>
                 </span>
               </p>

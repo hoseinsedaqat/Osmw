@@ -118,7 +118,7 @@
           <div class="col-md-2 mx-auto">
             <div class="text-center">
               <img
-                src="@/assets/Images/Millennium logo_Gold Sponsor.jpg"
+                src="@/assets/Images/Grand Millenium Logo (1)-01 2.png"
                 alt="GOLDSPONSOR"
                 class="img-own-responsive my-3"
               />
