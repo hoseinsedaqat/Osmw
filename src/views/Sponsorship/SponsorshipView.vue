@@ -102,11 +102,25 @@
             </p>
           </div>
         </div> -->
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-md-12 mx-auto my-3">
             <div class="text-center my-5">
               <router-link to="/attend" class="attendBtn">Register Here</router-link>
             </div>
+          </div>
+        </div> -->
+        <div class="row my-5">
+          <div class="col-md-12 mx-auto">
+            <h3 class="text-center font-weight-bold">GOLD SPONSOR</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-2 mx-auto">
+            <img
+              src="@/assets/Images/Millennium logo_Gold Sponsor.jpg"
+              alt="GOLDSPONSOR"
+              class="img-fluid"
+            />
           </div>
         </div>
         <div class="row">

@@ -224,7 +224,7 @@ export default {
             })
             .then((res) => {
               if (res.status === 200) {
-                this.$toast.success("Thank you for Attending");
+                this.$toast.success("Your Application is Submitted");
               }
             })
             .catch((e) => {

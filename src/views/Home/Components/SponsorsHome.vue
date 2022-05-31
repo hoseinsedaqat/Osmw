@@ -5,6 +5,16 @@
       OSMW 2022 would not be possible without a dedicated group of supporters and friends.
     </p>
     <div class="container">
+      <div class="row my-5">
+        <div class="col-md-12 mx-auto">
+          <h3 class="text-center font-weight-bold">GOLD SPONSOR</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-2 mx-auto">
+          <img src="@/assets/Images/Millennium logo_Gold Sponsor.jpg" alt="GOLDSPONSOR" class="img-fluid">
+        </div>
+      </div>
       <div class="row">
         <div class="col-md-12">
           <img src="@/assets/Images/Sponsors.png" alt="Sponosrs" class="img-fluid" />
@@ -13,7 +23,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="text-center">
-            <router-link to="/sponsors">
+            <router-link to="/sponsorship">
               <button class="sponsorsHome">BE A SPONSOR</button>
             </router-link>
           </div>

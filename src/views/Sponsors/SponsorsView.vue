@@ -132,7 +132,7 @@
         <div class="row">
           <div class="col-md-12 mx-auto text-center" id="sponsorsPartners">
             <div class="line"></div>
-            <div class="font-weight-bold">FOUNDING PARTNERS</div>
+            <div class="font-weight-bold">GOLD SPONSOR</div>
             <div class="line"></div>
           </div>
         </div>
@@ -140,7 +140,7 @@
           <div class="col-md-12">
             <div class="text-center">
               <img
-                src="@/assets/Images/SponosorsPartnes.png"
+                src="@/assets/Images/Grand Millenium Logo (1)-01 2.png"
                 alt="SponsorsPartners"
                 class="img-fuild"
               />
