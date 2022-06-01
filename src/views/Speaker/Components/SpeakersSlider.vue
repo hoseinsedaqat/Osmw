@@ -98,7 +98,7 @@ export default {
 
 .speakersImg {
   display: block;
-  width: 100%;
+  width: 402px;
   height: 402px;
 }
 
@@ -109,7 +109,7 @@ export default {
   left: 0;
   right: 0;
   height: 402px;
-  width: 100%;
+  width: 402px;
   opacity: 0;
   transition: 0.5s ease;
   background-color: #008cba;
@@ -126,7 +126,7 @@ export default {
   left: 0;
   right: 0;
   height: 402px;
-  width: 100%;
+  width: 402px;
   opacity: 0;
   transition: 0.5s ease;
   background-color: #e6007e;
