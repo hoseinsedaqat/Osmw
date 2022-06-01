@@ -1,4 +1,4 @@
-import SpeakerOne from '@/assets/Images/IMG-20220523-WA0004.jpg';
+import SpeakerOne from '@/assets/Images/HHnewPhoto.jpg';
 import SpeakerTwo from '@/assets/Images/Hala Al Zadjali.jpg';
 import SpeakerThree from '@/assets/Images/1579850100816.jpg';
 import SpeakerFour from '@/assets/Images/Maged Farrag-Creative and Managing Director at 5dVR.jpeg';

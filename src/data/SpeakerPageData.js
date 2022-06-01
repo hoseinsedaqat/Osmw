@@ -1,4 +1,4 @@
-import SpeakerOne from '@/assets/Images/IMG-20220523-WA0004.jpg';
+import SpeakerOne from '@/assets/Images/HHnewPhoto.jpg';
 import SpeakerTwo from '@/assets/Images/SpeakerNewImages/Hala Al Zadjali 496x517.jpg';
 import SpeakerThree from '@/assets/Images/SpeakerNewImages/Steve Bambury 496x517.jpg';
 import SpeakerFour from '@/assets/Images/SpeakerNewImages/Maged Farrag 496x517.jpg';
