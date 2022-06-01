@@ -43,7 +43,7 @@ const routes = [
     component: () => import('@/views/Contact/ContactView.vue')
   },
   {
-    path: '/attend',
+    path: '/attend/:form',
     name: 'Attend',
     component: () => import('@/views/Attend/AttendView.vue')
   },
