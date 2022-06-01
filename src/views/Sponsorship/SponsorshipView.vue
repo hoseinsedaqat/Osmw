@@ -9,7 +9,7 @@
           </div>
         </div> -->
         <div class="row">
-          <div class="col-md-7 mx-auto">
+          <div class="col-md-7 mx-auto my-5">
             <p class="text-center font-weight-bold">
               Oman Social Media Week 2022 aims to grow the understanding of the different
               social media tools and platforms and their impact on society, business and
