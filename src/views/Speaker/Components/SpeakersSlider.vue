@@ -2,14 +2,18 @@
   <section id="speakersSlider">
     <swiper class="swiper" :options="swiperOption">
       <swiper-slide v-for="(speaker, idx) in SpeakerData" :key="(speaker, idx)">
-        <div id="speakersMain">
-          <img :src="speaker.image" alt="" class="speakersImg" />
-          <div class="overlay text-white">
-            <div>{{ speaker.name }}</div>
-            <p>{{ speaker.career }}</p>
-            <a :href="`https://omansocialmediaweek.com/speaker/${speaker.page}`">More</a>
+        <a :href="`https://omansocialmediaweek.com/speaker/${speaker.page}`">
+          <div id="speakersMain">
+            <img :src="speaker.image" alt="" class="speakersImg" />
+            <div class="overlay text-white">
+              <div>{{ speaker.name }}</div>
+              <p>{{ speaker.career }}</p>
+              <a :href="`https://omansocialmediaweek.com/speaker/${speaker.page}`"
+                >More</a
+              >
+            </div>
           </div>
-        </div>
+        </a>
       </swiper-slide>
 
       <div class="swiper-button-prev" slot="button-prev"></div>

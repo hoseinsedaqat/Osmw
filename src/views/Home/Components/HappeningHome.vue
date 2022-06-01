@@ -481,7 +481,7 @@
                 </span>
               </div>
               <p class="collapse" id="eventSix">
-               <span class="d-block mt-4"
+               <span class="d-block mt-4 font-weight-bold"
                 >EMCEE: Q&A with Steve Bambury</span
               >
               </p>

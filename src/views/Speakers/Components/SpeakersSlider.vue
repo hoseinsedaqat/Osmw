@@ -2,7 +2,8 @@
   <section id="speakersSlider">
     <swiper class="swiper" :options="swiperOption">
       <swiper-slide v-for="(speaker, idx) in SpeakerData" :key="(speaker, idx)">
-        <div id="speakersMain">
+        <router-link :to="`/speaker/${speaker.page}`">
+          <div id="speakersMain">
           <img :src="speaker.image" alt="" class="speakersImg" />
           <div class="overlay text-white">
             <div>{{ speaker.name }}</div>
@@ -10,6 +11,7 @@
             <router-link :to="`/speaker/${speaker.page}`">More</router-link>
           </div>
         </div>
+        </router-link>
       </swiper-slide>
 
       <div class="swiper-button-prev" slot="button-prev"></div>
