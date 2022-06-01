@@ -258,12 +258,6 @@ export default {
       }
     },
   },
-  mounted(){
-    if(this.$route.params.form){
-      console.log(this.$route.params);
-      window.scrollTo({top:2150,behavior:'smooth'})
-    }
-  }
 };
 </script>
 
