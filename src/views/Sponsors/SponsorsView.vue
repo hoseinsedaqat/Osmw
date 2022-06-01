@@ -157,7 +157,7 @@
         <div class="row my-3">
           <div class="col-md-12">
             <div>
-              <img src="@/assets/Images/newSponsors.png" alt="Sponosrs" class="img-fluid" />
+              <img src="@/assets/Images/newSponsorsTwo.png" alt="Sponosrs" class="img-fluid" />
             </div>
           </div>
         </div>

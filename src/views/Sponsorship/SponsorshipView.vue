@@ -3,11 +3,11 @@
     <HeaderAppDark></HeaderAppDark>
     <section id="sponsorsView">
       <div class="container">
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-md-12 my-5">
             <h3 class="text-center font-weight-bold">SPONSORSHIP</h3>
           </div>
-        </div>
+        </div> -->
         <div class="row">
           <div class="col-md-7 mx-auto">
             <p class="text-center font-weight-bold">
@@ -115,7 +115,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-2 mx-auto">
+          <div class="col-md-3 mx-auto">
             <div class="text-center">
               <img
                 src="@/assets/Images/Grand Millenium Logo (1)-01 2.png"
@@ -126,9 +126,14 @@
           </div>
         </div>
         <div class="row">
+          <div class="col-md-12 mt-5">
+            <h3 class="text-center font-weight-bold">SPONSORSHIP</h3>
+          </div>
+        </div>
+        <div class="row">
           <div class="col-md-12 my-3">
             <img
-              src="@/assets/Images/newSponsors.png"
+              src="@/assets/Images/newSponsorsTwo.png"
               alt="MMG-BRANDS"
               class="img-fluid"
             />

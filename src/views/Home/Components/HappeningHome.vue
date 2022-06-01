@@ -245,7 +245,7 @@
                     EMCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
                     Practical Motivational Speaker
                   </span>
-                  <span class="font-weight-bold d-block mx-4"> Speakers: </span>
+                  <span class="font-weight-bold d-block mx-4"> Speakers </span>
                   <!-- <li class="m-4"><b class="mx-1">Ali Shabdar</b>, ZOHO Corporation.</li>
                   <li class="m-4">
                     <b class="mx-1">Richie Santosdiaz</b>, Fintech Thoughtleader TBC
@@ -304,7 +304,7 @@
                   <li class="m-4">
                     Internet of Things: real-time monitoring of data and insights.
                   </li>
-                  <span class="font-weight-bold d-block mx-4"> Speakers: </span>
+                  <span class="font-weight-bold d-block mx-4"> Speakers </span>
                   <li class="m-4">
                     <b class="mx-1">Steve Bambury</b>,Metaverse, Web3 and XR Consultant
                   </li>
@@ -364,7 +364,7 @@
               </div>
               <p class="collapse" id="eventThree">
                 <span>
-                  <span class="font-weight-bold d-block m-4"> Speakers: </span>
+                  <span class="font-weight-bold d-block m-4"> Speakers </span>
                   <li class="m-4">
                     <b class="mx-1">Steve Bambury</b>Metaverse, Web3 and XR Consultant
                   </li>
@@ -403,7 +403,7 @@
               <p class="collapse font-sm-own" id="eventFour">
                 <span class="font-weight-bold"> EMCEE: Tariq Al Barwani </span>
                 <span>
-                  <span class="font-weight-bold d-block m-4"> Speakers: </span>
+                  <span class="font-weight-bold d-block m-4"> Speakers </span>
                   <li class="m-4">
                     <!-- <b class="mx-1">H.H Sayyeda Basma Al Said</b> -->
                     <b class="mx-1">Mr. Arvindo Shankar</b>
@@ -444,7 +444,7 @@
               <p class="collapse font-sm-own" id="eventFive">
                 <span class="font-weight-bold"> EMCEE: Tariq Al Barwani </span>
                 <span>
-                  <span class="font-weight-bold d-block m-4"> Speakers: </span>
+                  <span class="font-weight-bold d-block m-4"> Speakers </span>
                   <li class="m-4">
                     <b class="mx-1">Steve Bambury</b>Metaverse, Web3 and XR Consultant
                   </li>
@@ -564,7 +564,7 @@
                   <span class="font-weight-bold d-block m-4">
                     Moderator: Mike Al Naji
                   </span>
-                  <span class="font-weight-bold d-block mx-4"> Speakers: </span>
+                  <span class="font-weight-bold d-block mx-4"> Speakers </span>
                   <li class="m-4">
                     <b class="mx-1">Hawra Al Farsi</b> : Influencer, TV Host
                   </li>
@@ -629,7 +629,7 @@
                   <span class="font-weight-bold d-block m-4">
                     Moderator: Mike Al Naji
                   </span>
-                  <span class="font-weight-bold d-block mx-4"> Speakers: </span>
+                  <span class="font-weight-bold d-block mx-4"> Speakers </span>
                   <li class="m-4"><b class="mx-1">Imad Al Habsi</b> | Video Creator</li>
                   <li class="m-4">
                     <b class="mx-1"> Rehab Ibrahim</b> : Founder & MD at Space| TEDx
@@ -678,7 +678,7 @@
                   <span class="font-weight-bold d-block m-4">
                     Moderator: Mike Al Naji
                   </span>
-                  <span class="font-weight-bold d-block mx-4"> Speakers: </span>
+                  <span class="font-weight-bold d-block mx-4"> Speakers </span>
                   <li class="m-4">
                     <b class="mx-1"> Rehab Ibrahim</b> : Founder & MD at Space| TEDx
                     Speaker
@@ -722,7 +722,7 @@
                   <span class="font-weight-bold d-block m-4">
                     Moderator: Mike Al Naji
                   </span>
-                  <span class="font-weight-bold d-block mx-4"> Speakers: </span>
+                  <span class="font-weight-bold d-block mx-4"> Speakers </span>
                   <li class="m-4"><b class="mx-1"> Imad Al Habsi</b> : Video Creator</li>
                 </span>
               </p>
@@ -773,7 +773,7 @@
                   Advertising and social media: how creativity in curating content is
                   impacting leads acquisition and social media engagement.
                 </li> -->
-                  <span class="font-weight-bold d-block mx-4"> Speakers: </span>
+                  <span class="font-weight-bold d-block mx-4"> Speakers </span>
                   <li class="m-4">
                     <b class="mx-1">Harith Al Shereiqi</b> : Adventurer, Travel Content Creator
                   </li>
@@ -820,7 +820,7 @@
                   Advertising and social media: how creativity in curating content is
                   impacting leads acquisition and social media engagement.
                 </li> -->
-                  <span class="font-weight-bold d-block mx-4"> Speakers: </span>
+                  <span class="font-weight-bold d-block mx-4"> Speakers </span>
                   <li class="m-4">
                     <b class="mx-1">Mike Al Naji</b>
                   </li>
@@ -843,7 +843,7 @@
                   Advertising and social media: how creativity in curating content is
                   impacting leads acquisition and social media engagement.
                 </li> -->
-                  <span class="font-weight-bold d-block mx-4"> Speakers: </span>
+                  <span class="font-weight-bold d-block mx-4"> Speakers </span>
                   <li class="m-4"><b class="mx-1">Imad Al Habsi</b> | Video Creator</li>
                 </span>
               </p>
