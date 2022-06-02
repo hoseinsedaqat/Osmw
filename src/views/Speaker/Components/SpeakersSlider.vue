@@ -118,6 +118,7 @@ export default {
   align-items: center;
   justify-content: center;
   text-align: center;
+  padding: 0 3rem;
 }
 .overlay2 {
   position: absolute;
@@ -135,6 +136,7 @@ export default {
   align-items: center;
   justify-content: center;
   text-align: center;
+  padding: 0 3rem;
 }
 
 #speakersMain:hover .overlay {

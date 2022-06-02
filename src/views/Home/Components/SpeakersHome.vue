@@ -166,7 +166,7 @@
       <!-- Row Five -->
       <div class="row no-gutters">
         <div
-          class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 offset-md-4"
+          class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6"
           id="speakersMain"
         >
           <img
@@ -178,6 +178,38 @@
           <div class="overlay text-white">
             <div>Amira Al Busaidi</div>
             <p>4IR | Consultant | Training Lead | Metaverse</p>
+            <router-link to="/speaker/AmiraAlBusaidi">More</router-link>
+          </div>
+        </div>
+        <div
+          class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6"
+          id="speakersMain"
+        >
+          <img
+            src="@/assets/Images/Mike Portrait High Res - Front.jpg"
+            alt=""
+            class="speakersImg"
+            style="height: 402px"
+          />
+          <div class="overlay text-white">
+            <div>Mike Alnaji</div>
+            <p>Director, Content Creators and Brand Partnerships, New Media Academy</p>
+            <router-link to="/speaker/AmiraAlBusaidi">More</router-link>
+          </div>
+        </div>
+        <div
+          class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6"
+          id="speakersMain"
+        >
+          <img
+            src="@/assets/Images/Mohammed Al Tamami  (1) 402.jpg"
+            alt=""
+            class="speakersImg"
+            style="height: 402px"
+          />
+          <div class="overlay text-white">
+            <div>Mohammed Al Tamami</div>
+            <p>Co-Founder and Chief Commercial Officer, Mamun</p>
             <router-link to="/speaker/AmiraAlBusaidi">More</router-link>
           </div>
         </div>
@@ -366,6 +398,34 @@
           </router-link>
           <router-link to="/speaker/AmiraAlBusaidi" class="btn btn-light w-100">
             <h4 class="text-center my-3">Amira Al Busaidi</h4>
+          </router-link>
+        </div>
+        <!-- 14 -->
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
+          <router-link to="/speaker/AmiraAlBusaidi">
+            <img
+              src="@/assets/Images/Mike Portrait High Res - Front.jpg"
+              alt=""
+              class="speakersImg"
+              style="height: 402px"
+            />
+          </router-link>
+          <router-link to="/speaker/AmiraAlBusaidi" class="btn btn-light w-100">
+            <h4 class="text-center my-3">Mike Portrait</h4>
+          </router-link>
+        </div>
+        <!-- 15 -->
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
+          <router-link to="/speaker/AmiraAlBusaidi">
+            <img
+              src="@/assets/Images/Mohammed Al Tamami  (1) 402.jpg"
+              alt=""
+              class="speakersImg"
+              style="height: 402px"
+            />
+          </router-link>
+          <router-link to="/speaker/AmiraAlBusaidi" class="btn btn-light w-100">
+            <h4 class="text-center my-3">Mohammed Al Tamami</h4>
           </router-link>
         </div>
       </div>

@@ -11,6 +11,8 @@ import SpeakerTen from '@/assets/Images/WhatsApp Image 2022-04-21 at 12.21.21 PM
 import SpeakerEleven from '@/assets/Images/NHarith AlShereiqi.jpg';
 import SpeakerTwelve from '@/assets/Images/NSaid Al Busaidi.jpg';
 import SpeakerThirteen from '@/assets/Images/Amira Al Busaidi 402x402.jpg';
+import SpeakerFourtheen from '@/assets/Images/Mike Portrait High Res - Front.jpg';
+import SpeakerFifteen from '@/assets/Images/Mohammed Al Tamami  (1) 402.jpg';
 
 export const SpeakerData = [
     {
@@ -177,6 +179,55 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         description: `Ms. Al Busaidi is the CEO and founder of MulhimVR, an innovation-based startup that introduces virtual reality (VR) into healthcare and works closely with healthcare specialists and hospitals. Sas Center for Virtual Reality (SasVR) was one the biggest projects that she has worked on in since its establishment. She is passionate about helping to develop the VR industry in Oman, empowering youth and building partnerships locally and internationally. 
  
         Ms. Al Busaidi has worked as Senior Project Specialist, System Analyst and Developer at Information Technology Authority (ITA) Oman for more than 14 years. She holds a Masters and a Bachelor’s degree in Computer Science from the Sultan Qaboos University in  Oman.
+        `
+    },
+    {
+        name: 'Mike Alnaji',
+        career: 'Director, Content Creators and Brand Partnerships, New Media Academy',
+        image: SpeakerFourtheen,
+        page: 'MikeAlnaji',
+        when: `14 June 2022`,
+        where: `Crystal Ballroom, Grand Millennium,  Muscat`,
+        description: `
+        Mike Alnaji is a native marketer with a decade of social media experience under his belt,
+        which includes digital marketing and influencer marketing. With his sharp eye for talent, he
+        is adept at cultivating thought leaders from scratch and contributing to their ongoing
+        success. Having established influencer marketing divisions in previous agency posts, his
+        record for smashing million-dollar influencer campaigns for global brands such as Nestle,
+        IKEA, Mercedes-Benz, PlayStation and Samsung are testament to his market knowledge and
+        consumer behavior insight. When he became the Head of Digital Marketing for Majid Al
+        Futtaim’s Carrefour, he built, implemented and managed the digital marketing and e-
+        commerce strategy across more than 10 markets.
+
+        Mr. Alnaji currently leads the content creators and brand partnerships division at New
+        Media Academy, launched by HH Sheikh Mohammed Bin Rashid Al Maktoum in the UAE
+        where he paves the road for content creators and brands in the MENA region with
+        marketing and business development strategies. He has contributed a great deal to the
+        success of some of the largest creators in the world.
+        `
+    },
+    {
+        name: 'Mohammed Al Tamami',
+        career: 'Co-Founder and Chief Commercial Officer, Mamun',
+        image: SpeakerFifteen,
+        page: 'MohammedAlTamami',
+        when: `13 June 2022`,
+        where: `Crystal Ballroom, Grand Millennium,  Muscat`,
+        description: `
+        Mr. Al Tamami is an entrepreneur and strategist who constantly works with leaders to bring them
+        to terms with the impact digital transformation has on their enterprises, teams, and on
+        themselves as leaders. He has held senior positions in entrepreneurship and in the corporate
+        world, such as publicly listed Galfar, one of the region&#39;s largest engineering groups, as GM of
+        IM&amp;T and has been part of the turnaround team from 2019 through 2021.
+        Mr. Al Tamami’s 13+ year career focused on sales, marketing and business development, and
+        was the first Omani to officially do consulting for a former head of state in their reelection
+        campaign, leveraging digital platforms. During his tenure at TAMNET, he acted as advisor to
+        multinational companies in Brazil, Austria, UAE, Kenya and Oman. Recently he has been involved
+        in advising corporations relating to web3 opportunities.
+        Featured in “Those Who Inspire Oman,” he is also an alumni of the Middle East Leadership
+        Academy, a network of 5,000 business leaders across the world with continental chapters.
+        He is currently Co-Founder &amp; Chief Commercial Officer at Mamun, a finance and payments
+        startup based in Oman with customers in the region.
         `
     },
 ]
