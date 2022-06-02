@@ -20,7 +20,7 @@
       <div class="row">
         <div class="col-md-12 mx-auto mt-5">
         <h3 class="text-center font-weight-bold">
-          Media Partners
+          MEDIA PARTNERS
         </h3>
       </div>
       </div>

@@ -194,7 +194,7 @@
           <div class="overlay text-white">
             <div>Mike Alnaji</div>
             <p>Director, Content Creators and Brand Partnerships, New Media Academy</p>
-            <router-link to="/speaker/AmiraAlBusaidi">More</router-link>
+            <router-link to="/speaker/MikeAlnaji">More</router-link>
           </div>
         </div>
         <div
@@ -210,7 +210,7 @@
           <div class="overlay text-white">
             <div>Mohammed Al Tamami</div>
             <p>Co-Founder and Chief Commercial Officer, Mamun</p>
-            <router-link to="/speaker/AmiraAlBusaidi">More</router-link>
+            <router-link to="/speaker/MohammedAlTamami">More</router-link>
           </div>
         </div>
       </div>
@@ -410,8 +410,8 @@
               style="height: 402px"
             />
           </router-link>
-          <router-link to="/speaker/AmiraAlBusaidi" class="btn btn-light w-100">
-            <h4 class="text-center my-3">Mike Portrait</h4>
+          <router-link to="/speaker/MikeAlnaji" class="btn btn-light w-100">
+            <h4 class="text-center my-3">Mike Alnaji</h4>
           </router-link>
         </div>
         <!-- 15 -->
@@ -424,7 +424,7 @@
               style="height: 402px"
             />
           </router-link>
-          <router-link to="/speaker/AmiraAlBusaidi" class="btn btn-light w-100">
+          <router-link to="/speaker/MohammedAlTamami" class="btn btn-light w-100">
             <h4 class="text-center my-3">Mohammed Al Tamami</h4>
           </router-link>
         </div>

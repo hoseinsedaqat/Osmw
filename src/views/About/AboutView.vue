@@ -63,10 +63,10 @@
             <h4 class="my-3">MARIE KRIS SULANGI</h4>
             <span>Events Operations</span>
           </div>
-          <div class="col-md-4 text-center mt-3">
-            <img src="@/assets/Images/Member3.png" alt="" class="img-fluid" />
-            <h4 class="my-3">MERIANA EBEF</h4>
-            <span>Influencers Relations</span>
+         <div class="col-md-4 text-center mt-3">
+            <img src="@/assets/Images/Member8.png" alt="" class="img-fluid" />
+            <h4 class="my-3">MOHAYA CHAMSEDDINE</h4>
+            <span>Creative Design & Branding </span>
           </div>
         </div>
         <div class="row mt-5">
@@ -92,10 +92,10 @@
             <h4 class="my-3">MARIA KHAIRULLA</h4>
             <span>Digital Media Strategy</span>
           </div>
-          <div class="col-md-4 text-center mt-3">
-            <img src="@/assets/Images/Member8.png" alt="" class="img-fluid" />
-            <h4 class="my-3">MOHAYA CHAMSEDDINE</h4>
-            <span>Creative Design & Branding </span>
+           <div class="col-md-4 text-center mt-3">
+            <img src="@/assets/Images/Member3.png" alt="" class="img-fluid" />
+            <h4 class="my-3">MERIANA EBEF</h4>
+            <span>Influencers Relations</span>
           </div>
           <div class="col-md-4 text-center my-3">
             <img src="@/assets/Images/Member9.png" alt="" class="img-fluid" />
