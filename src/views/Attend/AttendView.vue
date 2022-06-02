@@ -139,13 +139,13 @@
             </div>
           </div>
         </div>
-        <div class="row my-5">
+        <!-- <div class="row my-5">
           <div class="col-md-12">
             <p class="text-center">
               Which ticket is right for you? We break it down here
             </p>
           </div>
-        </div>
+        </div> -->
       </div>
       <AttendTable></AttendTable>
       <AttendForm></AttendForm>

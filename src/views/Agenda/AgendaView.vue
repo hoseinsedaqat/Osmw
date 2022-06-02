@@ -311,10 +311,10 @@
                   <li class="m-4">
                     <b class="mx-1">Steve Bambury</b>,Metaverse, Web3 and XR Consultant
                   </li>
-                  <li class="m-4">
+                  <!-- <li class="m-4">
                     <b class="mx-1">Hala Al Zadjali</b> Senior Executive of Standards, Ministry of Transport,
                     Communications &amp; Information Technology
-                  </li>
+                  </li> -->
                   <li class="m-4">
                     <b class="mx-1">Tazima Al Ghannami</b>,Senior Manager, Omantel
                   </li>
@@ -455,39 +455,10 @@
               </p>
             </div>
             <div class="eventHappening">
-              <div class="d-flex align-items-center justify-content-between">
-                <div class="eventTitle">
-                  <span>15:30 - 16:00</span>
-                  <span
-                    >Keynote: Data Analytics: evaluating ROI and forecasting performance
-                  </span>
-                </div>
-                <span
-                  data-toggle="collapse"
-                  href="#eventSix"
-                  role="button"
-                  aria-expanded="false"
-                  aria-controls="eventSix"
-                >
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="16"
-                    height="16"
-                    fill="currentColor"
-                    class="bi bi-caret-down-fill"
-                    viewBox="0 0 16 16"
-                  >
-                    <path
-                      d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"
-                    />
-                  </svg>
-                </span>
+              <div class="eventTitle">
+                <span>15:30 - 16:00</span>
+                <span>Q&A with Steve Bambury </span>
               </div>
-              <p class="collapse" id="eventSix">
-               <span class="d-block mt-4 font-weight-bold"
-                >EMCEE: Q&A with Steve Bambury</span
-              >
-              </p>
             </div>
           </div>
         </div>
@@ -639,7 +610,7 @@
                     Speaker
                   </li>
                   <li class="m-4">
-                    <b class="mx-1">Harith AlShereiqi</b> :  Adventurer| Travel content
+                    <b class="mx-1">Harith AlShereiqi</b> : Adventurer| Travel content
                     creator
                   </li>
                 </span>
@@ -743,7 +714,8 @@
                 <div class="eventTitle">
                   <span>14:00 - 14:30</span>
                   <span
-                    >Harnessing the impact of influencer marketing in tourism by meaningful and authentic content
+                    >Harnessing the impact of influencer marketing in tourism by
+                    meaningful and authentic content
                   </span>
                 </div>
                 <span
@@ -778,7 +750,8 @@
                 </li> -->
                   <span class="font-weight-bold d-block mx-4"> Speakers </span>
                   <li class="m-4">
-                    <b class="mx-1">Harith Al Shereiqi</b> : Adventurer, Travel Content Creator
+                    <b class="mx-1">Harith Al Shereiqi</b> : Adventurer, Travel Content
+                    Creator
                   </li>
                 </span>
               </p>
@@ -787,9 +760,7 @@
               <div class="d-flex align-items-center justify-content-between">
                 <div class="eventTitle">
                   <span>14:30 - 15:00</span>
-                  <span
-                    >Keynote: Influencer Marketing
-                  </span>
+                  <span>How the landscape of brands is changing drastically with all the new possibilities that spatial computing offers </span>
                 </div>
                 <span
                   data-toggle="collapse"
@@ -816,7 +787,7 @@
                 <span>
                   <span class="font-weight-bold d-block">
                     <li class="m-4">
-                      <b class="mx-1">EMCEE: Tariq Al-Barwani</b>
+                      <b class="mx-1">Moderator: Tariq Al-Barwani</b>
                     </li>
                   </span>
                   <!-- <li class="m-4">
@@ -825,7 +796,7 @@
                 </li> -->
                   <span class="font-weight-bold d-block mx-4"> Speakers </span>
                   <li class="m-4">
-                    <b class="mx-1">Mike Al Naji</b>
+                    <b class="mx-1">Maged Farrag </b> : Digital media evangelist
                   </li>
                 </span>
               </p>
@@ -833,7 +804,7 @@
             <div class="eventHappening">
               <div class="eventTitle">
                 <span>15:00 - 15:30</span>
-                <span>Q &amp; A with Mike Al Naji </span>
+                <span>Keynote: Influencer Marketing </span>
               </div>
               <p class="collapse" id="eventFiftheen">
                 <span>
@@ -847,13 +818,19 @@
                   impacting leads acquisition and social media engagement.
                 </li> -->
                   <span class="font-weight-bold d-block mx-4"> Speakers </span>
-                  <li class="m-4"><b class="mx-1">Imad Al Habsi</b> | Video Creator</li>
+                  <li class="m-4"><b class="mx-1">Mike Alnaji</b></li>
                 </span>
               </p>
             </div>
             <div class="eventHappening">
               <div class="eventTitle">
                 <span>15:30 - 16:00</span>
+                <span>Q&amp;A with Mike Alnaji </span>
+              </div>
+            </div>
+             <div class="eventHappening">
+              <div class="eventTitle">
+                <span>16:00</span>
                 <span>Event closing and networking </span>
               </div>
             </div>
