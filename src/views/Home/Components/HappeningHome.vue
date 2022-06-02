@@ -65,8 +65,8 @@
                 </svg>
               </span>
             </div>
-            <p class="collapse font-sm-own" id="hOne">
-              <span> Introduced by Hawra Al Farsi: Influencer, TV Host </span>
+            <p class="collapse mt-4" id="hOne">
+              <span> Introduced by <span class="font-weight-bold">Hawra Al Farsi</span> Influencer, TV Host </span>
             </p>
           </div>
           <div class="eventHappening">
@@ -170,7 +170,7 @@
               </span>
             </div>
             <p class="collapse font-sm-own" id="newplanOne">
-              <span> H.H. Sayyida Basma Al Said, Mental Health Counselor </span>
+              <span> <span class="font-weight-bold">H.H. Sayyida Basma Al Said</span>, Mental Health Counselor </span>
             </p>
           </div>
           <div class="eventHappening">
@@ -397,13 +397,13 @@
                 </svg>
               </span>
             </div>
-            <p class="collapse font-sm-own" id="eventFour">
-              <span class="font-weight-bold"> EMCEE: Tariq Al Barwani </span>
+            <p class="collapse mt-4" id="eventFour">
+              <span class="font-weight-bold m-4"> EMCEE: Tariq Al Barwani </span>
               <span>
                 <span class="font-weight-bold d-block m-4"> Speakers </span>
                 <li class="m-4">
                   <!-- <b class="mx-1">H.H Sayyeda Basma Al Said</b> -->
-                  <b class="mx-1">Mr. Arvindo Shankar</b>
+                  <b class="mx-1 font-weight-bold">Mr. Arvindo Shankar</b>
                 </li>
               </span>
             </p>
@@ -438,8 +438,8 @@
                 </svg>
               </span>
             </div>
-            <p class="collapse font-sm-own" id="eventFive">
-              <span class="font-weight-bold"> EMCEE: Tariq Al Barwani </span>
+            <p class="collapse mt-4" id="eventFive">
+              <span class="font-weight-bold m-4"> EMCEE: Tariq Al Barwani </span>
               <span>
                 <span class="font-weight-bold d-block m-4"> Speakers </span>
                 <li class="m-4">
