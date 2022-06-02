@@ -111,7 +111,11 @@
           <div class="col-md-12">
             <div class="form-group">
               <p>Vaccination <span class="required">*</span></p>
-              <input type="text" class="w-100" v-model="vaccination" required />
+              <!-- <input type="text" class="w-100" v-model="vaccination" required /> -->
+              <input type="radio" name="Yes" id="Yes" value="Yes" v-model="vaccination">
+              <label for="Yes" class="mx-1 mr-5">Yes</label>
+              <input type="radio" name="No" id="No" value="No" v-model="vaccination">
+              <label for="No" class="mx-1">No</label>
             </div>
           </div>
         </div>
