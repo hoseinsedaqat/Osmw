@@ -31,7 +31,7 @@
               and discuss local and global trends in social media and its vital role in
               today’s evolving digital landscape
             </p>
-            <router-link to="/attend/nice">
+            <router-link to="/attend">
               <button>REGISTER TO ATTEND</button>
             </router-link>
             <router-link to="/sponsorship">
