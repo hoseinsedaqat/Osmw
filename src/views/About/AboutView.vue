@@ -48,7 +48,7 @@
           </div>
           <div class="col-md-4 text-center mt-3">
             <img src="@/assets/Images/Member12.png" alt="" class="img-fluid" />
-            <h4 class="my-3">AMMAR GHABRIS</h4>
+            <h4 class="my-3">AMMAR GHABRISS</h4>
             <span>Management</span>
           </div>
         </div>

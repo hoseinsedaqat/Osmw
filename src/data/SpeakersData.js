@@ -72,7 +72,7 @@ She completed her undergraduate studies in Jordan and continued training at Harv
     },
     {
         name: 'Tariq Al Barwani',
-        career: 'Brand Ambassador and Founding Partner Award-Winning Technology Professional & Practical Motivational Speaker',
+        career: 'Award-Winning Technology Professional & Practical Motivational Speaker',
         image: SpeakerFive,
         page: 'MTariqAlBarwani',
         when: `13-14 June 2022`,
