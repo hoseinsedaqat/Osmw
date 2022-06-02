@@ -57,6 +57,11 @@ const routes = [
     path:'/speaker/:id',
     name:'SpeakerView',
     component: () => import('@/views/Speaker/SpeakerView.vue')
+  },
+  {
+    path:'/thankyou',
+    name:'Thankyou',
+    component: () => import('@/components/ThankyouPage.vue')
   }
 ]
 

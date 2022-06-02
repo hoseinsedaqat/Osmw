@@ -238,6 +238,7 @@ export default {
             .then((res) => {
               if (res.status === 200) {
                 this.$toast.success("Your Application is Submitted");
+                this.$router.push('/thankyou')
               }
             })
             .catch((e) => {

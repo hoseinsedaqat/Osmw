@@ -15,6 +15,7 @@
 </template>
 
 <script>
+
 import HeaderApp from "@/components/HeaderApp.vue";
 import ShowCase from "./Components/ShowcaseHome.vue";
 import InformationHome from "./Components/InformationHome.vue";
