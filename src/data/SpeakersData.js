@@ -13,6 +13,8 @@ import SpeakerTwelve from '@/assets/Images/NSaid Al Busaidi.jpg';
 import SpeakerThirteen from '@/assets/Images/Amira Al Busaidi 402x402.jpg';
 import SpeakerFourtheen from '@/assets/Images/Mike Portrait High Res - Front.jpg';
 import SpeakerFifteen from '@/assets/Images/Mohammed Al Tamami  (1) 402.jpg';
+import SpeakerSixteen from '@/assets/Images/Arvindo Shakir.jpg';
+import SpeakerSeventeen from '@/assets/Images/Salimalshuaili.jpg';
 
 export const SpeakerData = [
     {
@@ -228,6 +230,33 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         Academy, a network of 5,000 business leaders across the world with continental chapters.
         He is currently Co-Founder &amp; Chief Commercial Officer at Mamun, a finance and payments
         startup based in Oman with customers in the region.
+        `
+    },
+    {
+        name: 'Arvindo Shankar',
+        career: 'Marketing Director,   Tamimah Group',
+        image: SpeakerSixteen,
+        page: 'ArvindoShankar',
+        when: `13 June 2022`,
+        where: `Crystal Ballroom, Grand Millennium,  Muscat`,
+        description: `
+        Mr. Shankar is the Director of MarketEazy, Tamimah Telecom, and founder of Adz Network Media, which is responsible for  being the first to bring Geofencing Technology across Oman, KSA (Saudi Arabia), and India. He is also the Digital Advisor to the CDAP (Canadian Digital Adoption Plan), Government of Canada. His client list includes global brands and Fortune 500 companies. 
+        His experience and drive has allowed him to present his flagship solutions across 12+ countries. He was voted one of the top 50 Marketing Entrepreneurs in 2021 in Russia. Apart from his work at Tamimah Telecom, he is also Chief Marketing Consultant (ECE) at the Election Commission of India and a Marketing Partner at the National Association of Software and Service Companies (NASSCOM), an entity that provides support to startup business ideas in India through fundraising
+        `
+    },
+    {
+        name: 'Dr. Salim Al Shuaili',
+        career: 'Senior Executive, National Center  for Space, Artificial Intelligence & Advanced Technologies',
+        image: SpeakerSeventeen,
+        page: 'SalimAlShuaili',
+        when: `13 June 2022`,
+        where: `Crystal Ballroom, Grand Millennium,  Muscat`,
+        description: `
+        Dr. Al Shuaili is currently a senior executive at the National Center for Space, Artificial  Intelligence & Advanced Technologies. His present career aim is to work within eGovernment strategic planning and business development for transforming the services to eServices and mServices. 
+ 
+        He graduated with a Bachelor of Science (BSc) degree in Computer Science from Sultan Qaboos University, a masters degree in Business Administration (MBA) from Staffordshire University, UK, a Doctor of Philosophy (PhD) in Computer and Information Sciences and Support Services from the University of Waikato, New Zealand, and a PhD in Management Leadership, change Management, Technology Adoption Management and 4IR from Management and Science University, Malaysia. 
+ 
+        While in Malaysia, he established the Omani Students Association and was the chairperson for two years. Before his current position at the National Center for Space, Artificial  Intelligence & Advanced Technologies, he served at the Information Technology Authority-Oman for 15 years in various positions. 
         `
     },
 ]
