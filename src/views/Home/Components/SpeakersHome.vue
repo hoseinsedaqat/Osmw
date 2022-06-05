@@ -213,6 +213,38 @@
             <router-link to="/speaker/MohammedAlTamami">More</router-link>
           </div>
         </div>
+        <div
+          class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6"
+          id="speakersMain"
+        >
+          <img
+            src="@/assets/Images/Arvindo Shakir.jpg"
+            alt=""
+            class="speakersImg"
+            style="height: 402px"
+          />
+          <div class="overlay2 text-white">
+            <div>Arvindo Shankar</div>
+            <p>Marketing Director, Tamimah Group</p>
+            <router-link to="/speaker/ArvindoShankar">More</router-link>
+          </div>
+        </div>
+        <div
+          class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6"
+          id="speakersMain"
+        >
+          <img
+            src="@/assets/Images/Salimalshuaili.jpg"
+            alt=""
+            class="speakersImg"
+            style="height: 402px"
+          />
+          <div class="overlay2 text-white">
+            <div>Dr. Salim Al Shuaili</div>
+            <p>Senior Executive, National Center for Space, Artificial Intelligence & Advanced Technologies</p>
+            <router-link to="/speaker/SalimAlShuaili">More</router-link>
+          </div>
+        </div>
       </div>
     </div>
     <!-- Mobile View -->
@@ -426,6 +458,34 @@
           </router-link>
           <router-link to="/speaker/MohammedAlTamami" class="btn btn-light w-100">
             <h4 class="text-center my-3">Mohammed Al Tamami</h4>
+          </router-link>
+        </div>
+        <!-- 16 -->
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
+          <router-link to="/speaker/AmiraAlBusaidi">
+            <img
+              src="@/assets/Images/Arvindo Shakir.jpg"
+              alt=""
+              class="speakersImg"
+              style="height: 402px"
+            />
+          </router-link>
+          <router-link to="/speaker/ArvindoShankar" class="btn btn-light w-100">
+            <h4 class="text-center my-3">Arvindo Shankar</h4>
+          </router-link>
+        </div>
+        <!-- 17 -->
+        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
+          <router-link to="/speaker/AmiraAlBusaidi">
+            <img
+              src="@/assets/Images/Salimalshuaili.jpg"
+              alt=""
+              class="speakersImg"
+              style="height: 402px"
+            />
+          </router-link>
+          <router-link to="/speaker/SalimAlShuaili" class="btn btn-light w-100">
+            <h4 class="text-center my-3">Dr. Salim Al Shuaili</h4>
           </router-link>
         </div>
       </div>
