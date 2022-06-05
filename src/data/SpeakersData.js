@@ -13,8 +13,8 @@ import SpeakerTwelve from '@/assets/Images/NSaid Al Busaidi.jpg';
 import SpeakerThirteen from '@/assets/Images/Amira Al Busaidi 402x402.jpg';
 import SpeakerFourtheen from '@/assets/Images/Mike Portrait High Res - Front.jpg';
 import SpeakerFifteen from '@/assets/Images/Mohammed Al Tamami  (1) 402.jpg';
-import SpeakerSixteen from '@/assets/Images/Arvindo Shakir.jpg';
-import SpeakerSeventeen from '@/assets/Images/Salimalshuaili.jpg';
+import SpeakerSixteen from '@/assets/Images/Arvindo Shankar_photo.jpeg';
+import SpeakerSeventeen from '@/assets/Images/Dr. Salim Al Shuaili_photo.jpg';
 
 export const SpeakerData = [
     {
