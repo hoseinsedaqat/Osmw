@@ -3,7 +3,7 @@ import SpeakerTwo from '@/assets/Images/Hala Al Zadjali.jpg';
 import SpeakerThree from '@/assets/Images/1579850100816.jpg';
 import SpeakerFour from '@/assets/Images/Maged Farrag-Creative and Managing Director at 5dVR.jpeg';
 import SpeakerFive from '@/assets/Images/Tariq Al Barwani.jpg';
-import SpeakerSix from '@/assets/Images/Imad Al Habsi.jpg';
+// import SpeakerSix from '@/assets/Images/Imad Al Habsi.jpg';
 import SpeakerSeven from '@/assets/Images/Hawra Al Farsi.jpg';
 import SpeakerEight from '@/assets/Images/Taj Noor.jpg';
 import SpeakerNine from '@/assets/Images/Ibtihal Al Zadjali_photo 402x402.jpg';
@@ -85,18 +85,18 @@ She completed her undergraduate studies in Jordan and continued training at Harv
             
         Mr. Al Barwani’s activities, projects and contributions to the society have been featured in over thousands of local, GCC and international media that includes newspapers, magazines, online publications, TV and Radio since 1985. Knowledge Oman has received four awards that includes its outstanding contribution to the cause of education from the World Human Resource Development (HRD) Congress.  `
     },
-    {
-        name: 'Imad Al Habsi',
-        career: 'Video Creator & Film Director ',
-        image: SpeakerSix,
-        page: 'ImadAlHabsi',
-        when: `14 June 2022`,
-        where: `Crystal Ballroom, Grand Millennium,  Muscat`,
-        description: `Mr. Al Habsi is a known filmmaker and video creator. He also dabbles in directing, advertising and music. 
+    // {
+    //     name: 'Imad Al Habsi',
+    //     career: 'Video Creator & Film Director ',
+    //     image: SpeakerSix,
+    //     page: 'ImadAlHabsi',
+    //     when: `14 June 2022`,
+    //     where: `Crystal Ballroom, Grand Millennium,  Muscat`,
+    //     description: `Mr. Al Habsi is a known filmmaker and video creator. He also dabbles in directing, advertising and music. 
 
-        He finished his studies at the Caledonian College of Engineering. 
-        `
-    },
+    //     He finished his studies at the Caledonian College of Engineering. 
+    //     `
+    // },
     {
         name: 'Hawra Al Farsi',
         career: 'Influencer, TV Host',

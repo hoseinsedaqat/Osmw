@@ -73,22 +73,6 @@
         </div>
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img
-            src="@/assets/Images/Imad Al Habsi.jpg"
-            alt=""
-            class="speakersImg"
-            style="height: 402px"
-          />
-          <div class="overlay2 text-white">
-            <div>Imad Al Habsi</div>
-            <p>Video Creator & Film Director</p>
-            <router-link to="/speaker/ImadAlHabsi">More</router-link>
-          </div>
-        </div>
-      </div>
-      <!-- Row Three -->
-      <div class="row no-gutters">
-        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
-          <img
             src="@/assets/Images/Hawra Al Farsi.jpg"
             alt=""
             class="speakersImg h-100"
@@ -99,6 +83,23 @@
             <router-link to="/speaker/HawraAlFarsi">More</router-link>
           </div>
         </div>
+        <!-- <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
+          <img
+            src="@/assets/Images/Imad Al Habsi.jpg"
+            alt=""
+            class="speakersImg"
+            style="height: 402px"
+          />
+          <div class="overlay2 text-white">
+            <div>Imad Al Habsi</div>
+            <p>Video Creator & Film Director</p>
+            <router-link to="/speaker/ImadAlHabsi">More</router-link>
+          </div>
+        </div> -->
+      </div>
+      <!-- Row Three -->
+      <div class="row no-gutters">
+        
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img src="@/assets/Images/Taj Noor.jpg" alt="" class="speakersImg h-100" />
           <div class="overlay text-white">
@@ -120,9 +121,6 @@
             <router-link to="/speaker/IbtihalAlZadjali">More</router-link>
           </div>
         </div>
-      </div>
-      <!-- Row Four -->
-      <div class="row no-gutters">
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img
             src="@/assets/Images/WhatsApp Image 2022-04-21 at 12.21.21 PM.jpeg"
@@ -136,6 +134,10 @@
             <router-link to="/speaker/RehabIbrahim">More</router-link>
           </div>
         </div>
+      </div>
+      <!-- Row Four -->
+      <div class="row no-gutters">
+        
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6" id="speakersMain">
           <img
             src="@/assets/Images/NHarith AlShereiqi.jpg"
@@ -162,9 +164,6 @@
             <router-link to="/speaker/SaidAlBusaidi">More</router-link>
           </div>
         </div>
-      </div>
-      <!-- Row Five -->
-      <div class="row no-gutters">
         <div
           class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6"
           id="speakersMain"
@@ -181,6 +180,10 @@
             <router-link to="/speaker/AmiraAlBusaidi">More</router-link>
           </div>
         </div>
+      </div>
+      <!-- Row Five -->
+      <div class="row no-gutters">
+        
         <div
           class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6"
           id="speakersMain"
@@ -213,9 +216,6 @@
             <router-link to="/speaker/MohammedAlTamami">More</router-link>
           </div>
         </div>
-      </div>
-      <!-- Row Six -->
-      <div class="row no-gutters">
         <div
           class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6"
           id="speakersMain"
@@ -232,8 +232,12 @@
             <router-link to="/speaker/ArvindoShankar">More</router-link>
           </div>
         </div>
+      </div>
+      <!-- Row Six -->
+      <div class="row no-gutters">
+        
         <div
-          class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6"
+          class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 offset-md-4"
           id="speakersMain"
         >
           <img
@@ -324,7 +328,7 @@
           </router-link>
         </div>
         <!-- 6 -->
-        <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
+        <!-- <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <router-link to="/speaker/ImadAlHabsi">
             <img
               src="@/assets/Images/Imad Al Habsi.jpg"
@@ -336,7 +340,7 @@
           <router-link to="/speaker/ImadAlHabsi" class="btn btn-light w-100">
             <h4 class="text-center my-3">Imad Al Habsi</h4>
           </router-link>
-        </div>
+        </div> -->
         <!-- 7 -->
         <div class="col-12 col-lg-4 col-md-4 col-sm-6 col-xs-6 my-5">
           <router-link to="/speaker/HawraAlFarsi">

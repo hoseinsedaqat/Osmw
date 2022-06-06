@@ -3,7 +3,7 @@ import SpeakerTwo from '@/assets/Images/SpeakerNewImages/Hala Al Zadjali 496x517
 import SpeakerThree from '@/assets/Images/SpeakerNewImages/Steve Bambury 496x517.jpg';
 import SpeakerFour from '@/assets/Images/SpeakerNewImages/Maged Farrag 496x517.jpg';
 import SpeakerFive from '@/assets/Images/SpeakerNewImages/Tariq Al Barwani 496x517.jpg';
-import SpeakerSix from '@/assets/Images/SpeakerNewImages/Imad Al Habsi 496x517.jpg';
+// import SpeakerSix from '@/assets/Images/SpeakerNewImages/Imad Al Habsi 496x517.jpg';
 import SpeakerSeven from '@/assets/Images/SpeakerNewImages/Hawra Al Farsi 496x517.jpg';
 import SpeakerEight from '@/assets/Images/SpeakerNewImages/Taj Noor 496x517.jpg';
 import SpeakerNine from '@/assets/Images/Ibtihal Al Zadjali_photo 402x402.jpg';
@@ -104,21 +104,21 @@ She completed her undergraduate studies in Jordan and continued training at Harv
             
         Mr. Al Barwani’s activities, projects and contributions to the society have been featured in over thousands of local, GCC and international media that includes newspapers, magazines, online publications, TV and Radio since 1985. Knowledge Oman has received four awards that includes its outstanding contribution to the cause of education from the World Human Resource Development (HRD) Congress.  `
     },
-    {
-        name: 'Imad Al Habsi',
-        career: 'Video Creator & Film Director ',
-        image: SpeakerSix,
-        page: 'ImadAlHabsi',
-        when: `14 June 2022`,
-        linkedin: 'https://www.linkedin.com/in/imad-al-habsi-938317156/?originalSubdomain=om',
-        twitter: 'https://twitter.com/emadalhabsi?lang=en',
-        instagram: 'https://www.instagram.com/emad.h15/?hl=en',
-        where: `Crystal Ballroom, Grand Millennium,  Muscat`,
-        description: `Mr. Al Habsi is a known filmmaker and video creator. He also dabbles in directing, advertising and music. 
+    // {
+    //     name: 'Imad Al Habsi',
+    //     career: 'Video Creator & Film Director ',
+    //     image: SpeakerSix,
+    //     page: 'ImadAlHabsi',
+    //     when: `14 June 2022`,
+    //     linkedin: 'https://www.linkedin.com/in/imad-al-habsi-938317156/?originalSubdomain=om',
+    //     twitter: 'https://twitter.com/emadalhabsi?lang=en',
+    //     instagram: 'https://www.instagram.com/emad.h15/?hl=en',
+    //     where: `Crystal Ballroom, Grand Millennium,  Muscat`,
+    //     description: `Mr. Al Habsi is a known filmmaker and video creator. He also dabbles in directing, advertising and music. 
 
-        He finished his studies at the Caledonian College of Engineering. 
-        `
-    },
+    //     He finished his studies at the Caledonian College of Engineering. 
+    //     `
+    // },
     {
         name: 'Hawra Al Farsi',
         career: 'Influencer, TV Host',
