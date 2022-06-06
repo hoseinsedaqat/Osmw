@@ -77,7 +77,7 @@
             alt=""
             class="speakersImg h-100"
           />
-          <div class="overlay text-white">
+          <div class="overlay2 text-white">
             <div>Hawra Al Farsi</div>
             <p>Influencer, TV Host</p>
             <router-link to="/speaker/HawraAlFarsi">More</router-link>
@@ -128,7 +128,7 @@
             class="speakersImg"
             style="height: 402px"
           />
-          <div class="overlay2 text-white">
+          <div class="overlay text-white">
             <div>Rehab Ibrahim</div>
             <p>Founder & MD at Space| TEDx Speaker</p>
             <router-link to="/speaker/RehabIbrahim">More</router-link>
@@ -174,7 +174,7 @@
             class="speakersImg"
             style="height: 402px"
           />
-          <div class="overlay text-white">
+          <div class="overlay2 text-white">
             <div>Amira Al Busaidi</div>
             <p>4IR | Consultant | Training Lead | Metaverse</p>
             <router-link to="/speaker/AmiraAlBusaidi">More</router-link>
