@@ -104,8 +104,8 @@
               </div>
               <p class="collapse font-sm-own" id="eventSeven">
                 <span>
-                  H.E Talal Al Rahbi: Vice Chairman: Implementation Follow up Unit, Oman
-                  Vision 2040
+                  Ola Al Shukaili, Digital Transformation Program
+                  Oman 2040 Vision Implementation Follow-up unit
                 </span>
               </p>
             </div>
@@ -315,9 +315,9 @@
                     <b class="mx-1">Hala Al Zadjali</b> Senior Executive of Standards, Ministry of Transport,
                     Communications &amp; Information Technology
                   </li> -->
-                  <li class="m-4">
+                  <!-- <li class="m-4">
                     <b class="mx-1">Tazima Al Ghannami</b>,Senior Manager, Omantel
-                  </li>
+                  </li> -->
                   <li class="m-4">
                     <b class="mx-1 my-1">Amira AlBusaidi</b>,4IR | Consultant | Training
                     Lead | Metaverse | Entrepreneur | Researcher | Speaker | VR-Healthcare
@@ -409,7 +409,7 @@
                   <span class="font-weight-bold d-block m-4"> Speakers </span>
                   <li class="m-4">
                     <!-- <b class="mx-1">H.H Sayyeda Basma Al Said</b> -->
-                    <b class="mx-1">Mr. Arvindo Shankar</b>
+                    <b class="mx-1">Mr. Arvindo Shankar</b> : Marketing and Analytics Director, Tamimah Group
                   </li>
                 </span>
               </p>
@@ -649,9 +649,9 @@
                     EMCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
                     Practical Motivational Speaker
                   </span>
-                  <span class="font-weight-bold d-block m-4">
+                  <!-- <span class="font-weight-bold d-block m-4">
                     Moderator: Mike Al Naji
-                  </span>
+                  </span> -->
                   <span class="font-weight-bold d-block mx-4"> Speakers </span>
                   <li class="m-4">
                     <b class="mx-1"> Rehab Ibrahim</b> : Founder & MD at Space| TEDx
@@ -668,10 +668,10 @@
                 </div>
                 <span
                   data-toggle="collapse"
-                  href="#newplanTwo"
+                  href="#newplanThree"
                   role="button"
                   aria-expanded="false"
-                  aria-controls="newplanTwo"
+                  aria-controls="newplanThree"
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -687,7 +687,7 @@
                   </svg>
                 </span>
               </div>
-              <p class="collapse" id="newplanTwo">
+              <p class="collapse" id="newplanThree">
                 <span>
                   <span class="font-weight-bold d-block m-4">
                     EMCEE: Tariq Al Barwani- Award-Winning Technology Professional &amp;
