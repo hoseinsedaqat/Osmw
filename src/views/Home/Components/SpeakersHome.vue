@@ -226,7 +226,7 @@
             class="speakersImg"
             style="height: 402px"
           />
-          <div class="overlay2 text-white">
+          <div class="overlay text-white">
             <div>Arvindo Shankar</div>
             <p>Marketing Director, Tamimah Group</p>
             <router-link to="/speaker/ArvindoShankar">More</router-link>
