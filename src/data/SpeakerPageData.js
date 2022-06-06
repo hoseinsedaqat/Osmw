@@ -15,6 +15,7 @@ import SpeakerFourtheen from '@/assets/Images/Mike Portrait High Res - Front.jpg
 import SpeakerFifteen from '@/assets/Images/Mohammed Al Tamami  (1) 402.jpg';
 import SpeakerSixteen from '@/assets/Images/Arvindo Shankar_photo.jpeg';
 import SpeakerSeventeen from '@/assets/Images/Dr. Salim Al Shuaili_photo.jpg';
+import SpeakerEighteen from '@/assets/Images/Sumaiya Al Kindi_photo.jpeg';
 
 export const SpeakerData = [
     {
@@ -224,9 +225,9 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         image: SpeakerFourtheen,
         page: 'MikeAlnaji',
         when: `14 June 2022`,
-        linkedin:'https://www.linkedin.com/in/mikealnaji/',
-        twitter:'https://twitter.com/mikealnaji',
-        instagram:'https://www.instagram.com/mikealnaji/',
+        linkedin: 'https://www.linkedin.com/in/mikealnaji/',
+        twitter: 'https://twitter.com/mikealnaji',
+        instagram: 'https://www.instagram.com/mikealnaji/',
         where: `Crystal Ballroom, Grand Millennium,  Muscat`,
         description: `
         Mike Alnaji is a native marketer with a decade of social media experience under his belt,
@@ -252,8 +253,8 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         image: SpeakerFifteen,
         page: 'MohammedAlTamami',
         when: `13 June 2022`,
-        linkedin:'https://www.linkedin.com/in/mohamed-tamami/',
-        twitter:'https://twitter.com/Tamami101',
+        linkedin: 'https://www.linkedin.com/in/mohamed-tamami/',
+        twitter: 'https://twitter.com/Tamami101',
         where: `Crystal Ballroom, Grand Millennium,  Muscat`,
         description: `
         Mr. Al Tamami is an entrepreneur and strategist who constantly works with leaders to bring them
@@ -274,7 +275,9 @@ She completed her undergraduate studies in Jordan and continued training at Harv
     },
     {
         name: 'Arvindo Shankar',
-        career: 'Marketing Director,   Tamimah Group',
+        career: 'Marketing and Analytics Director',
+        linkedin: 'https://www.linkedin.com/in/arvindo-shankar-807001bb/',
+        instagram: 'https://www.instagram.com/marshall.shankar/',
         image: SpeakerSixteen,
         page: 'ArvindoShankar',
         when: `13 June 2022`,
@@ -288,6 +291,9 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         name: 'Dr. Salim Al Shuaili',
         career: 'Senior Executive, National Center  for Space, Artificial Intelligence & Advanced Technologies',
         image: SpeakerSeventeen,
+        linkedin: 'https://www.linkedin.com/in/shoaily/',
+        facebook: 'https://www.facebook.com/shoaily',
+        twitter: 'https://twitter.com/sshoaily',
         page: 'SalimAlShuaili',
         when: `13 June 2022`,
         where: `Crystal Ballroom, Grand Millennium,  Muscat`,
@@ -297,6 +303,26 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         He graduated with a Bachelor of Science (BSc) degree in Computer Science from Sultan Qaboos University, a masters degree in Business Administration (MBA) from Staffordshire University, UK, a Doctor of Philosophy (PhD) in Computer and Information Sciences and Support Services from the University of Waikato, New Zealand, and a PhD in Management Leadership, change Management, Technology Adoption Management and 4IR from Management and Science University, Malaysia. 
  
         While in Malaysia, he established the Omani Students Association and was the chairperson for two years. Before his current position at the National Center for Space, Artificial  Intelligence & Advanced Technologies, he served at the Information Technology Authority-Oman for 15 years in various positions. 
+        `
+    },
+    {
+        name: 'Sumaiya Al Kindi',
+        career: 'Senior Media and Communications Specialist, Ministry of Technology and Communicationss',
+        image: SpeakerEighteen,
+        instagram: 'https://www.linkedin.com/in/sumaiya-al-kindi-a8176319b/?originalSubdomain=om',
+        twitter: 'https://twitter.com/sumaiyakindi',
+        page: 'SumaiyaAlKindi',
+        when: `13 June 2022`,
+        where: `Crystal Ballroom, Grand Millennium,  Muscat`,
+        description: `
+        Ms. Al Kindi is a certified change management practitioner, content creator and editor. She is
+        currently senior media and communications specialist at the Ministry of Technology and
+        Communications.
+        She graduated with a Bachelor in English degree from the Sultan Qaboos University, Muscat,
+        Oman. She received her change management certification from the Change Management
+        Foundation, APMG International. Among her list of certificates are from the International School
+        of Communication (ISOC) for strategic communications and PR and Al Jazeera Media Training &amp;
+        Development Centre for media content strategic planning.
         `
     },
 ]

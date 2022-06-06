@@ -48,11 +48,11 @@
             <p class="text-center my-5">
               <b class="font-weight-bold">Earn </b> a certificate of Attendance from Muscat Media Group
             </p>
-            <div class="text-center my-5">
+            <!-- <div class="text-center my-5">
               <a href="#attendForm">
                 <button class="attendBtn">REGISTER BELOW</button>
               </a>
-            </div>
+            </div> -->
             <p class="text-center my-5 text-center">
               <b>Who can attend OSMW 2022 ?</b>
             </p>
