@@ -17,26 +17,32 @@
             <router-link to="/">Home</router-link>
           </li>
           <li>
-            <router-link to="/agenda">Agenda</router-link>
+            <!-- <router-link to="/agenda">Agenda</router-link> -->
+            <router-link to="/#0">Agenda</router-link>
           </li>
           <li>
-            <router-link to="/about-us">About Us</router-link>
+            <!-- <router-link to="/about-us">About Us</router-link> -->
+            <router-link to="/#1">About Us</router-link>
           </li>
           <li>
-            <router-link to="/speakers">Speakers</router-link>
+            <!-- <router-link to="/speakers">Speakers</router-link> -->
+            <router-link to="/#2">Speakers</router-link>
           </li>
           <li>
-            <router-link to="/sponsors">Sponsors</router-link>
+            <!-- <router-link to="/sponsors">Sponsors</router-link> -->
+            <router-link to="/#3">Sponsors</router-link>
           </li>
           <!-- <li>
             <router-link to="/media">Media</router-link>
           </li> -->
           <li>
-            <router-link to="/contact-us">Contact Us</router-link>
+            <!-- <router-link to="/contact-us">Contact Us</router-link> -->
+            <router-link to="/#4">Contact Us</router-link>
           </li>
           <li>
             <button>
-              <router-link to="/attend">Attend</router-link>
+              <!-- <router-link to="/attend">Attend</router-link> -->
+              <router-link to="/#5">Attend</router-link>
             </button>
           </li>
         </ul>
@@ -64,26 +70,32 @@
             <router-link class="nav-link" to="/">Home</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/agenda">Agenda</router-link>
+            <!-- <router-link class="nav-link" to="/agenda">Agenda</router-link> -->
+            <router-link class="nav-link" to="/#0">Agenda</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/about-us">About Us</router-link>
+            <!-- <router-link class="nav-link" to="/about-us">About Us</router-link> -->
+            <router-link class="nav-link" to="/#1">About Us</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/speakers">Speakers</router-link>
+            <!-- <router-link class="nav-link" to="/speakers">Speakers</router-link> -->
+            <router-link class="nav-link" to="/#2">Speakers</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/sponsors">Sponsors</router-link>
+            <!-- <router-link class="nav-link" to="/sponsors">Sponsors</router-link> -->
+            <router-link class="nav-link" to="/#3">Sponsors</router-link>
           </li>
           <!-- <li class="nav-item">
             <router-link class="nav-link" to="/media">Media</router-link>
           </li> -->
           <li class="nav-item">
-            <router-link class="nav-link" to="/contact-us">Contact Us</router-link>
+            <!-- <router-link class="nav-link" to="/contact-us">Contact Us</router-link> -->
+            <router-link class="nav-link" to="/#4">Contact Us</router-link>
           </li>
           <li class="nav-item">
             <button class="hamburgerBtn">
-              <router-link to="/attend">Attend</router-link>
+              <!-- <router-link to="/attend">Attend</router-link> -->
+              <router-link to="/#5">Attend</router-link>
             </button>
           </li>
         </ul>
