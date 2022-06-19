@@ -1,10 +1,6 @@
 <template>
   <section id="home">
-    <div id="myNav" class="overlay">
-      <!-- Button to close the overlay navigation -->
-      <!-- <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a> -->
-
-      <!-- Overlay content -->
+    <!-- <div id="myNav" class="overlay">
       <div class="overlay-content">
         <div class="container">
           <div class="row">
@@ -38,7 +34,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <HeaderApp></HeaderApp>
     <ShowCase></ShowCase>
     <InformationHome></InformationHome>

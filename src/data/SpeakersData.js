@@ -2,7 +2,7 @@ import SpeakerOne from '@/assets/Images/HHnewPhoto.jpg';
 import SpeakerTwo from '@/assets/Images/Hala Al Zadjali.jpg';
 import SpeakerThree from '@/assets/Images/1579850100816.jpg';
 import SpeakerFour from '@/assets/Images/Maged Farrag-Creative and Managing Director at 5dVR.jpeg';
-import SpeakerFive from '@/assets/Images/Tariq Al Barwani.jpg';
+// import SpeakerFive from '@/assets/Images/Tariq Al Barwani.jpg';
 // import SpeakerSix from '@/assets/Images/Imad Al Habsi.jpg';
 import SpeakerSeven from '@/assets/Images/Hawra Al Farsi.jpg';
 import SpeakerEight from '@/assets/Images/Taj Noor.jpg';
@@ -137,19 +137,19 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         He has published many papers and has made several contributions to numerous international conferences focusing on using technology in cultural heritage documentation. He is also a founding member of the World Association for Protection of Tangible Cultural Heritage (WATCH) during times of armed conflict.
         `
     },
-    {
-        name: 'Tariq Al Barwani',
-        career: 'Award-Winning Technology Professional & Practical Motivational Speaker',
-        image: SpeakerFive,
-        page: 'MTariqAlBarwani',
-        when: `13-14 June 2022`,
-        where: `Crystal Ballroom, Grand Millennium,  Muscat`,
-        description: `Mr. Al Barwani is a renowned multi-awarded technologist and practical motivational keynote speaker. He is the founder of Knowledge Oman, a knowledge-sharing platform aimed at transforming Oman into a knowledge-based society and which has launched 74 initiatives such as projects, workshops, seminars in the form of computer programs, events, training, media entertainment programs (TV and radio) and community initiatives in partnership with the private and government. 
+    // {
+    //     name: 'Tariq Al Barwani',
+    //     career: 'Award-Winning Technology Professional & Practical Motivational Speaker',
+    //     image: SpeakerFive,
+    //     page: 'MTariqAlBarwani',
+    //     when: `13-14 June 2022`,
+    //     where: `Crystal Ballroom, Grand Millennium,  Muscat`,
+    //     description: `Mr. Al Barwani is a renowned multi-awarded technologist and practical motivational keynote speaker. He is the founder of Knowledge Oman, a knowledge-sharing platform aimed at transforming Oman into a knowledge-based society and which has launched 74 initiatives such as projects, workshops, seminars in the form of computer programs, events, training, media entertainment programs (TV and radio) and community initiatives in partnership with the private and government. 
 
-        His projects have been awarded locally and internationally for its positive contribution to the society.
+    //     His projects have been awarded locally and internationally for its positive contribution to the society.
             
-        Mr. Al Barwani’s activities, projects and contributions to the society have been featured in over thousands of local, GCC and international media that includes newspapers, magazines, online publications, TV and Radio since 1985. Knowledge Oman has received four awards that includes its outstanding contribution to the cause of education from the World Human Resource Development (HRD) Congress.  `
-    },
+    //     Mr. Al Barwani’s activities, projects and contributions to the society have been featured in over thousands of local, GCC and international media that includes newspapers, magazines, online publications, TV and Radio since 1985. Knowledge Oman has received four awards that includes its outstanding contribution to the cause of education from the World Human Resource Development (HRD) Congress.  `
+    // },
     // {
     //     name: 'Imad Al Habsi',
     //     career: 'Video Creator & Film Director ',

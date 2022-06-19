@@ -2,7 +2,7 @@ import SpeakerOne from '@/assets/Images/HHnewPhoto.jpg';
 import SpeakerTwo from '@/assets/Images/SpeakerNewImages/Hala Al Zadjali 496x517.jpg';
 import SpeakerThree from '@/assets/Images/SpeakerNewImages/Steve Bambury 496x517.jpg';
 import SpeakerFour from '@/assets/Images/SpeakerNewImages/Maged Farrag 496x517.jpg';
-import SpeakerFive from '@/assets/Images/SpeakerNewImages/Tariq Al Barwani 496x517.jpg';
+// import SpeakerFive from '@/assets/Images/SpeakerNewImages/Tariq Al Barwani 496x517.jpg';
 // import SpeakerSix from '@/assets/Images/SpeakerNewImages/Imad Al Habsi 496x517.jpg';
 import SpeakerSeven from '@/assets/Images/SpeakerNewImages/Hawra Al Farsi 496x517.jpg';
 import SpeakerEight from '@/assets/Images/SpeakerNewImages/Taj Noor 496x517.jpg';
@@ -86,25 +86,25 @@ She completed her undergraduate studies in Jordan and continued training at Harv
         He has published many papers and has made several contributions to numerous international conferences focusing on using technology in cultural heritage documentation. He is also a founding member of the World Association for Protection of Tangible Cultural Heritage (WATCH) during times of armed conflict.
         `
     },
-    {
-        name: 'Tariq Al Barwani',
-        career: 'Award-Winning Technology Professional & Practical Motivational Speaker',
-        image: SpeakerFive,
-        page: 'MTariqAlBarwani',
-        linkedin: 'https://www.linkedin.com/in/tariqnet/',
-        twitter: 'https://twitter.com/tariqalbarwani?lang=en',
-        instagram: 'https://www.instagram.com/tariqnet/?hl=en',
-        youtube: 'https://www.youtube.com/user/TariqAlBarwani/videos?app=desktop&flow=grid&view=0&sort=da',
-        facebook: 'https://www.facebook.com/Tariq-Al-Barwani-360044338010828/',
-        website: 'https://www.tariq.net',
-        when: `13-14 June 2022`,
-        where: `Crystal Ballroom, Grand Millennium,  Muscat`,
-        description: `Mr. Al Barwani is a renowned multi-awarded technologist and practical motivational keynote speaker. He is the founder of Knowledge Oman, a knowledge-sharing platform aimed at transforming Oman into a knowledge-based society and which has launched 74 initiatives such as projects, workshops, seminars in the form of computer programs, events, training, media entertainment programs (TV and radio) and community initiatives in partnership with the private and government. 
+    // {
+    //     name: 'Tariq Al Barwani',
+    //     career: 'Award-Winning Technology Professional & Practical Motivational Speaker',
+    //     image: SpeakerFive,
+    //     page: 'MTariqAlBarwani',
+    //     linkedin: 'https://www.linkedin.com/in/tariqnet/',
+    //     twitter: 'https://twitter.com/tariqalbarwani?lang=en',
+    //     instagram: 'https://www.instagram.com/tariqnet/?hl=en',
+    //     youtube: 'https://www.youtube.com/user/TariqAlBarwani/videos?app=desktop&flow=grid&view=0&sort=da',
+    //     facebook: 'https://www.facebook.com/Tariq-Al-Barwani-360044338010828/',
+    //     website: 'https://www.tariq.net',
+    //     when: `13-14 June 2022`,
+    //     where: `Crystal Ballroom, Grand Millennium,  Muscat`,
+    //     description: `Mr. Al Barwani is a renowned multi-awarded technologist and practical motivational keynote speaker. He is the founder of Knowledge Oman, a knowledge-sharing platform aimed at transforming Oman into a knowledge-based society and which has launched 74 initiatives such as projects, workshops, seminars in the form of computer programs, events, training, media entertainment programs (TV and radio) and community initiatives in partnership with the private and government. 
 
-        His projects have been awarded locally and internationally for its positive contribution to the society.
+    //     His projects have been awarded locally and internationally for its positive contribution to the society.
             
-        Mr. Al Barwani’s activities, projects and contributions to the society have been featured in over thousands of local, GCC and international media that includes newspapers, magazines, online publications, TV and Radio since 1985. Knowledge Oman has received four awards that includes its outstanding contribution to the cause of education from the World Human Resource Development (HRD) Congress.  `
-    },
+    //     Mr. Al Barwani’s activities, projects and contributions to the society have been featured in over thousands of local, GCC and international media that includes newspapers, magazines, online publications, TV and Radio since 1985. Knowledge Oman has received four awards that includes its outstanding contribution to the cause of education from the World Human Resource Development (HRD) Congress.  `
+    // },
     // {
     //     name: 'Imad Al Habsi',
     //     career: 'Video Creator & Film Director ',
